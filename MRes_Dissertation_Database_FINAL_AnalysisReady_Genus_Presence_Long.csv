@@ -1,0 +1,1146 @@
+﻿Site_ID,Fall_Type,Taxon,Site_Name,Latitude,Longitude
+SITE0001,Whale,Bathyfauvelia,São Paulo Ridge,-28.5186516666666,-41.6568283333333
+SITE0001,Whale,Bathykurila,São Paulo Ridge,-28.5186516666666,-41.6568283333333
+SITE0001,Whale,Capitella,São Paulo Ridge,-28.5186516666666,-41.6568283333333
+SITE0001,Whale,Hesiocaeca,São Paulo Ridge,-28.5186516666666,-41.6568283333333
+SITE0001,Whale,Lindaspio,São Paulo Ridge,-28.5186516666666,-41.6568283333333
+SITE0001,Whale,Malletia,São Paulo Ridge,-28.5186516666666,-41.6568283333333
+SITE0001,Whale,Microphthalmus,São Paulo Ridge,-28.5186516666666,-41.6568283333333
+SITE0001,Whale,Munidopsis,São Paulo Ridge,-28.5186516666666,-41.6568283333333
+SITE0001,Whale,Neanthes,São Paulo Ridge,-28.5186516666666,-41.6568283333333
+SITE0001,Whale,Ophryotrocha,São Paulo Ridge,-28.5186516666666,-41.6568283333333
+SITE0001,Whale,Osedax,São Paulo Ridge,-28.5186516666666,-41.6568283333333
+SITE0001,Whale,Pleijelius,São Paulo Ridge,-28.5186516666666,-41.6568283333333
+SITE0001,Whale,Prionospio,São Paulo Ridge,-28.5186516666666,-41.6568283333333
+SITE0001,Whale,Raphidrilus,São Paulo Ridge,-28.5186516666666,-41.6568283333333
+SITE0001,Whale,Rubyspira,São Paulo Ridge,-28.5186516666666,-41.6568283333333
+SITE0001,Whale,Sirsoe,São Paulo Ridge,-28.5186516666666,-41.6568283333333
+SITE0001,Whale,Sphaerodoropsis,São Paulo Ridge,-28.5186516666666,-41.6568283333333
+SITE0001,Whale,Spiochaetopterus,São Paulo Ridge,-28.5186516666666,-41.6568283333333
+SITE0001,Whale,Stephonyx,São Paulo Ridge,-28.5186516666666,-41.6568283333333
+SITE0001,Whale,Tharyx,São Paulo Ridge,-28.5186516666666,-41.6568283333333
+SITE0001,Whale,Theristus,São Paulo Ridge,-28.5186516666666,-41.6568283333333
+SITE0001,Whale,Vigtorniella,São Paulo Ridge,-28.5186516666666,-41.6568283333333
+SITE0001,Whale,cf. Grassleia,São Paulo Ridge,-28.5186516666666,-41.6568283333333
+SITE0003,Whale,Apseudomorpha,off São Paulo,-28.0285,-43.5296666666666
+SITE0003,Whale,Capitella,off São Paulo,-28.0285,-43.5296666666666
+SITE0003,Whale,Cordesia,off São Paulo,-28.0285,-43.5296666666666
+SITE0003,Whale,Hyalogyrina,off São Paulo,-28.0285,-43.5296666666666
+SITE0003,Whale,Idas,off São Paulo,-28.0285,-43.5296666666666
+SITE0003,Whale,Lindaspio,off São Paulo,-28.0285,-43.5296666666666
+SITE0003,Whale,Lusitanops,off São Paulo,-28.0285,-43.5296666666666
+SITE0003,Whale,Munidopsis,off São Paulo,-28.0285,-43.5296666666666
+SITE0003,Whale,Ophryotrocha,off São Paulo,-28.0285,-43.5296666666666
+SITE0003,Whale,Osedax,off São Paulo,-28.0285,-43.5296666666666
+SITE0003,Whale,Paramytha,off São Paulo,-28.0285,-43.5296666666666
+SITE0003,Whale,Prionospio,off São Paulo,-28.0285,-43.5296666666666
+SITE0003,Whale,Rubyspira,off São Paulo,-28.0285,-43.5296666666666
+SITE0003,Whale,Sirsoe,off São Paulo,-28.0285,-43.5296666666666
+SITE0003,Wood,Capitella,off São Paulo,-28.0285,-43.5296666666666
+SITE0003,Wood,Cordesia,off São Paulo,-28.0285,-43.5296666666666
+SITE0003,Wood,Cryptonome,off São Paulo,-28.0285,-43.5296666666666
+SITE0003,Wood,Hyalogyrina,off São Paulo,-28.0285,-43.5296666666666
+SITE0003,Wood,Lusitanops,off São Paulo,-28.0285,-43.5296666666666
+SITE0003,Wood,Munidopsis,off São Paulo,-28.0285,-43.5296666666666
+SITE0003,Wood,Pleijelius,off São Paulo,-28.0285,-43.5296666666666
+SITE0003,Wood,Rubyspira,off São Paulo,-28.0285,-43.5296666666666
+SITE0003,Wood,Sirsoe,off São Paulo,-28.0285,-43.5296666666666
+SITE0003,Wood,Spiniapex,off São Paulo,-28.0285,-43.5296666666666
+SITE0003,Wood,Xylophaga,off São Paulo,-28.0285,-43.5296666666666
+SITE0007,Whale,Osedax,off Santos,-26.6,-46.15
+SITE0007,Whale,Sirsoe,off Santos,-26.6,-46.15
+SITE0010,Whale,Pyropelta,off Point Sur,36.2933333333333,-122.203333333333
+SITE0011,Whale,Pyropelta,off Point Lobos,36.4366666666666,-122.263333333333
+SITE0012,Whale,Pyropelta,Monterey Bay,36.94,-122.631666666666
+SITE0015,Whale,Osteopelta,"off Southwestern Iceland, between Vestmannaeyjar and Reykjanesridge",,
+SITE0016,Whale,Idas,"off Vestmannaeyar, Southern Iceland",,
+SITE0017,Whale,Idas,off Bay of Biscay,,
+SITE0018,Whale,Idas,off Bastia (Corsica),,
+SITE0019,Whale,Idas,Bjarnarey (Southern Iceland),,
+SITE0020,Whale,Protolira,"Skeidarardypi, off southwestern Iceland",,
+SITE0021,Whale,Idas,Adriatic Sea,42.4863833333333,17.0026416666666
+SITE0022,Whale,Idas,"off Sète, Lion Gulf",,
+SITE0023,Whale,Idas,west Póvoa de Varzim (Portugal),41.4783333333333,-9.21166666666666
+SITE0024,Whale,Adipicola,North Azores,42.8333333333333,-28.6291666666666
+SITE0025,Whale,Osteopelta,Chatham Islands (New Zealand),-42.9366666666666,-175.543333333333
+SITE0025,Whale,Phascolosoma,Chatham Islands (New Zealand),-42.9366666666666,-175.543333333333
+SITE0025,Whale,Terua,Chatham Islands (New Zealand),-42.9366666666666,-175.543333333333
+SITE0026,Whale,Osteopelta,"off Mernoo Bank, Chatham Rise (New Zealand)",-43.569,176.3115
+SITE0026,Whale,Terua,"off Mernoo Bank, Chatham Rise (New Zealand)",-43.569,176.3115
+SITE0026,Whale,Xylodiscula,"off Mernoo Bank, Chatham Rise (New Zealand)",-43.569,176.3115
+SITE0027,Whale,Osteopelta,Chatham Rise (New Zealand),-44.13,178.526666666666
+SITE0027,Whale,Terua,Chatham Rise (New Zealand),-44.13,178.526666666666
+SITE0028,Whale,Paracocculina,off Banks Peninsula (New Zealand),-44.675,174.016666666666
+SITE0028,Whale,Terua,off Banks Peninsula (New Zealand),-44.675,174.016666666666
+SITE0029,Whale,Terua,East Slope Challenger Plateau (New Zealand),-39.8666666666666,167.116666666666
+SITE0030,Whale,Bruceiella,Challenger Plateau (New Zealand),-39.8866666666666,168.02
+SITE0030,Whale,Osteopelta,Challenger Plateau (New Zealand),-39.8866666666666,168.02
+SITE0030,Whale,Paracocculina,Challenger Plateau (New Zealand),-39.8866666666666,168.02
+SITE0030,Whale,Terua,Challenger Plateau (New Zealand),-39.8866666666666,168.02
+SITE0031,Whale,Terua,Chatham Rise (New Zealand),-43.8583333333333,177.863333333333
+SITE0032,Whale,Bruceiella,NE Chatham Islands (New Zealand),-43.2833333333333,174.091666666666
+SITE0033,Whale,Osedax,"ACES1, off Smith Island, Antarctic Peninsula",-63.1645,-61.689
+SITE0034,Whale,Osedax,"ACES2, off Smith Island, Antarctic Peninsula",-63.183,-61.636
+SITE0035,Whale,Dissostichus,"East Scotia Sea, Kemp Caldera",-59.6945166666666,-28.3514833333333
+SITE0035,Whale,Ilyarachna,"East Scotia Sea, Kemp Caldera",-59.6945166666666,-28.3514833333333
+SITE0035,Whale,Jaera,"East Scotia Sea, Kemp Caldera",-59.6945166666666,-28.3514833333333
+SITE0035,Whale,Lepetodrilus,"East Scotia Sea, Kemp Caldera",-59.6945166666666,-28.3514833333333
+SITE0035,Whale,Nematocarcinus,"East Scotia Sea, Kemp Caldera",-59.6945166666666,-28.3514833333333
+SITE0035,Whale,Ophryotrocha,"East Scotia Sea, Kemp Caldera",-59.6945166666666,-28.3514833333333
+SITE0035,Whale,Osedax,"East Scotia Sea, Kemp Caldera",-59.6945166666666,-28.3514833333333
+SITE0035,Whale,Parabolasia,"East Scotia Sea, Kemp Caldera",-59.6945166666666,-28.3514833333333
+SITE0035,Whale,Pyropelta,"East Scotia Sea, Kemp Caldera",-59.6945166666666,-28.3514833333333
+SITE0035,Whale,Sericosura,"East Scotia Sea, Kemp Caldera",-59.6945166666666,-28.3514833333333
+SITE0035,Whale,Sterechinus,"East Scotia Sea, Kemp Caldera",-59.6945166666666,-28.3514833333333
+SITE0037,Whale,Cirratulus,"Whalers Bay, Deception Island",-62.9888333333333,-60.5575
+SITE0037,Whale,Ophryotrocha,"Whalers Bay, Deception Island",-62.9888333333333,-60.5575
+SITE0037,Whale,Osedax,"Whalers Bay, Deception Island",-62.9888333333333,-60.5575
+SITE0039,Whale,Acharax,"Monterey Bay, CA, USA",36.6101,-122.435366666666
+SITE0039,Whale,Aldrovandia,"Monterey Bay, CA, USA",36.6101,-122.435366666666
+SITE0039,Whale,Amphiplica,"Monterey Bay, CA, USA",36.6101,-122.435366666666
+SITE0039,Whale,Amphitrite,"Monterey Bay, CA, USA",36.6101,-122.435366666666
+SITE0039,Whale,Benthocodon,"Monterey Bay, CA, USA",36.6101,-122.435366666666
+SITE0039,Whale,Benthoctopus,"Monterey Bay, CA, USA",36.6101,-122.435366666666
+SITE0039,Whale,Calyptogena,"Monterey Bay, CA, USA",36.6101,-122.435366666666
+SITE0039,Whale,Coryphaenoides,"Monterey Bay, CA, USA",36.6101,-122.435366666666
+SITE0039,Whale,Glyphanostomum,"Monterey Bay, CA, USA",36.6101,-122.435366666666
+SITE0039,Whale,Graneledone,"Monterey Bay, CA, USA",36.6101,-122.435366666666
+SITE0039,Whale,Idas,"Monterey Bay, CA, USA",36.6101,-122.435366666666
+SITE0039,Whale,Lepetodrilus,"Monterey Bay, CA, USA",36.6101,-122.435366666666
+SITE0039,Whale,Lophaster,"Monterey Bay, CA, USA",36.6101,-122.435366666666
+SITE0039,Whale,Lycenchelys,"Monterey Bay, CA, USA",36.6101,-122.435366666666
+SITE0039,Whale,Lycodapus,"Monterey Bay, CA, USA",36.6101,-122.435366666666
+SITE0039,Whale,Lycodes,"Monterey Bay, CA, USA",36.6101,-122.435366666666
+SITE0039,Whale,Munidopsis,"Monterey Bay, CA, USA",36.6101,-122.435366666666
+SITE0039,Whale,Neptunea,"Monterey Bay, CA, USA",36.6101,-122.435366666666
+SITE0039,Whale,Nicomache,"Monterey Bay, CA, USA",36.6101,-122.435366666666
+SITE0039,Whale,Osedax,"Monterey Bay, CA, USA",36.6101,-122.435366666666
+SITE0039,Whale,Pachycara,"Monterey Bay, CA, USA",36.6101,-122.435366666666
+SITE0039,Whale,Paelopadites,"Monterey Bay, CA, USA",36.6101,-122.435366666666
+SITE0039,Whale,Paelopatides,"Monterey Bay, CA, USA",36.6101,-122.435366666666
+SITE0039,Whale,Phyllochaetopterus,"Monterey Bay, CA, USA",36.6101,-122.435366666666
+SITE0039,Whale,Protodrilus,"Monterey Bay, CA, USA",36.6101,-122.435366666666
+SITE0039,Whale,Pteraster,"Monterey Bay, CA, USA",36.6101,-122.435366666666
+SITE0039,Whale,Scotoplanes,"Monterey Bay, CA, USA",36.6101,-122.435366666666
+SITE0039,Whale,Solaster,"Monterey Bay, CA, USA",36.6101,-122.435366666666
+SITE0039,Whale,Spectrunculus,"Monterey Bay, CA, USA",36.6101,-122.435366666666
+SITE0039,Whale,Stomphia,"Monterey Bay, CA, USA",36.6101,-122.435366666666
+SITE0040,Whale,Osedax,Cape Nomamisaki (Japan),31.3453333333333,129.988166666666
+SITE0042,Whale,Abra,Kosterfjord (Sweden),58.885,11.1066666666666
+SITE0042,Whale,Alvania,Kosterfjord (Sweden),58.885,11.1066666666666
+SITE0042,Whale,Brissopsis,Kosterfjord (Sweden),58.885,11.1066666666666
+SITE0042,Whale,Capulus,Kosterfjord (Sweden),58.885,11.1066666666666
+SITE0042,Whale,Cylichna,Kosterfjord (Sweden),58.885,11.1066666666666
+SITE0042,Whale,Ennucula,Kosterfjord (Sweden),58.885,11.1066666666666
+SITE0042,Whale,Hiatella,Kosterfjord (Sweden),58.885,11.1066666666666
+SITE0042,Whale,Hyas,Kosterfjord (Sweden),58.885,11.1066666666666
+SITE0042,Whale,Musculus,Kosterfjord (Sweden),58.885,11.1066666666666
+SITE0042,Whale,Mytilus,Kosterfjord (Sweden),58.885,11.1066666666666
+SITE0042,Whale,Novocrania,Kosterfjord (Sweden),58.885,11.1066666666666
+SITE0042,Whale,Nucula,Kosterfjord (Sweden),58.885,11.1066666666666
+SITE0042,Whale,Nuculana,Kosterfjord (Sweden),58.885,11.1066666666666
+SITE0042,Whale,Ophryotrocha,Kosterfjord (Sweden),58.885,11.1066666666666
+SITE0042,Whale,Osedax,Kosterfjord (Sweden),58.885,11.1066666666666
+SITE0042,Whale,Papillicardium,Kosterfjord (Sweden),58.885,11.1066666666666
+SITE0042,Whale,Pusillina,Kosterfjord (Sweden),58.885,11.1066666666666
+SITE0042,Whale,Rissoa,Kosterfjord (Sweden),58.885,11.1066666666666
+SITE0042,Whale,Spatangus,Kosterfjord (Sweden),58.885,11.1066666666666
+SITE0042,Whale,Tellimya,Kosterfjord (Sweden),58.885,11.1066666666666
+SITE0042,Whale,Thyasira,Kosterfjord (Sweden),58.885,11.1066666666666
+SITE0042,Whale,Turritellinella,Kosterfjord (Sweden),58.885,11.1066666666666
+SITE0042,Whale,Vigtorniella,Kosterfjord (Sweden),58.885,11.1066666666666
+SITE0042,Whale,Yoldiella,Kosterfjord (Sweden),58.885,11.1066666666666
+SITE0043,Whale,Amphiplica,"Monterey Bay, CA, USA",36.8029666666666,-121.994616666666
+SITE0043,Whale,Osedax,"Monterey Bay, CA, USA",36.8029666666666,-121.994616666666
+SITE0043,Whale,Parastichopus,"Monterey Bay, CA, USA",36.8029666666666,-121.994616666666
+SITE0043,Whale,Pteraster,"Monterey Bay, CA, USA",36.8029666666666,-121.994616666666
+SITE0046,Whale,Coryphaenoides,"Monterey Bay, CA, USA",36.7082666666666,-122.105266666666
+SITE0046,Whale,Farrea,"Monterey Bay, CA, USA",36.7082666666666,-122.105266666666
+SITE0046,Whale,Lophaster,"Monterey Bay, CA, USA",36.7082666666666,-122.105266666666
+SITE0046,Whale,Munidopsis,"Monterey Bay, CA, USA",36.7082666666666,-122.105266666666
+SITE0046,Whale,Osedax,"Monterey Bay, CA, USA",36.7082666666666,-122.105266666666
+SITE0046,Whale,Paelopatides,"Monterey Bay, CA, USA",36.7082666666666,-122.105266666666
+SITE0046,Whale,Parastichopus,"Monterey Bay, CA, USA",36.7082666666666,-122.105266666666
+SITE0046,Whale,Psychrolutes,"Monterey Bay, CA, USA",36.7082666666666,-122.105266666666
+SITE0049,Whale,Ophryotrocha,"Colatinas, Deception Island",-62.9913666666666,-60.61825
+SITE0050,Whale,Idas,South-West Ireland,52.5,-12
+SITE0052,Whale,Idas,South-West Ireland,,
+SITE0053,Whale,Idas,150 miles off NE Aberdeen (North Sea),,
+SITE0054,Whale,Idas,20 miles off NW Fair Isle,,
+SITE0055,Whale,Idas,East Shetlands,,
+SITE0056,Whale,Adipicola,Gulf of San Jorge,-46.1666666666666,-61.8333333333333
+SITE0057,Whale,Idas,Gascogne Gulf,47.0333333333333,-4.68333333333333
+SITE0059,Whale,Ophryotrocha,"Malene Bay, Nuuk (Greenland)",64.1569444444444,-51.6969444444444
+SITE0060,Whale,Idas,Torishima seamount (Japan),30.9241666666666,141.828666666666
+SITE0060,Whale,Munidopsis,Torishima seamount (Japan),30.9241666666666,141.828666666666
+SITE0061,Whale,Amphipoda,British Columbia,48.6754388888888,-126.0899
+SITE0061,Whale,Asteronyx,British Columbia,48.6754388888888,-126.0899
+SITE0061,Whale,Bathypathes,British Columbia,48.6754388888888,-126.0899
+SITE0061,Whale,Calyptogena,British Columbia,48.6754388888888,-126.0899
+SITE0061,Whale,Chionoecetis,British Columbia,48.6754388888888,-126.0899
+SITE0061,Whale,Coryphaenoides,British Columbia,48.6754388888888,-126.0899
+SITE0061,Whale,Halipteris,British Columbia,48.6754388888888,-126.0899
+SITE0061,Whale,Idas,British Columbia,48.6754388888888,-126.0899
+SITE0061,Whale,Lamellibrachia,British Columbia,48.6754388888888,-126.0899
+SITE0061,Whale,Neptunea,British Columbia,48.6754388888888,-126.0899
+SITE0061,Whale,Osedax,British Columbia,48.6754388888888,-126.0899
+SITE0061,Whale,Pandalopsis,British Columbia,48.6754388888888,-126.0899
+SITE0061,Whale,Paralomis,British Columbia,48.6754388888888,-126.0899
+SITE0061,Whale,Psychrolutes,British Columbia,48.6754388888888,-126.0899
+SITE0061,Whale,Scotoplanes,British Columbia,48.6754388888888,-126.0899
+SITE0061,Whale,Sebastolobus,British Columbia,48.6754388888888,-126.0899
+SITE0061,Whale,Stomphia,British Columbia,48.6754388888888,-126.0899
+SITE0061,Whale,Umbellula,British Columbia,48.6754388888888,-126.0899
+SITE0062,Whale,Idas,Capraia Island (Italy),,
+SITE0063,Whale,Idas,"Marettimo Island, Tyrrhenian Sea (Italy)",,
+SITE0064,Whale,Osedax,"Blanes canyon, Catalonia",41.6709722222222,2.8898
+SITE0066,Whale,Osedax,"Whalers Bay, Deception Island",-62.9899166666666,-60.5613888888888
+SITE0067,Whale,Bathykermadeca,Nansei-Shoto Trench (Philippine Sea),23.9093466666666,126.36227
+SITE0069,Whale,Osedax,"Hydrate Ridge, Oregon",44.669,-125.098
+SITE0072,Whale,Adipicola,Vanuatu,-15.704,167.0435
+SITE0072,Whale,Idas,Vanuatu,-15.704,167.0435
+SITE0073,Whale,Amaryllis,"Coral Seamount, Southwest Indian Ridge",-41.373,42.9106666666666
+SITE0073,Whale,Arcturides,"Coral Seamount, Southwest Indian Ridge",-41.373,42.9106666666666
+SITE0073,Whale,Austrodecus,"Coral Seamount, Southwest Indian Ridge",-41.373,42.9106666666666
+SITE0073,Whale,Austrolaenilla,"Coral Seamount, Southwest Indian Ridge",-41.373,42.9106666666666
+SITE0073,Whale,Capitella,"Coral Seamount, Southwest Indian Ridge",-41.373,42.9106666666666
+SITE0073,Whale,Cerapus,"Coral Seamount, Southwest Indian Ridge",-41.373,42.9106666666666
+SITE0073,Whale,Conicostoma,"Coral Seamount, Southwest Indian Ridge",-41.373,42.9106666666666
+SITE0073,Whale,Eualus,"Coral Seamount, Southwest Indian Ridge",-41.373,42.9106666666666
+SITE0073,Whale,Eurycope,"Coral Seamount, Southwest Indian Ridge",-41.373,42.9106666666666
+SITE0073,Whale,Flabelligella,"Coral Seamount, Southwest Indian Ridge",-41.373,42.9106666666666
+SITE0073,Whale,Hedgpethia,"Coral Seamount, Southwest Indian Ridge",-41.373,42.9106666666666
+SITE0073,Whale,Idas,"Coral Seamount, Southwest Indian Ridge",-41.373,42.9106666666666
+SITE0073,Whale,Jasmineira,"Coral Seamount, Southwest Indian Ridge",-41.373,42.9106666666666
+SITE0073,Whale,Lebbeus,"Coral Seamount, Southwest Indian Ridge",-41.373,42.9106666666666
+SITE0073,Whale,Leucothoe,"Coral Seamount, Southwest Indian Ridge",-41.373,42.9106666666666
+SITE0073,Whale,Nymphon,"Coral Seamount, Southwest Indian Ridge",-41.373,42.9106666666666
+SITE0073,Whale,Ophryotrocha,"Coral Seamount, Southwest Indian Ridge",-41.373,42.9106666666666
+SITE0073,Whale,Podocerus,"Coral Seamount, Southwest Indian Ridge",-41.373,42.9106666666666
+SITE0073,Whale,Rhynchothorax,"Coral Seamount, Southwest Indian Ridge",-41.373,42.9106666666666
+SITE0073,Whale,Seba,"Coral Seamount, Southwest Indian Ridge",-41.373,42.9106666666666
+SITE0073,Whale,Sericosura,"Coral Seamount, Southwest Indian Ridge",-41.373,42.9106666666666
+SITE0073,Wood,Amaryllis,"Coral Seamount, Southwest Indian Ridge",-41.373,42.9106666666666
+SITE0073,Wood,Capitella,"Coral Seamount, Southwest Indian Ridge",-41.373,42.9106666666666
+SITE0073,Wood,Flabelligella,"Coral Seamount, Southwest Indian Ridge",-41.373,42.9106666666666
+SITE0073,Wood,Jasmineira,"Coral Seamount, Southwest Indian Ridge",-41.373,42.9106666666666
+SITE0073,Wood,Nymphon,"Coral Seamount, Southwest Indian Ridge",-41.373,42.9106666666666
+SITE0073,Wood,Octobranchus,"Coral Seamount, Southwest Indian Ridge",-41.373,42.9106666666666
+SITE0073,Wood,Ophioscolex,"Coral Seamount, Southwest Indian Ridge",-41.373,42.9106666666666
+SITE0073,Wood,Ophryotrocha,"Coral Seamount, Southwest Indian Ridge",-41.373,42.9106666666666
+SITE0073,Wood,Perissasterias,"Coral Seamount, Southwest Indian Ridge",-41.373,42.9106666666666
+SITE0073,Wood,Podocerus,"Coral Seamount, Southwest Indian Ridge",-41.373,42.9106666666666
+SITE0073,Wood,Rhynchothorax,"Coral Seamount, Southwest Indian Ridge",-41.373,42.9106666666666
+SITE0073,Wood,Seba,"Coral Seamount, Southwest Indian Ridge",-41.373,42.9106666666666
+SITE0074,Whale,Austrolaenilla,"Atlantis Bank, Southwest Indian Ridge",-32.7118333333333,57.2718333333333
+SITE0074,Whale,Hedgpethia,"Atlantis Bank, Southwest Indian Ridge",-32.7118333333333,57.2718333333333
+SITE0074,Whale,Idas,"Atlantis Bank, Southwest Indian Ridge",-32.7118333333333,57.2718333333333
+SITE0074,Whale,Ophryotrocha,"Atlantis Bank, Southwest Indian Ridge",-32.7118333333333,57.2718333333333
+SITE0074,Whale,Polyechinus,"Atlantis Bank, Southwest Indian Ridge",-32.7118333333333,57.2718333333333
+SITE0074,Whale,Sassia,"Atlantis Bank, Southwest Indian Ridge",-32.7118333333333,57.2718333333333
+SITE0074,Whale,Seba,"Atlantis Bank, Southwest Indian Ridge",-32.7118333333333,57.2718333333333
+SITE0074,Wood,Austrodecus,"Atlantis Bank, Southwest Indian Ridge",-32.7118333333333,57.2718333333333
+SITE0074,Wood,Austrolaenilla,"Atlantis Bank, Southwest Indian Ridge",-32.7118333333333,57.2718333333333
+SITE0074,Wood,Capitella,"Atlantis Bank, Southwest Indian Ridge",-32.7118333333333,57.2718333333333
+SITE0074,Wood,Dorhynchus,"Atlantis Bank, Southwest Indian Ridge",-32.7118333333333,57.2718333333333
+SITE0074,Wood,Glycera,"Atlantis Bank, Southwest Indian Ridge",-32.7118333333333,57.2718333333333
+SITE0074,Wood,Hedgpethia,"Atlantis Bank, Southwest Indian Ridge",-32.7118333333333,57.2718333333333
+SITE0074,Wood,Idas,"Atlantis Bank, Southwest Indian Ridge",-32.7118333333333,57.2718333333333
+SITE0074,Wood,Rhynchothorax,"Atlantis Bank, Southwest Indian Ridge",-32.7118333333333,57.2718333333333
+SITE0074,Wood,Thysanometra,"Atlantis Bank, Southwest Indian Ridge",-32.7118333333333,57.2718333333333
+SITE0079,Whale,Tripoplax,"Off Concepción, Chile",-36.4833333333333,-73.5666666666666
+SITE0082,Whale,Alpheus,"off Cape Nomamisaki, Japan",31.3453333333333,129.988083333333
+SITE0082,Whale,Callianassa,"off Cape Nomamisaki, Japan",31.3453333333333,129.988083333333
+SITE0082,Whale,Cestopagurus,"off Cape Nomamisaki, Japan",31.3453333333333,129.988083333333
+SITE0082,Whale,Cocculina,"off Cape Nomamisaki, Japan",31.3453333333333,129.988083333333
+SITE0082,Whale,Edwardsia,"off Cape Nomamisaki, Japan",31.3453333333333,129.988083333333
+SITE0082,Whale,Ethusa,"off Cape Nomamisaki, Japan",31.3453333333333,129.988083333333
+SITE0082,Whale,Eumunida,"off Cape Nomamisaki, Japan",31.3453333333333,129.988083333333
+SITE0082,Whale,Gadilina,"off Cape Nomamisaki, Japan",31.3453333333333,129.988083333333
+SITE0082,Whale,Galathea,"off Cape Nomamisaki, Japan",31.3453333333333,129.988083333333
+SITE0082,Whale,Heteralepas,"off Cape Nomamisaki, Japan",31.3453333333333,129.988083333333
+SITE0082,Whale,Homalopoma,"off Cape Nomamisaki, Japan",31.3453333333333,129.988083333333
+SITE0082,Whale,Munida,"off Cape Nomamisaki, Japan",31.3453333333333,129.988083333333
+SITE0082,Whale,Octopus,"off Cape Nomamisaki, Japan",31.3453333333333,129.988083333333
+SITE0082,Whale,Pinnixa,"off Cape Nomamisaki, Japan",31.3453333333333,129.988083333333
+SITE0082,Whale,Wallucina,"off Cape Nomamisaki, Japan",31.3453333333333,129.988083333333
+SITE0085,Whale,Asteronyx,"Monterey Bay, CA, USA",36.7721,-122.0831
+SITE0086,Whale,Aphelochaeta,Santa Cruz Basin,33.45,-119.366666666666
+SITE0086,Whale,Caetozone,Santa Cruz Basin,33.45,-119.366666666666
+SITE0086,Whale,Chaetozone,Santa Cruz Basin,33.45,-119.366666666666
+SITE0086,Whale,Cumella,Santa Cruz Basin,33.45,-119.366666666666
+SITE0086,Whale,Eurysyllis,Santa Cruz Basin,33.45,-119.366666666666
+SITE0086,Whale,Exallopus,Santa Cruz Basin,33.45,-119.366666666666
+SITE0086,Whale,Gyptis,Santa Cruz Basin,33.45,-119.366666666666
+SITE0086,Whale,Hyalogyrina,Santa Cruz Basin,33.45,-119.366666666666
+SITE0086,Whale,Laonice,Santa Cruz Basin,33.45,-119.366666666666
+SITE0086,Whale,Monoculodes,Santa Cruz Basin,33.45,-119.366666666666
+SITE0086,Whale,Monticellina,Santa Cruz Basin,33.45,-119.366666666666
+SITE0086,Whale,Mugga,Santa Cruz Basin,33.45,-119.366666666666
+SITE0086,Whale,Neanthes,Santa Cruz Basin,33.45,-119.366666666666
+SITE0086,Whale,Neosabellides,Santa Cruz Basin,33.45,-119.366666666666
+SITE0086,Whale,Ophryotrocha,Santa Cruz Basin,33.45,-119.366666666666
+SITE0086,Whale,Osedax,Santa Cruz Basin,33.45,-119.366666666666
+SITE0086,Whale,Paraophryotrocha,Santa Cruz Basin,33.45,-119.366666666666
+SITE0086,Whale,Parophryotrocha,Santa Cruz Basin,33.45,-119.366666666666
+SITE0086,Whale,Parougia,Santa Cruz Basin,33.45,-119.366666666666
+SITE0086,Whale,Prionospio,Santa Cruz Basin,33.45,-119.366666666666
+SITE0086,Whale,Pseudophryotrocha,Santa Cruz Basin,33.45,-119.366666666666
+SITE0086,Whale,Sosanopsis,Santa Cruz Basin,33.45,-119.366666666666
+SITE0086,Whale,Sphaerosyllis,Santa Cruz Basin,33.45,-119.366666666666
+SITE0086,Whale,Tharyx,Santa Cruz Basin,33.45,-119.366666666666
+SITE0087,Whale,Amelinna,Santa Catalina Basin,32.2,-118.5
+SITE0087,Whale,Autolytus,Santa Catalina Basin,32.2,-118.5
+SITE0087,Whale,Caetozone,Santa Catalina Basin,32.2,-118.5
+SITE0087,Whale,Exogon,Santa Catalina Basin,32.2,-118.5
+SITE0087,Whale,Flabelliderma,Santa Catalina Basin,32.2,-118.5
+SITE0087,Whale,Gyptis,Santa Catalina Basin,32.2,-118.5
+SITE0087,Whale,Hesiocaeca,Santa Catalina Basin,32.2,-118.5
+SITE0087,Whale,Laonice,Santa Catalina Basin,32.2,-118.5
+SITE0087,Whale,Lumbrineris,Santa Catalina Basin,32.2,-118.5
+SITE0087,Whale,Neosabellides,Santa Catalina Basin,32.2,-118.5
+SITE0087,Whale,Parougia,Santa Catalina Basin,32.2,-118.5
+SITE0087,Whale,Pionosyllis,Santa Catalina Basin,32.2,-118.5
+SITE0087,Whale,Prionospio,Santa Catalina Basin,32.2,-118.5
+SITE0087,Whale,Raricirris,Santa Catalina Basin,32.2,-118.5
+SITE0087,Whale,Scionides,Santa Catalina Basin,32.2,-118.5
+SITE0087,Whale,Sphaerosyllis,Santa Catalina Basin,32.2,-118.5
+SITE0088,Whale,Chaetozone,San Diego Trough,32.5833333333333,-117.5
+SITE0088,Whale,Gyptis,San Diego Trough,32.5833333333333,-117.5
+SITE0088,Whale,Laonice,San Diego Trough,32.5833333333333,-117.5
+SITE0088,Whale,Osedax,San Diego Trough,32.5833333333333,-117.5
+SITE0088,Whale,Palpiphitime,San Diego Trough,32.5833333333333,-117.5
+SITE0088,Whale,Parougia,San Diego Trough,32.5833333333333,-117.5
+SITE0088,Whale,Prionospio,San Diego Trough,32.5833333333333,-117.5
+SITE0088,Whale,Raricirris,San Diego Trough,32.5833333333333,-117.5
+SITE0088,Whale,Sosanopsis,San Diego Trough,32.5833333333333,-117.5
+SITE0088,Whale,Subadyte mexicana,San Diego Trough,32.5833333333333,-117.5
+SITE0088,Whale,Yoldiella,San Diego Trough,32.5833333333333,-117.5
+SITE0089,Whale,Amelinna,San Nicolas Slope,33.3333333333333,-119.833333333333
+SITE0089,Whale,Amphicteis,San Nicolas Slope,33.3333333333333,-119.833333333333
+SITE0089,Whale,Anguillosyllis,San Nicolas Slope,33.3333333333333,-119.833333333333
+SITE0089,Whale,Asclerocheilus,San Nicolas Slope,33.3333333333333,-119.833333333333
+SITE0089,Whale,Autolytus,San Nicolas Slope,33.3333333333333,-119.833333333333
+SITE0089,Whale,Chaetozone,San Nicolas Slope,33.3333333333333,-119.833333333333
+SITE0089,Whale,Cyclopecten,San Nicolas Slope,33.3333333333333,-119.833333333333
+SITE0089,Whale,Eupolymnia,San Nicolas Slope,33.3333333333333,-119.833333333333
+SITE0089,Whale,Exogone,San Nicolas Slope,33.3333333333333,-119.833333333333
+SITE0089,Whale,Gyptis,San Nicolas Slope,33.3333333333333,-119.833333333333
+SITE0089,Whale,Hemipodus,San Nicolas Slope,33.3333333333333,-119.833333333333
+SITE0089,Whale,Hesiospina,San Nicolas Slope,33.3333333333333,-119.833333333333
+SITE0089,Whale,Laonice,San Nicolas Slope,33.3333333333333,-119.833333333333
+SITE0089,Whale,Lepidonotus,San Nicolas Slope,33.3333333333333,-119.833333333333
+SITE0089,Whale,Lumbrineris,San Nicolas Slope,33.3333333333333,-119.833333333333
+SITE0089,Whale,Neoleptopsis,San Nicolas Slope,33.3333333333333,-119.833333333333
+SITE0089,Whale,Neosabellides,San Nicolas Slope,33.3333333333333,-119.833333333333
+SITE0089,Whale,Paraonides,San Nicolas Slope,33.3333333333333,-119.833333333333
+SITE0089,Whale,Parougia,San Nicolas Slope,33.3333333333333,-119.833333333333
+SITE0089,Whale,Scionides,San Nicolas Slope,33.3333333333333,-119.833333333333
+SITE0089,Whale,Solemya,San Nicolas Slope,33.3333333333333,-119.833333333333
+SITE0089,Whale,Sosanopsis,San Nicolas Slope,33.3333333333333,-119.833333333333
+SITE0089,Whale,Sphaerosyllis,San Nicolas Slope,33.3333333333333,-119.833333333333
+SITE0089,Whale,Yoldiella,San Nicolas Slope,33.3333333333333,-119.833333333333
+SITE0089,Whale,Zepellenia,San Nicolas Slope,33.3333333333333,-119.833333333333
+SITE0090,Whale,Chaetozone,San Clemente Basin,32.4333333333333,-118.15
+SITE0090,Whale,Flabelliderma,San Clemente Basin,32.4333333333333,-118.15
+SITE0090,Whale,Hemipodus,San Clemente Basin,32.4333333333333,-118.15
+SITE0090,Whale,Hesiocaeca,San Clemente Basin,32.4333333333333,-118.15
+SITE0090,Whale,Laonice,San Clemente Basin,32.4333333333333,-118.15
+SITE0090,Whale,Microphthalamus,San Clemente Basin,32.4333333333333,-118.15
+SITE0090,Whale,Nereimyra,San Clemente Basin,32.4333333333333,-118.15
+SITE0090,Whale,Osedax,San Clemente Basin,32.4333333333333,-118.15
+SITE0090,Whale,Parougia,San Clemente Basin,32.4333333333333,-118.15
+SITE0090,Whale,Prionospio,San Clemente Basin,32.4333333333333,-118.15
+SITE0090,Whale,Raricirris,San Clemente Basin,32.4333333333333,-118.15
+SITE0090,Whale,Sphaerosyllis,San Clemente Basin,32.4333333333333,-118.15
+SITE0090,Whale,Yoldiella,San Clemente Basin,32.4333333333333,-118.15
+SITE0098,Wood,Caymanabyssia,Cayman Trench,19.65,-76.6166666666666
+SITE0098,Wood,Fedikovella,Cayman Trench,19.65,-76.6166666666666
+SITE0098,Wood,Lepidopleurus,Cayman Trench,19.65,-76.6166666666666
+SITE0098,Wood,Pseudococculina,Cayman Trench,19.65,-76.6166666666666
+SITE0100,Wood,Fecampia,Caribbean sea,19.23,-73.23
+SITE0101,Wood,Paleanotus,Gulf of Guinea,4.8333,-4.9666
+SITE0104,Wood,Katianira,Caribbean sea,20.1333333333333,-84.5
+SITE0104,Wood,Nereis,Caribbean sea,20.1333333333333,-84.5
+SITE0105,Wood,Cirratulus,"Caribbean sea, Southern Caribbean",11.65,-64.5833333333333
+SITE0105,Wood,Golfingia,"Caribbean sea, Southern Caribbean",11.65,-64.5833333333333
+SITE0105,Wood,Modiolus,"Caribbean sea, Southern Caribbean",11.65,-64.5833333333333
+SITE0105,Wood,Muggoides,"Caribbean sea, Southern Caribbean",11.65,-64.5833333333333
+SITE0105,Wood,Nereis,"Caribbean sea, Southern Caribbean",11.65,-64.5833333333333
+SITE0105,Wood,Xylophaga,"Caribbean sea, Southern Caribbean",11.65,-64.5833333333333
+SITE0106,Wood,Glycera,"Caribbean sea, Northern Caribbean",19.2333333333333,-73.2333333333333
+SITE0106,Wood,Modiolus,"Caribbean sea, Northern Caribbean",19.2333333333333,-73.2333333333333
+SITE0106,Wood,Nereis,"Caribbean sea, Northern Caribbean",19.2333333333333,-73.2333333333333
+SITE0106,Wood,Nothria,"Caribbean sea, Northern Caribbean",19.2333333333333,-73.2333333333333
+SITE0106,Wood,Xylophaga,"Caribbean sea, Northern Caribbean",19.2333333333333,-73.2333333333333
+SITE0107,Wood,Modiolus,Gulf of Guinea,4.83333333333333,-4.96666666666666
+SITE0107,Wood,Muggoides,Gulf of Guinea,4.83333333333333,-4.96666666666666
+SITE0107,Wood,Nereis,Gulf of Guinea,4.83333333333333,-4.96666666666666
+SITE0107,Wood,Thelepus,Gulf of Guinea,4.83333333333333,-4.96666666666666
+SITE0107,Wood,Xylophaga,Gulf of Guinea,4.83333333333333,-4.96666666666666
+SITE0108,Wood,Modiolus,"Caribbean Sea, off Trinidad",11.6166666666666,-60.2
+SITE0108,Wood,Nothria,"Caribbean Sea, off Trinidad",11.6166666666666,-60.2
+SITE0113,Wood,Golfingia,off Guiana,8.55,-54.3
+SITE0113,Wood,Xylophaga,off Guiana,8.55,-54.3
+SITE0114,Wood,Kurchatovus,Cayman Trench central,19.65,-76.61666
+SITE0117,Wood,Lepidopleurus,North Cuba,21.9666666666666,-73.7
+SITE0117,Wood,Marginaster,North Cuba,21.9666666666666,-73.7
+SITE0117,Wood,Modiolus,North Cuba,21.9666666666666,-73.7
+SITE0117,Wood,Xylophaga,North Cuba,21.9666666666666,-73.7
+SITE0118,Wood,Caymanabyssia,Cayman Trench,19.0166666666666,-80.5
+SITE0118,Wood,Fedikovella,Cayman Trench,19.0166666666666,-80.5
+SITE0118,Wood,Pseudococculina,Cayman Trench,19.0166666666666,-80.5
+SITE0119,Wood,Fedikovella,Near Lesser Antilles,13.45,-62.3166666666666
+SITE0120,Wood,Fedikovella,Cayman Trench,19.4,-76.6333333333333
+SITE0121,Wood,Fedikovella,Puerto Rico Trench,19.65,-68.3
+SITE0122,Wood,Modiolus,Panama Gulf,6.85,-79.4666666666666
+SITE0124,Wood,Xylophaga,"South of Eyrabakki, Iceland",61.5,-22.5
+SITE0128,Wood,Xylophaga,Near Lesser Antilles,13.7666666666666,-61.0833333333333
+SITE0129,Wood,Xylophaga,off Guiana,7.58333333333333,-56.35
+SITE0131,Wood,Arcoscalpellum,North Cuba,22.4,-75.43333
+SITE0218,Wood,Ambocythere,South Woods Hole (USA),39.7666666666666,-70.6833333333333
+SITE0218,Wood,Paradoxostoma,South Woods Hole (USA),39.7666666666666,-70.6833333333333
+SITE0218,Wood,Propontocypris,South Woods Hole (USA),39.7666666666666,-70.6833333333333
+SITE0218,Wood,Sclerochilus,South Woods Hole (USA),39.7666666666666,-70.6833333333333
+SITE0218,Wood,Xylophaga,South Woods Hole (USA),39.7666666666666,-70.6833333333333
+SITE0218,Wood,Xyloredo,South Woods Hole (USA),39.7666666666666,-70.6833333333333
+SITE0219,Wood,Cytherois,SE Woods Hole (USA),38.3066666666666,-69.5933333333333
+SITE0219,Wood,Propontocypris,SE Woods Hole (USA),38.3066666666666,-69.5933333333333
+SITE0219,Wood,Xylocythere,SE Woods Hole (USA),38.3066666666666,-69.5933333333333
+SITE0221,Wood,Hyalinoecia,Tongue of the Ocean (Bahamas),24.8866666666666,-77.67
+SITE0221,Wood,Propontocypris,Tongue of the Ocean (Bahamas),24.8866666666666,-77.67
+SITE0221,Wood,Xylocythere,Tongue of the Ocean (Bahamas),24.8866666666666,-77.67
+SITE0222,Wood,Cytherois,"St. Croix, off N Coast",17.9438333333333,-64.81
+SITE0222,Wood,Propontocypris,"St. Croix, off N Coast",17.9438333333333,-64.81
+SITE0222,Wood,Xylocythere,"St. Croix, off N Coast",17.9438333333333,-64.81
+SITE0223,Wood,Parapontoparta,Panama Basin,5.34416666666666,-81.9365
+SITE0223,Wood,Xylocythere,Panama Basin,5.34416666666666,-81.9365
+SITE0229,Wood,Xylophaga,Off New England,38.5083333333333,-69.1402777777777
+SITE0244,Wood,Capitella,Cape Cod,39.7783333333333,-70.68
+SITE0244,Wood,Laonice,Cape Cod,39.7783333333333,-70.68
+SITE0244,Wood,Lumbrineris,Cape Cod,39.7783333333333,-70.68
+SITE0244,Wood,Microspio,Cape Cod,39.7783333333333,-70.68
+SITE0244,Wood,Xyloredo,Cape Cod,39.7783333333333,-70.68
+SITE0245,Wood,Capitella,South of Cape Cod,38.3233333333333,-69.5933333333333
+SITE0245,Wood,Laonice,South of Cape Cod,38.3233333333333,-69.5933333333333
+SITE0245,Wood,Lumbrineris,South of Cape Cod,38.3233333333333,-69.5933333333333
+SITE0245,Wood,Microspio,South of Cape Cod,38.3233333333333,-69.5933333333333
+SITE0245,Wood,Xyloredo,South of Cape Cod,38.3233333333333,-69.5933333333333
+SITE0246,Wood,Xylopholas,"Wuzza Bare, Cascadia Basin",47.7847833333333,-127.691316666666
+SITE0252,Wood,Xylophaga,"Endeavour Segment, Juan de Fuca Ridge",47.94635,-129.097033333333
+SITE0272,Wood,Bathyceradocus,"Galathea Station 726, Gulf of Panama",5.8166666,-78.8666666666666
+SITE0274,Wood,Melita,"Galathea Station 745, Gulf of Panama",7.25,-79.4166666666666
+SITE0337,Wood,Decemunciger,"NE Pacific, Cascadia Basin",47.9577,-126.0353
+SITE0341,Wood,Xylophaga,"Santos Basin, SW Atlantic",-25.894,-45.0348333333333
+SITE0343,Wood,Xylopholas,Off New Zealand,-43.9546666666666,176.767166666666
+SITE0349,Wood,Xylopholas,Gulf of Mexico,27.7458333333333,-91.2218333333333
+SITE0349,Wood,Xyloredo,Gulf of Mexico,27.7458333333333,-91.2218333333333
+SITE0351,Wood,Xylophaga,"SE Port Dunford, South Africa",-29.0366666666666,32.3266666666666
+SITE0354,Wood,Idas,"Rendova, Solomon Islands",-8.5537,157.8983
+SITE0355,Wood,Idas,"Rendova, Solomon Islands",-8.5592,157.4578
+SITE0356,Wood,Idas,"Santa Isabel, Solomon Islands",-8.28,159.96
+SITE0357,Wood,Idas,"Telepare, Solomon Islands",-8.6807,157.4683
+SITE0358,Wood,Idas,"Vella Gulf, Solomon Islands",-8.5325,157.726944
+SITE0359,Wood,Idas,"Vella Gulf, Solomon Islands",-8.5307,157.7162
+SITE0360,Wood,Lignomodiolus,"Rendova, Solomon Islands",-8.5537,157.4198
+SITE0368,Wood,Vulcanidas,"Choiseul, Solomon Islands",-6.5935,156.188
+SITE0369,Wood,Vulcanidas,"Choiseul, Solomon Islands",-6.600278,156.19111
+SITE0370,Wood,Vulcanidas,"Santa Isabel, Solomon Islands",-8.4067,159.445
+SITE0371,Wood,Lignomodiolus,"Rendova, Solomon Islands",-8.6215,157.3657
+SITE0372,Wood,Lignomodiolus,"Rendova, Solomon Islands",-8.665,157.388333
+SITE0373,Wood,Lignomodiolus,"Rendova, Solomon Islands",-8.659,157.3863
+SITE0374,Wood,Lignomodiolus,"Telepare, Solomon Islands",-8.7773,157.5103
+SITE0375,Wood,Xylophaga,"Kumano Nada, Japan",34.07,136.3
+SITE0376,Wood,Xylophaga,"Suruga Bay, Japan",34.43,138.41
+SITE0381,Wood,Onesimoides,"Galathea Station 450, Celebes Sea",1.83333333333333,119.333333333333
+SITE0391,Wood,Ischyrocerini,Kuril– Kamchatka Trench,42.4833333333333,154.0015
+SITE0391,Wood,Katianira,Kuril– Kamchatka Trench,42.4833333333333,154.0015
+SITE0391,Wood,Xylophaga,Kuril– Kamchatka Trench,42.4833333333333,154.0015
+SITE0392,Wood,Xylophaga,Kuril– Kamchatka Trench,43.0443333333333,152.991
+SITE0393,Wood,Caymanabyssia,Kuril– Kamchatka Trench,41.2006666666666,150.097833333333
+SITE0393,Wood,Xylophaga,Kuril– Kamchatka Trench,41.2006666666666,150.097833333333
+SITE0394,Wood,Xylophaga,Kuril– Kamchatka Trench,40.2258333333333,148.112833333333
+SITE0395,Wood,Anticoma,Kuril– Kamchatka Trench,39.7245,147.1795
+SITE0395,Wood,Bathyceradocus,Kuril– Kamchatka Trench,39.7245,147.1795
+SITE0395,Wood,Caymanabyssia,Kuril– Kamchatka Trench,39.7245,147.1795
+SITE0395,Wood,Endelophos,Kuril– Kamchatka Trench,39.7245,147.1795
+SITE0395,Wood,Katianira,Kuril– Kamchatka Trench,39.7245,147.1795
+SITE0395,Wood,Metaceradocoides,Kuril– Kamchatka Trench,39.7245,147.1795
+SITE0395,Wood,Microlaimus,Kuril– Kamchatka Trench,39.7245,147.1795
+SITE0395,Wood,Munna,Kuril– Kamchatka Trench,39.7245,147.1795
+SITE0395,Wood,Neonesidea,Kuril– Kamchatka Trench,39.7245,147.1795
+SITE0395,Wood,Oncholaimus,Kuril– Kamchatka Trench,39.7245,147.1795
+SITE0395,Wood,Xylophaga,Kuril– Kamchatka Trench,39.7245,147.1795
+SITE0406,Wood,Sclerolinum,Caribbean Sea,12.9166666666666,-70.2666666666666
+SITE0408,Wood,Xylophaga,"Møre, Norway",unknown,unknown
+SITE0412,Wood,Coccopigya,"off Heda, Japan",34.9916666666666,138.716666666666
+SITE0412,Wood,Cocculina,"off Heda, Japan",34.9916666666666,138.716666666666
+SITE0415,Wood,Cocculina,"off Toi, Japan",34.945,138.721666666666
+SITE0429,Wood,Coccopigya,"off Heda, Japan",34.9933333333333,138.745
+SITE0445,Wood,Abditoconus,"Flinders CMR, Tasman Sea, Australia",-40.4732,149.3967
+SITE0446,Wood,Abditoconus,"East Gippsland CMR, Tasman Sea, Australia",-37.792,150.382
+SITE0446,Wood,Xylonora,"East Gippsland CMR, Tasman Sea, Australia",-37.792,150.382
+SITE0446,Wood,Xylophaga,"East Gippsland CMR, Tasman Sea, Australia",-37.792,150.382
+SITE0447,Wood,Spiniapex,"Hunter CMR, Tasman Sea, Australia",-32.575,153.1617
+SITE0461,Wood,Mitrella,Japan,37.3583333333333,141.686666666666
+SITE0499,Wood,Acremodonta,Japan,37.3033333333333,141.825
+SITE0501,Wood,Mitrella,Japan,38.66,142.065
+SITE0504,Wood,Sclerolinum,Gulf of Mexico,23.9,-82.35
+SITE0512,Wood,Caymanabyssia,"West of Takara, Japan",29.3333333333333,127.616666666666
+SITE0516,Wood,Amphiplica,"East of Taisho Island, Japan",25.8,125.45
+SITE0547,Wood,Asterechinus,Nile deep-sea fan Wood#5,32.53465,30.3564
+SITE0547,Wood,Bathynectes,Nile deep-sea fan Wood#5,32.53465,30.3564
+SITE0547,Wood,Glycera,Nile deep-sea fan Wood#5,32.53465,30.3564
+SITE0547,Wood,Idas,Nile deep-sea fan Wood#5,32.53465,30.3564
+SITE0547,Wood,Phascolosoma,Nile deep-sea fan Wood#5,32.53465,30.3564
+SITE0547,Wood,Xylophaga,Nile deep-sea fan Wood#5,32.53465,30.3564
+SITE0548,Wood,Asterechinus,Nile deep-sea fan Wood#2,32.53271,30.35292
+SITE0548,Wood,Bathynectes,Nile deep-sea fan Wood#2,32.53271,30.35292
+SITE0548,Wood,Cryptonome,Nile deep-sea fan Wood#2,32.53271,30.35292
+SITE0548,Wood,Glycera,Nile deep-sea fan Wood#2,32.53271,30.35292
+SITE0548,Wood,Idas,Nile deep-sea fan Wood#2,32.53271,30.35292
+SITE0548,Wood,Phascolosoma,Nile deep-sea fan Wood#2,32.53271,30.35292
+SITE0548,Wood,Xylophaga,Nile deep-sea fan Wood#2,32.53271,30.35292
+SITE0549,Wood,Asterechinus,Nile deep-sea fan Wood#1,32.53416,30.35208
+SITE0549,Wood,Bathynectes,Nile deep-sea fan Wood#1,32.53416,30.35208
+SITE0549,Wood,Cryptonome,Nile deep-sea fan Wood#1,32.53416,30.35208
+SITE0549,Wood,Glycera,Nile deep-sea fan Wood#1,32.53416,30.35208
+SITE0549,Wood,Idas,Nile deep-sea fan Wood#1,32.53416,30.35208
+SITE0549,Wood,Phascolosoma,Nile deep-sea fan Wood#1,32.53416,30.35208
+SITE0549,Wood,Xylophaga,Nile deep-sea fan Wood#1,32.53416,30.35208
+SITE0550,Wood,Coccopigya,"Nile fan, off Egypt",32.5436111111111,30.355
+SITE0550,Wood,Eupolymnia,"Nile fan, off Egypt",32.5436111111111,30.355
+SITE0550,Wood,Glycera,"Nile fan, off Egypt",32.5436111111111,30.355
+SITE0550,Wood,Idas,"Nile fan, off Egypt",32.5436111111111,30.355
+SITE0550,Wood,Nicolea,"Nile fan, off Egypt",32.5436111111111,30.355
+SITE0550,Wood,Prionospio,"Nile fan, off Egypt",32.5436111111111,30.355
+SITE0550,Wood,Thyasira,"Nile fan, off Egypt",32.5436111111111,30.355
+SITE0551,Wood,Prionospio,"Rainbow vent field, MAR",36.2377777777777,-33.9052777777777
+SITE0560,Wood,Idas,Vanuatu,-15.704,167.0435
+SITE0563,Wood,Idas,Vanuatu,-15.6869,167.0284
+SITE0564,Wood,Idas,Vanuatu,-15.663,167.0273
+SITE0565,Wood,Idas,Vanuatu,-16.0445,167.5059
+SITE0566,Wood,Idas,Solomon,-7.6033,157.7075
+SITE0567,Wood,Idas,"Bohol Sea, Philippines",9.3483,124.145
+SITE0568,Wood,Idas,Philippines,8.85,123.1667
+SITE0569,Wood,Idas,Philippines,9.4483,123.575
+SITE0570,Wood,Idas,"East off Palasan island, Philippines",14.822,123.2265
+SITE0571,Wood,Idas,"East off Palasan island, Philippines",14.975,123.079
+SITE0573,Wood,Idas,"East off Palasan island, Philippines",14.56233333333333,123.2333333333333
+SITE0574,Wood,Idas,"East off Palasan island, Philippines",15.07233333333333,123.1446666666667
+SITE0575,Wood,Idas,"East off Palasan island, Philippines",14.82316666666667,123.2195
+SITE0577,Wood,Idas,"Transect East off Luzon, Philippines",15.86766666666667,121.8266666666667
+SITE0578,Wood,Idas,"Transect East off Luzon, Philippines",15.77833333333333,121.7283333333333
+SITE0581,Wood,Idas,"Transect East off Luzon, Philippines",14.4895,121.708
+SITE0582,Wood,Idas,"Transect East off Luzon, Philippines",14.4515,121.7853333333333
+SITE0583,Wood,Idas,"Transect East off Luzon, Philippines",14.4005,121.7805
+SITE0586,Wood,Idas,"Transect East off Luzon, Philippines",16.0445,121.922
+SITE0587,Wood,Idas,"Transect East off Luzon, Philippines",15.60666666666667,121.9335
+SITE0588,Wood,Idas,"Transect East off Luzon, Philippines",15.65416666666667,121.9821666666667
+SITE0589,Wood,Lignomodiolus,"off Pamilacan Island, Philippines",9.526666666666667,123.9283333333333
+SITE0589,Wood,Vulcanidas,"off Pamilacan Island, Philippines",9.526666666666667,123.9283333333333
+SITE0590,Wood,Vulcanidas,"Bohol Sea, Philippines",9.448333333333334,123.575
+SITE0591,Wood,Vulcanidas,"Bohol Sea, Philippines",9.465,123.64
+SITE0592,Wood,Vulcanidas,"Bohol Sea, Philippines",9.501666666666667,123.6933333333333
+SITE0593,Wood,Vulcanidas,"Bohol Sea, Philippines",9.476666666666667,123.6666666666667
+SITE0594,Wood,Lignomodiolus,"Bohol Sea, Philippines",9.581666666666667,123.695
+SITE0595,Wood,Vulcanidas,"Bohol Sea, Philippines",9.65,123.7683333333333
+SITE0596,Wood,Vulcanidas,"Bohol Sea, Philippines",8.868333333333334,123.6183333333333
+SITE0597,Wood,Lignomodiolus,"Bohol Sea, Philippines",8.815,123.6266666666667
+SITE0597,Wood,Nypamodiolus,"Bohol Sea, Philippines",8.815,123.6266666666667
+SITE0598,Wood,Vulcanidas,"Bohol Sea, Philippines",8.885,123.5583333333333
+SITE0599,Wood,Lignomodiolus,"Bohol Sea, Philippines",8.645,123.2666666666667
+SITE0599,Wood,Vulcanidas,"Bohol Sea, Philippines",8.645,123.2666666666667
+SITE0600,Wood,Lignomodiolus,"Bohol Sea, Philippines",8.688333333333333,123.2966666666667
+SITE0600,Wood,Vulcanidas,"Bohol Sea, Philippines",8.688333333333333,123.2966666666667
+SITE0601,Wood,Lignomodiolus,"Bohol Sea, Philippines",8.721666666666666,123.3166666666667
+SITE0601,Wood,Vulcanidas,"Bohol Sea, Philippines",8.721666666666666,123.3166666666667
+SITE0602,Wood,Lignomodiolus,"Bohol Sea, Philippines",8.745,123.3083333333333
+SITE0603,Wood,Idas,"Santa Isabel, Solomon Islands",-8.295,160.0148333333333
+SITE0604,Wood,Idas,"Santa Isabel, Solomon Islands",-8.28,159.9671666666667
+SITE0605,Wood,Idas,"Santa Isabel, Solomon Islands",-7.70833333333333,158.4828333333333
+SITE0606,Wood,Nypamodiolus,"Choiseul island, Solomon Islands",-7.55833333333333,157.705
+SITE0607,Wood,Idas,"Vella Lavella island, Solomon Islands",-7.83533333333333,156.881
+SITE0608,Wood,Idas,"Vella Lavella island, Solomon Islands",-7.79833333333333,156.8983333333333
+SITE0609,Wood,Nypamodiolus,"Rendova island, Solomon Islands",-8.664,157.3918333333333
+SITE0610,Wood,Idas,Chesterfield islands,-20.8771666666667,160.9948333333333
+SITE0611,Wood,Idas,North Espiritu Santo,-14.9418333333333,166.9358333333333
+SITE0612,Wood,Vulcanidas,North Espiritu Santo,-15.0235,166.896
+SITE0613,Wood,Idas,North Espiritu Santo,-15.011,166.9245
+SITE0614,Wood,Idas,North Espiritu Santo,-15.0236666666667,166.896
+SITE0615,Wood,Vulcanidas,North Espiritu Santo,-14.9173333333333,166.9593333333333
+SITE0616,Wood,Vulcanidas,North Espiritu Santo,-15.1338333333333,166.8475
+SITE0617,Wood,Idas,North Espiritu Santo,-15.1483333333333,166.8931666666667
+SITE0618,Wood,Vulcanidas,North Espiritu Santo,-15.115,166.88
+SITE0619,Wood,Idas,North Espiritu Santo,-15.1366666666667,166.89
+SITE0620,Wood,Lignomodiolus,Nord West Malo Island,-15.6333333333333,167.0333333333333
+SITE0621,Wood,Lignomodiolus,Nord West Malo Island,-15.6266666666667,167.085
+SITE0622,Wood,Pectinodonta,West Malo Island,-15.6733333333333,167.0166666666667
+SITE0622,Wood,Vulcanidas,West Malo Island,-15.6733333333333,167.0166666666667
+SITE0623,Wood,Pectinodonta,West Malo Island,-15.645,167.02
+SITE0623,Wood,Vulcanidas,West Malo Island,-15.645,167.02
+SITE0624,Wood,Idas,West Malo Island,-15.688,167.0483333333333
+SITE0625,Wood,Idas,Nord Est Malekula Island,-16.0066666666667,167.6383333333333
+SITE0626,Wood,Idas,South Malekula island,-16.7213333333333,167.8073333333333
+SITE0627,Wood,Nypamodiolus,South Malekula island,-16.7208333333333,167.8476666666667
+SITE0628,Wood,Idas,Fiji,-16.658,179.616
+SITE0628,Wood,Nypamodiolus,Fiji,-16.658,179.616
+SITE0647,Wood,Leptochiton,Vanuatu,-14.8516666666667,166.8966666666667
+SITE0681,Wood,Leptochiton,"Bohol Sea, Philippines",8.941666666666666,123.545
+SITE0736,Wood,Leptochiton,Solomon Islands,-8.42666666666667,159.4316666666667
+SITE0756,Wood,Leptochiton,Solomon Islands,-7.74833333333333,156.4116666666667
+SITE0761,Wood,Leptochiton,Solomon Islands,-7.91333333333333,156.855
+SITE0774,Wood,Leptochiton,Solomon Islands,-8.69333333333333,159.6733333333333
+SITE0775,Wood,Leptochiton,Solomon Islands,-8.125,156.9966666666667
+SITE0776,Wood,Stenosemus,Solomon Islands,-7.91333333333333,156.8766666666667
+SITE0788,Wood,Eosipho,Solomon Islands,-8.4,159.366666666666
+SITE0798,Wood,Manaria,Solomon Islands,-8.6,157.433333333333
+SITE0799,Wood,Manaria,Solomon Islands,-8.43333333333333,159.433333333333
+SITE0801,Wood,Metula,Philippines,9.5,123.866666666666
+SITE0802,Wood,Pectinodonta,Vanuatu,-16.6233333333333,167.996666666666
+SITE0830,Wood,Coccopigya,Vanuatu,-16.62333,167.996666666666
+SITE0830,Wood,Idas,Vanuatu,-16.62333,167.996666666666
+SITE0830,Wood,Pectinodonta,Vanuatu,-16.62333,167.996666666666
+SITE0831,Wood,Adipicola,Vanuatu,-15.6963333333333,167.063833333333
+SITE0831,Wood,Idas,Vanuatu,-15.6963333333333,167.063833333333
+SITE0832,Wood,Capitella,"Blanes canyon, Catalonia",41.5702,2.83865
+SITE0832,Wood,Neoamphitrite,"Blanes canyon, Catalonia",41.5702,2.83865
+SITE0832,Wood,Ophryotrocha,"Blanes canyon, Catalonia",41.5702,2.83865
+SITE0832,Wood,Spiophanes,"Blanes canyon, Catalonia",41.5702,2.83865
+SITE0834,Wood,Capitella,"Blanes canyon, Catalonia",41.5208499999999,2.84701666666666
+SITE0834,Wood,Idas,"Blanes canyon, Catalonia",41.5208499999999,2.84701666666666
+SITE0834,Wood,Neoamphitrite,"Blanes canyon, Catalonia",41.5208499999999,2.84701666666666
+SITE0834,Wood,Ophryotrocha,"Blanes canyon, Catalonia",41.5208499999999,2.84701666666666
+SITE0834,Wood,Prionospio,"Blanes canyon, Catalonia",41.5208499999999,2.84701666666666
+SITE0834,Wood,Spiophanes,"Blanes canyon, Catalonia",41.5208499999999,2.84701666666666
+SITE0845,Wood,Xylophaga,"Lacaze-Duthiers canyon, France",42.5453833333333,3.42108333333333
+SITE0846,Wood,Xylophaga,"Lacaze-Duthiers canyon, France",42.5452833333333,3.42176666666666
+SITE0847,Wood,Coeloteredo,"off Miyako Island, Japan",24.9531666666666,125.954833333333
+SITE0850,Wood,Decemunciger,off Oregon,43.9036666666666,-125.170633333333
+SITE0852,Wood,Amage,Mercator mud volcano,35.2986,-6.64515
+SITE0852,Wood,Clytia,Mercator mud volcano,35.2986,-6.64515
+SITE0852,Wood,Coccopigya,Mercator mud volcano,35.2986,-6.64515
+SITE0852,Wood,Copulabyssia,Mercator mud volcano,35.2986,-6.64515
+SITE0852,Wood,Gnathia,Mercator mud volcano,35.2986,-6.64515
+SITE0852,Wood,Harpinia,Mercator mud volcano,35.2986,-6.64515
+SITE0852,Wood,Kelliella,Mercator mud volcano,35.2986,-6.64515
+SITE0852,Wood,Leptamphopus,Mercator mud volcano,35.2986,-6.64515
+SITE0852,Wood,Melinnopsis,Mercator mud volcano,35.2986,-6.64515
+SITE0852,Wood,Munna,Mercator mud volcano,35.2986,-6.64515
+SITE0852,Wood,Nebalia,Mercator mud volcano,35.2986,-6.64515
+SITE0852,Wood,Nereimyra,Mercator mud volcano,35.2986,-6.64515
+SITE0852,Wood,Ophryotrocha,Mercator mud volcano,35.2986,-6.64515
+SITE0852,Wood,Prionospio,Mercator mud volcano,35.2986,-6.64515
+SITE0852,Wood,Pseudosetia,Mercator mud volcano,35.2986,-6.64515
+SITE0852,Wood,Xylodiscula,Mercator mud volcano,35.2986,-6.64515
+SITE0852,Wood,cf. Amphiduros,Mercator mud volcano,35.2986,-6.64515
+SITE0864,Wood,Leptochiton,Taiwan,21.535,120.801666666666
+SITE0870,Wood,Amage,Mèknes and Darwin mud volcano,34.98485,-7.07373333333333
+SITE0870,Wood,Bathyxylophila,Mèknes and Darwin mud volcano,34.98485,-7.07373333333333
+SITE0870,Wood,Chelator,Mèknes and Darwin mud volcano,34.98485,-7.07373333333333
+SITE0870,Wood,Coccopigya,Mèknes and Darwin mud volcano,34.98485,-7.07373333333333
+SITE0870,Wood,Copulabyssia,Mèknes and Darwin mud volcano,34.98485,-7.07373333333333
+SITE0870,Wood,Leptamphopus,Mèknes and Darwin mud volcano,34.98485,-7.07373333333333
+SITE0870,Wood,Lissospira,Mèknes and Darwin mud volcano,34.98485,-7.07373333333333
+SITE0870,Wood,Melinnopsis,Mèknes and Darwin mud volcano,34.98485,-7.07373333333333
+SITE0870,Wood,Nebalia,Mèknes and Darwin mud volcano,34.98485,-7.07373333333333
+SITE0870,Wood,Nereimyra,Mèknes and Darwin mud volcano,34.98485,-7.07373333333333
+SITE0870,Wood,Ophryotrocha,Mèknes and Darwin mud volcano,34.98485,-7.07373333333333
+SITE0870,Wood,Prionospio,Mèknes and Darwin mud volcano,34.98485,-7.07373333333333
+SITE0870,Wood,Prochelator,Mèknes and Darwin mud volcano,34.98485,-7.07373333333333
+SITE0870,Wood,Protodrilus,Mèknes and Darwin mud volcano,34.98485,-7.07373333333333
+SITE0870,Wood,Siboglinum,Mèknes and Darwin mud volcano,34.98485,-7.07373333333333
+SITE0870,Wood,Xylodiscula,Mèknes and Darwin mud volcano,34.98485,-7.07373333333333
+SITE0870,Wood,Xyloredo,Mèknes and Darwin mud volcano,34.98485,-7.07373333333333
+SITE0870,Wood,Yoldiella,Mèknes and Darwin mud volcano,34.98485,-7.07373333333333
+SITE0870,Wood,cf. Amphiduros,Mèknes and Darwin mud volcano,34.98485,-7.07373333333333
+SITE0870,Wood,cf. Leptogyra,Mèknes and Darwin mud volcano,34.98485,-7.07373333333333
+SITE0870,Wood,cf. Obtusella,Mèknes and Darwin mud volcano,34.98485,-7.07373333333333
+SITE0871,Whale,Alvinocaris,"Rio de Janeiro, Brazil",-25.3383333333333,-39.6411666666666
+SITE0871,Whale,Capitella,"Rio de Janeiro, Brazil",-25.3383333333333,-39.6411666666666
+SITE0871,Whale,Cordesia,"Rio de Janeiro, Brazil",-25.3383333333333,-39.6411666666666
+SITE0871,Whale,Hyalogyrina,"Rio de Janeiro, Brazil",-25.3383333333333,-39.6411666666666
+SITE0871,Whale,Lusitanops,"Rio de Janeiro, Brazil",-25.3383333333333,-39.6411666666666
+SITE0871,Whale,Munidopsis,"Rio de Janeiro, Brazil",-25.3383333333333,-39.6411666666666
+SITE0871,Whale,Ophryotrocha,"Rio de Janeiro, Brazil",-25.3383333333333,-39.6411666666666
+SITE0871,Whale,Osedax,"Rio de Janeiro, Brazil",-25.3383333333333,-39.6411666666666
+SITE0871,Whale,Paramytha,"Rio de Janeiro, Brazil",-25.3383333333333,-39.6411666666666
+SITE0871,Whale,Pleijelius,"Rio de Janeiro, Brazil",-25.3383333333333,-39.6411666666666
+SITE0871,Whale,Rubyspira,"Rio de Janeiro, Brazil",-25.3383333333333,-39.6411666666666
+SITE0871,Whale,Sirsoe,"Rio de Janeiro, Brazil",-25.3383333333333,-39.6411666666666
+SITE0871,Wood,Abyssochrysos,"Rio de Janeiro, Brazil",-25.3383333333333,-39.6411666666666
+SITE0871,Wood,Capitella,"Rio de Janeiro, Brazil",-25.3383333333333,-39.6411666666666
+SITE0871,Wood,Cordesia,"Rio de Janeiro, Brazil",-25.3383333333333,-39.6411666666666
+SITE0871,Wood,Hyalogyrina,"Rio de Janeiro, Brazil",-25.3383333333333,-39.6411666666666
+SITE0871,Wood,Lusitanops,"Rio de Janeiro, Brazil",-25.3383333333333,-39.6411666666666
+SITE0871,Wood,Munidopsis,"Rio de Janeiro, Brazil",-25.3383333333333,-39.6411666666666
+SITE0871,Wood,Rubyspira,"Rio de Janeiro, Brazil",-25.3383333333333,-39.6411666666666
+SITE0871,Wood,Sirsoe,"Rio de Janeiro, Brazil",-25.3383333333333,-39.6411666666666
+SITE0871,Wood,Spiniapex,"Rio de Janeiro, Brazil",-25.3383333333333,-39.6411666666666
+SITE0872,Wood,Capitella,"Osterfjorden, Norway",60.5818588647682,5.43063372611999
+SITE0872,Wood,Lumbrineris,"Osterfjorden, Norway",60.5818588647682,5.43063372611999
+SITE0872,Wood,Ophryotrocha,"Osterfjorden, Norway",60.5818588647682,5.43063372611999
+SITE0872,Wood,Sphaerosyllis,"Osterfjorden, Norway",60.5818588647682,5.43063372611999
+SITE0872,Wood,Terebellides,"Osterfjorden, Norway",60.5818588647682,5.43063372611999
+SITE0873,Wood,Calypsophontodes,Clarion-Clipperton Zone,14.03427,-130.09405
+SITE0873,Wood,Laophontodes,Clarion-Clipperton Zone,14.03427,-130.09405
+SITE0873,Wood,Mesochra,Clarion-Clipperton Zone,14.03427,-130.09405
+SITE0873,Wood,Munidopsis,Clarion-Clipperton Zone,14.03427,-130.09405
+SITE0873,Wood,Ophryotrocha,Clarion-Clipperton Zone,14.03427,-130.09405
+SITE0873,Wood,Xylora,Clarion-Clipperton Zone,14.03427,-130.09405
+SITE0873,Wood,cf. Caymanostella,Clarion-Clipperton Zone,14.03427,-130.09405
+SITE0873,Wood,cf. Fultonia,Clarion-Clipperton Zone,14.03427,-130.09405
+SITE0873,Wood,cf. Spiochaetopterus,Clarion-Clipperton Zone,14.03427,-130.09405
+SITE0873,Wood,cf. Xyloredo,Clarion-Clipperton Zone,14.03427,-130.09405
+SITE0874,Wood,Adontorhina,"Monterey Bay, CA, USA",36.154098,-122.40852
+SITE0874,Wood,Amphiura,"Monterey Bay, CA, USA",36.154098,-122.40852
+SITE0874,Wood,Anemone1,"Monterey Bay, CA, USA",36.154098,-122.40852
+SITE0874,Wood,Anemone2,"Monterey Bay, CA, USA",36.154098,-122.40852
+SITE0874,Wood,Bathyacra,"Monterey Bay, CA, USA",36.154098,-122.40852
+SITE0874,Wood,Bathyceradocus,"Monterey Bay, CA, USA",36.154098,-122.40852
+SITE0874,Wood,Bathyxylophila,"Monterey Bay, CA, USA",36.154098,-122.40852
+SITE0874,Wood,Caymanostella,"Monterey Bay, CA, USA",36.154098,-122.40852
+SITE0874,Wood,Dillwynella,"Monterey Bay, CA, USA",36.154098,-122.40852
+SITE0874,Wood,Dillwynella panamesis,"Monterey Bay, CA, USA",36.154098,-122.40852
+SITE0874,Wood,Euclymeninae,"Monterey Bay, CA, USA",36.154098,-122.40852
+SITE0874,Wood,Ferreiraella,"Monterey Bay, CA, USA",36.154098,-122.40852
+SITE0874,Wood,Hyalogyra,"Monterey Bay, CA, USA",36.154098,-122.40852
+SITE0874,Wood,Iso1,"Monterey Bay, CA, USA",36.154098,-122.40852
+SITE0874,Wood,Limpet1,"Monterey Bay, CA, USA",36.154098,-122.40852
+SITE0874,Wood,Limpet2,"Monterey Bay, CA, USA",36.154098,-122.40852
+SITE0874,Wood,Munidopsis,"Monterey Bay, CA, USA",36.154098,-122.40852
+SITE0874,Wood,Neptunea,"Monterey Bay, CA, USA",36.154098,-122.40852
+SITE0874,Wood,Ophiacantha,"Monterey Bay, CA, USA",36.154098,-122.40852
+SITE0874,Wood,Ophiambix,"Monterey Bay, CA, USA",36.154098,-122.40852
+SITE0874,Wood,Paraonesimoides,"Monterey Bay, CA, USA",36.154098,-122.40852
+SITE0874,Wood,Protonais,"Monterey Bay, CA, USA",36.154098,-122.40852
+SITE0874,Wood,Provanna,"Monterey Bay, CA, USA",36.154098,-122.40852
+SITE0874,Wood,Pycno1,"Monterey Bay, CA, USA",36.154098,-122.40852
+SITE0874,Wood,Seba,"Monterey Bay, CA, USA",36.154098,-122.40852
+SITE0874,Wood,Xylophaga,"Monterey Bay, CA, USA",36.154098,-122.40852
+SITE0874,Wood,Xylopholas,"Monterey Bay, CA, USA",36.154098,-122.40852
+SITE0874,Wood,Xyloskenea,"Monterey Bay, CA, USA",36.154098,-122.40852
+SITE0874,Wood,Yoldiella,"Monterey Bay, CA, USA",36.154098,-122.40852
+SITE0875,Whale,Abyssochrysos,"Espirito Santo, Brazil",-21.4501666666666,-39.8965
+SITE0875,Whale,Alvinocaris,"Espirito Santo, Brazil",-21.4501666666666,-39.8965
+SITE0875,Whale,Capitella,"Espirito Santo, Brazil",-21.4501666666666,-39.8965
+SITE0875,Whale,Hyalogyrina,"Espirito Santo, Brazil",-21.4501666666666,-39.8965
+SITE0875,Whale,Idas,"Espirito Santo, Brazil",-21.4501666666666,-39.8965
+SITE0875,Whale,Lusitanops,"Espirito Santo, Brazil",-21.4501666666666,-39.8965
+SITE0875,Whale,Munidopsis,"Espirito Santo, Brazil",-21.4501666666666,-39.8965
+SITE0875,Whale,Ophryotrocha,"Espirito Santo, Brazil",-21.4501666666666,-39.8965
+SITE0875,Whale,Osedax,"Espirito Santo, Brazil",-21.4501666666666,-39.8965
+SITE0875,Whale,Paramytha,"Espirito Santo, Brazil",-21.4501666666666,-39.8965
+SITE0875,Whale,Pleijelius,"Espirito Santo, Brazil",-21.4501666666666,-39.8965
+SITE0875,Whale,Rubyspira,"Espirito Santo, Brazil",-21.4501666666666,-39.8965
+SITE0875,Whale,Sirsoe,"Espirito Santo, Brazil",-21.4501666666666,-39.8965
+SITE0875,Wood,Alvinocaris,"Espirito Santo, Brazil",-21.4501666666666,-39.8965
+SITE0875,Wood,Capitella,"Espirito Santo, Brazil",-21.4501666666666,-39.8965
+SITE0875,Wood,Cryptonome,"Espirito Santo, Brazil",-21.4501666666666,-39.8965
+SITE0875,Wood,Idas,"Espirito Santo, Brazil",-21.4501666666666,-39.8965
+SITE0875,Wood,Lusitanops,"Espirito Santo, Brazil",-21.4501666666666,-39.8965
+SITE0875,Wood,Munidopsis,"Espirito Santo, Brazil",-21.4501666666666,-39.8965
+SITE0875,Wood,Nereis,"Espirito Santo, Brazil",-21.4501666666666,-39.8965
+SITE0875,Wood,Pleijelius,"Espirito Santo, Brazil",-21.4501666666666,-39.8965
+SITE0875,Wood,Rubyspira,"Espirito Santo, Brazil",-21.4501666666666,-39.8965
+SITE0875,Wood,Sirsoe,"Espirito Santo, Brazil",-21.4501666666666,-39.8965
+SITE0875,Wood,Sophrosyne,"Espirito Santo, Brazil",-21.4501666666666,-39.8965
+SITE0875,Wood,Spiniapex,"Espirito Santo, Brazil",-21.4501666666666,-39.8965
+SITE0875,Wood,Xylophaga,"Espirito Santo, Brazil",-21.4501666666666,-39.8965
+SITE0875,Wood,Xyloredo,"Espirito Santo, Brazil",-21.4501666666666,-39.8965
+SITE0876,Whale,Abyssochrysos,"São Paulo, Brazil",-25.894,-45.0483333333333
+SITE0876,Whale,Capitella,"São Paulo, Brazil",-25.894,-45.0483333333333
+SITE0876,Whale,Hyalogyrina,"São Paulo, Brazil",-25.894,-45.0483333333333
+SITE0876,Whale,Idas,"São Paulo, Brazil",-25.894,-45.0483333333333
+SITE0876,Whale,Lusitanops,"São Paulo, Brazil",-25.894,-45.0483333333333
+SITE0876,Whale,Ophryotrocha,"São Paulo, Brazil",-25.894,-45.0483333333333
+SITE0876,Whale,Osedax,"São Paulo, Brazil",-25.894,-45.0483333333333
+SITE0876,Whale,Paramytha,"São Paulo, Brazil",-25.894,-45.0483333333333
+SITE0876,Whale,Rubyspira,"São Paulo, Brazil",-25.894,-45.0483333333333
+SITE0876,Whale,Sirsoe,"São Paulo, Brazil",-25.894,-45.0483333333333
+SITE0876,Wood,Capitella,"São Paulo, Brazil",-25.894,-45.0483333333333
+SITE0876,Wood,Cryptonome,"São Paulo, Brazil",-25.894,-45.0483333333333
+SITE0876,Wood,Idas,"São Paulo, Brazil",-25.894,-45.0483333333333
+SITE0876,Wood,Nereis,"São Paulo, Brazil",-25.894,-45.0483333333333
+SITE0876,Wood,Pleijelius,"São Paulo, Brazil",-25.894,-45.0483333333333
+SITE0876,Wood,Sirsoe,"São Paulo, Brazil",-25.894,-45.0483333333333
+SITE0876,Wood,Spiniapex,"São Paulo, Brazil",-25.894,-45.0483333333333
+SITE0876,Wood,Xylophaga,"São Paulo, Brazil",-25.894,-45.0483333333333
+SITE0877,Whale,Capitella,"Espirito Santo, Brazil",-22.8408333333333,-38.4163333333333
+SITE0877,Whale,Cordesia,"Espirito Santo, Brazil",-22.8408333333333,-38.4163333333333
+SITE0877,Whale,Hyalogyrina,"Espirito Santo, Brazil",-22.8408333333333,-38.4163333333333
+SITE0877,Whale,Lusitanops,"Espirito Santo, Brazil",-22.8408333333333,-38.4163333333333
+SITE0877,Whale,Munidopsis,"Espirito Santo, Brazil",-22.8408333333333,-38.4163333333333
+SITE0877,Whale,Ophryotrocha,"Espirito Santo, Brazil",-22.8408333333333,-38.4163333333333
+SITE0877,Whale,Osedax,"Espirito Santo, Brazil",-22.8408333333333,-38.4163333333333
+SITE0877,Whale,Paramytha,"Espirito Santo, Brazil",-22.8408333333333,-38.4163333333333
+SITE0877,Whale,Pleijelius,"Espirito Santo, Brazil",-22.8408333333333,-38.4163333333333
+SITE0877,Whale,Rubyspira,"Espirito Santo, Brazil",-22.8408333333333,-38.4163333333333
+SITE0877,Whale,Sirsoe,"Espirito Santo, Brazil",-22.8408333333333,-38.4163333333333
+SITE0877,Wood,Abyssochrysos,"Espirito Santo, Brazil",-22.8408333333333,-38.4163333333333
+SITE0877,Wood,Capitella,"Espirito Santo, Brazil",-22.8408333333333,-38.4163333333333
+SITE0877,Wood,Cordesia,"Espirito Santo, Brazil",-22.8408333333333,-38.4163333333333
+SITE0877,Wood,Lusitanops,"Espirito Santo, Brazil",-22.8408333333333,-38.4163333333333
+SITE0877,Wood,Munidopsis,"Espirito Santo, Brazil",-22.8408333333333,-38.4163333333333
+SITE0877,Wood,Rubyspira,"Espirito Santo, Brazil",-22.8408333333333,-38.4163333333333
+SITE0877,Wood,Sirsoe,"Espirito Santo, Brazil",-22.8408333333333,-38.4163333333333
+SITE0877,Wood,Xyloredo,"Espirito Santo, Brazil",-22.8408333333333,-38.4163333333333
+SITE0879,Wood,Acanthaspidia,"Monterey Bay, CA, USA",36.26128,-122.677983333333
+SITE0879,Wood,Acanthocope,"Monterey Bay, CA, USA",36.26128,-122.677983333333
+SITE0879,Wood,Bathyceradocus,"Monterey Bay, CA, USA",36.26128,-122.677983333333
+SITE0879,Wood,Capitella,"Monterey Bay, CA, USA",36.26128,-122.677983333333
+SITE0879,Wood,Disconectes,"Monterey Bay, CA, USA",36.26128,-122.677983333333
+SITE0879,Wood,Eurycope,"Monterey Bay, CA, USA",36.26128,-122.677983333333
+SITE0879,Wood,Hebefustis,"Monterey Bay, CA, USA",36.26128,-122.677983333333
+SITE0879,Wood,Katianira,"Monterey Bay, CA, USA",36.26128,-122.677983333333
+SITE0879,Wood,Munidopsis,"Monterey Bay, CA, USA",36.26128,-122.677983333333
+SITE0879,Wood,Munna,"Monterey Bay, CA, USA",36.26128,-122.677983333333
+SITE0879,Wood,Neanthes,"Monterey Bay, CA, USA",36.26128,-122.677983333333
+SITE0879,Wood,Nereis,"Monterey Bay, CA, USA",36.26128,-122.677983333333
+SITE0879,Wood,Ophryotrocha,"Monterey Bay, CA, USA",36.26128,-122.677983333333
+SITE0879,Wood,Phyllodoce,"Monterey Bay, CA, USA",36.26128,-122.677983333333
+SITE0879,Wood,Prionospio,"Monterey Bay, CA, USA",36.26128,-122.677983333333
+SITE0879,Wood,Protanais,"Monterey Bay, CA, USA",36.26128,-122.677983333333
+SITE0879,Wood,Provanna,"Monterey Bay, CA, USA",36.26128,-122.677983333333
+SITE0879,Wood,Raricirrus,"Monterey Bay, CA, USA",36.26128,-122.677983333333
+SITE0879,Wood,Vrijenhoekia,"Monterey Bay, CA, USA",36.26128,-122.677983333333
+SITE0879,Wood,Xyloredo,"Monterey Bay, CA, USA",36.26128,-122.677983333333
+SITE0879,Wood,Xyloskenea,"Monterey Bay, CA, USA",36.26128,-122.677983333333
+SITE0879,Wood,cf. Janthura,"Monterey Bay, CA, USA",36.26128,-122.677983333333
+SITE0880,Wood,Bathykermadeca,Lucky Strike vent field,37.2911666666666,-32.28
+SITE0880,Wood,Capitella,Lucky Strike vent field,37.2911666666666,-32.28
+SITE0880,Wood,Chromadorita,Lucky Strike vent field,37.2911666666666,-32.28
+SITE0880,Wood,Cyclopina,Lucky Strike vent field,37.2911666666666,-32.28
+SITE0880,Wood,Idas,Lucky Strike vent field,37.2911666666666,-32.28
+SITE0880,Wood,Macellicephala,Lucky Strike vent field,37.2911666666666,-32.28
+SITE0880,Wood,Mesochra sp.,Lucky Strike vent field,37.2911666666666,-32.28
+SITE0880,Wood,Nitocrella,Lucky Strike vent field,37.2911666666666,-32.28
+SITE0880,Wood,Ophryotrocha,Lucky Strike vent field,37.2911666666666,-32.28
+SITE0880,Wood,Paramytha,Lucky Strike vent field,37.2911666666666,-32.28
+SITE0880,Wood,Pleijelius,Lucky Strike vent field,37.2911666666666,-32.28
+SITE0880,Wood,Sirsoe,Lucky Strike vent field,37.2911666666666,-32.28
+SITE0880,Wood,Strepternos,Lucky Strike vent field,37.2911666666666,-32.28
+SITE0880,Wood,Tisbe,Lucky Strike vent field,37.2911666666666,-32.28
+SITE0880,Wood,Xyloredo,Lucky Strike vent field,37.2911666666666,-32.28
+SITE0880,Wood,cf. Storthyngura,Lucky Strike vent field,37.2911666666666,-32.28
+SITE0881,Wood,Ambilimbus,Lucky Strike vent field,37.2886666666666,-32.2755
+SITE0881,Wood,Archinome,Lucky Strike vent field,37.2886666666666,-32.2755
+SITE0881,Wood,Bathykermadeca,Lucky Strike vent field,37.2886666666666,-32.2755
+SITE0881,Wood,Harmothoe,Lucky Strike vent field,37.2886666666666,-32.2755
+SITE0881,Wood,Lepidonotopodium,Lucky Strike vent field,37.2886666666666,-32.2755
+SITE0881,Wood,Nitocrella,Lucky Strike vent field,37.2886666666666,-32.2755
+SITE0881,Wood,Ophryotrocha,Lucky Strike vent field,37.2886666666666,-32.2755
+SITE0881,Wood,Paramytha,Lucky Strike vent field,37.2886666666666,-32.2755
+SITE0881,Wood,Pleijelius,Lucky Strike vent field,37.2886666666666,-32.2755
+SITE0881,Wood,Retrocalcar sp.,Lucky Strike vent field,37.2886666666666,-32.2755
+SITE0881,Wood,Sirsoe,Lucky Strike vent field,37.2886666666666,-32.2755
+SITE0881,Wood,Strepternos,Lucky Strike vent field,37.2886666666666,-32.2755
+SITE0881,Wood,Tisbe,Lucky Strike vent field,37.2886666666666,-32.2755
+SITE0882,Wood,Aponema,Lucky Strike vent field,37.288635,-32.2755516666666
+SITE0882,Wood,Calomicrolaimus,Lucky Strike vent field,37.288635,-32.2755516666666
+SITE0882,Wood,Halomonhystera,Lucky Strike vent field,37.288635,-32.2755516666666
+SITE0882,Wood,Microlaimus,Lucky Strike vent field,37.288635,-32.2755516666666
+SITE0883,Wood,Bonnierella,Lucky Strike vent field,37.2887,-32.2755
+SITE0883,Wood,Capitella,Lucky Strike vent field,37.2887,-32.2755
+SITE0883,Wood,Chromadorita,Lucky Strike vent field,37.2887,-32.2755
+SITE0883,Wood,Cyclopina,Lucky Strike vent field,37.2887,-32.2755
+SITE0883,Wood,Desmoscolex,Lucky Strike vent field,37.2887,-32.2755
+SITE0883,Wood,Idas,Lucky Strike vent field,37.2887,-32.2755
+SITE0883,Wood,Mesochra,Lucky Strike vent field,37.2887,-32.2755
+SITE0883,Wood,Microlaimus,Lucky Strike vent field,37.2887,-32.2755
+SITE0883,Wood,Phymorhynchus,Lucky Strike vent field,37.2887,-32.2755
+SITE0883,Wood,Theristus,Lucky Strike vent field,37.2887,-32.2755
+SITE0883,Wood,Tisbe,Lucky Strike vent field,37.2887,-32.2755
+SITE0883,Wood,Xyloredo,Lucky Strike vent field,37.2887,-32.2755
+SITE0884,Wood,Xyloredo,"Hakon Mosby mud volcano, Norway",72.0065,14.72733
+SITE0885,Wood,Xyloredo,"Hakon Mosby mud volcano, Norway",72.0063,14.7182616666666
+SITE0886,Wood,Cocculina,Sagami Bay KM-ROV dive #149 branch-like plant debris,35.01595,139.222183333333
+SITE0887,Wood,Lacydonia,Shoho Seamount wood fall — 2042 m (Hookabe 2022),32.3475666666666,138.657866666666
+SITE0890,Whale,Asclerocheilus,Santa Catalina Basin (NE Pacific Ocean),33.2,-118.5
+SITE0890,Whale,Ephesiella,Santa Catalina Basin (NE Pacific Ocean),33.2,-118.5
+SITE0890,Whale,Golfingia,Santa Catalina Basin (NE Pacific Ocean),33.2,-118.5
+SITE0890,Whale,Harmothoe,Santa Catalina Basin (NE Pacific Ocean),33.2,-118.5
+SITE0890,Whale,Macellicephala,Santa Catalina Basin (NE Pacific Ocean),33.2,-118.5
+SITE0890,Whale,Mitrella,Santa Catalina Basin (NE Pacific Ocean),33.2,-118.5
+SITE0890,Whale,Ophryotrocha,Santa Catalina Basin (NE Pacific Ocean),33.2,-118.5
+SITE0890,Whale,Pyropelta,Santa Catalina Basin (NE Pacific Ocean),33.2,-118.5
+SITE0890,Whale,Sphaerosyllis,Santa Catalina Basin (NE Pacific Ocean),33.2,-118.5
+SITE0899,Whale,Benthoctopus,Monterey Canyon (NE Pacific Ocean),36.79,-121.887
+SITE0899,Whale,Coryphopterus,Monterey Canyon (NE Pacific Ocean),36.79,-121.887
+SITE0899,Whale,Eptatretus,Monterey Canyon (NE Pacific Ocean),36.79,-121.887
+SITE0899,Whale,Hydrolagus,Monterey Canyon (NE Pacific Ocean),36.79,-121.887
+SITE0899,Whale,Idas,Monterey Canyon (NE Pacific Ocean),36.79,-121.887
+SITE0899,Whale,Lycodapus,Monterey Canyon (NE Pacific Ocean),36.79,-121.887
+SITE0899,Whale,Lycodes,Monterey Canyon (NE Pacific Ocean),36.79,-121.887
+SITE0899,Whale,Munidopsis,Monterey Canyon (NE Pacific Ocean),36.79,-121.887
+SITE0899,Whale,Osedax,Monterey Canyon (NE Pacific Ocean),36.79,-121.887
+SITE0899,Whale,Solaster,Monterey Canyon (NE Pacific Ocean),36.79,-121.887
+SITE0899,Whale,Somniosus,Monterey Canyon (NE Pacific Ocean),36.79,-121.887
+SITE0899,Whale,Squalus,Monterey Canyon (NE Pacific Ocean),36.79,-121.887
+SITE0899,Whale,Stomphia,Monterey Canyon (NE Pacific Ocean),36.79,-121.887
+SITE0901,Whale,Apristurus,Monterey Canyon (NE Pacific Ocean),36.772,-122.083
+SITE0901,Whale,Buccinum,Monterey Canyon (NE Pacific Ocean),36.772,-122.083
+SITE0901,Whale,Careproctus,Monterey Canyon (NE Pacific Ocean),36.772,-122.083
+SITE0901,Whale,Coryphaenoides,Monterey Canyon (NE Pacific Ocean),36.772,-122.083
+SITE0901,Whale,Eptatretus,Monterey Canyon (NE Pacific Ocean),36.772,-122.083
+SITE0901,Whale,Glyphanostomum,Monterey Canyon (NE Pacific Ocean),36.772,-122.083
+SITE0901,Whale,Idas,Monterey Canyon (NE Pacific Ocean),36.772,-122.083
+SITE0901,Whale,Lophaster,Monterey Canyon (NE Pacific Ocean),36.772,-122.083
+SITE0901,Whale,Lycenchelys,Monterey Canyon (NE Pacific Ocean),36.772,-122.083
+SITE0901,Whale,Lycodapus,Monterey Canyon (NE Pacific Ocean),36.772,-122.083
+SITE0901,Whale,Melanostigma,Monterey Canyon (NE Pacific Ocean),36.772,-122.083
+SITE0901,Whale,Munidopsis,Monterey Canyon (NE Pacific Ocean),36.772,-122.083
+SITE0901,Whale,Neptunea,Monterey Canyon (NE Pacific Ocean),36.772,-122.083
+SITE0901,Whale,Nuculana,Monterey Canyon (NE Pacific Ocean),36.772,-122.083
+SITE0901,Whale,Osedax,Monterey Canyon (NE Pacific Ocean),36.772,-122.083
+SITE0901,Whale,Sebastes,Monterey Canyon (NE Pacific Ocean),36.772,-122.083
+SITE0901,Whale,Solaster,Monterey Canyon (NE Pacific Ocean),36.772,-122.083
+SITE0901,Whale,Thyasira,Monterey Canyon (NE Pacific Ocean),36.772,-122.083
+SITE0901,Whale,Zoroaster,Monterey Canyon (NE Pacific Ocean),36.772,-122.083
+SITE0974,Whale,Acoela,"Blanes coast, Catalonia",41.6756,2.81398333333333
+SITE0974,Whale,Alpheus,"Blanes coast, Catalonia",41.6756,2.81398333333333
+SITE0974,Whale,Amphiglena,"Blanes coast, Catalonia",41.6756,2.81398333333333
+SITE0974,Whale,Anthura,"Blanes coast, Catalonia",41.6756,2.81398333333333
+SITE0974,Whale,Aphelochaeta,"Blanes coast, Catalonia",41.6756,2.81398333333333
+SITE0974,Whale,Aponuphis,"Blanes coast, Catalonia",41.6756,2.81398333333333
+SITE0974,Whale,Caecum,"Blanes coast, Catalonia",41.6756,2.81398333333333
+SITE0974,Whale,Capitella,"Blanes coast, Catalonia",41.6756,2.81398333333333
+SITE0974,Whale,Caprella,"Blanes coast, Catalonia",41.6756,2.81398333333333
+SITE0974,Whale,Caulleriella,"Blanes coast, Catalonia",41.6756,2.81398333333333
+SITE0974,Whale,Cephalothrix,"Blanes coast, Catalonia",41.6756,2.81398333333333
+SITE0974,Whale,Chrysopetalum,"Blanes coast, Catalonia",41.6756,2.81398333333333
+SITE0974,Whale,Cirriformia,"Blanes coast, Catalonia",41.6756,2.81398333333333
+SITE0974,Whale,Cuthona,"Blanes coast, Catalonia",41.6756,2.81398333333333
+SITE0974,Whale,Diogenes,"Blanes coast, Catalonia",41.6756,2.81398333333333
+SITE0974,Whale,Doto,"Blanes coast, Catalonia",41.6756,2.81398333333333
+SITE0974,Whale,Enoplus,"Blanes coast, Catalonia",41.6756,2.81398333333333
+SITE0974,Whale,Eulalia,"Blanes coast, Catalonia",41.6756,2.81398333333333
+SITE0974,Whale,Eunice,"Blanes coast, Catalonia",41.6756,2.81398333333333
+SITE0974,Whale,Eusyllinae,"Blanes coast, Catalonia",41.6756,2.81398333333333
+SITE0974,Whale,Eusyllis,"Blanes coast, Catalonia",41.6756,2.81398333333333
+SITE0974,Whale,Exogone,"Blanes coast, Catalonia",41.6756,2.81398333333333
+SITE0974,Whale,Galatheidea,"Blanes coast, Catalonia",41.6756,2.81398333333333
+SITE0974,Whale,Gasteropoda,"Blanes coast, Catalonia",41.6756,2.81398333333333
+SITE0974,Whale,Genetyllis,"Blanes coast, Catalonia",41.6756,2.81398333333333
+SITE0974,Whale,Glycera,"Blanes coast, Catalonia",41.6756,2.81398333333333
+SITE0974,Whale,Harmothoe,"Blanes coast, Catalonia",41.6756,2.81398333333333
+SITE0974,Whale,Hesione,"Blanes coast, Catalonia",41.6756,2.81398333333333
+SITE0974,Whale,Lepidonotus,"Blanes coast, Catalonia",41.6756,2.81398333333333
+SITE0974,Whale,Leptochelia,"Blanes coast, Catalonia",41.6756,2.81398333333333
+SITE0974,Whale,Leucocephalonemertes,"Blanes coast, Catalonia",41.6756,2.81398333333333
+SITE0974,Whale,Lysidice,"Blanes coast, Catalonia",41.6756,2.81398333333333
+SITE0974,Whale,Malmgreniella,"Blanes coast, Catalonia",41.6756,2.81398333333333
+SITE0974,Whale,Myrianida,"Blanes coast, Catalonia",41.6756,2.81398333333333
+SITE0974,Whale,Neanthes,"Blanes coast, Catalonia",41.6756,2.81398333333333
+SITE0974,Whale,Nebalia,"Blanes coast, Catalonia",41.6756,2.81398333333333
+SITE0974,Whale,Ophiothrix,"Blanes coast, Catalonia",41.6756,2.81398333333333
+SITE0974,Whale,Ophryotrocha,"Blanes coast, Catalonia",41.6756,2.81398333333333
+SITE0974,Whale,Oxydromus,"Blanes coast, Catalonia",41.6756,2.81398333333333
+SITE0974,Whale,Paracentrotus,"Blanes coast, Catalonia",41.6756,2.81398333333333
+SITE0974,Whale,Phyllodoce,"Blanes coast, Catalonia",41.6756,2.81398333333333
+SITE0974,Whale,Pista,"Blanes coast, Catalonia",41.6756,2.81398333333333
+SITE0974,Whale,Plakosyllis,"Blanes coast, Catalonia",41.6756,2.81398333333333
+SITE0974,Whale,Polycirrus,"Blanes coast, Catalonia",41.6756,2.81398333333333
+SITE0974,Whale,Polydora,"Blanes coast, Catalonia",41.6756,2.81398333333333
+SITE0974,Whale,Polyophthalmus,"Blanes coast, Catalonia",41.6756,2.81398333333333
+SITE0974,Whale,Prionospio,"Blanes coast, Catalonia",41.6756,2.81398333333333
+SITE0974,Whale,Prosthiostomum,"Blanes coast, Catalonia",41.6756,2.81398333333333
+SITE0974,Whale,Protodorvillea,"Blanes coast, Catalonia",41.6756,2.81398333333333
+SITE0974,Whale,Runcina,"Blanes coast, Catalonia",41.6756,2.81398333333333
+SITE0974,Whale,Salvatoria,"Blanes coast, Catalonia",41.6756,2.81398333333333
+SITE0974,Whale,Schistomeringos,"Blanes coast, Catalonia",41.6756,2.81398333333333
+SITE0974,Whale,Serpula,"Blanes coast, Catalonia",41.6756,2.81398333333333
+SITE0974,Whale,Sphaerosyllis,"Blanes coast, Catalonia",41.6756,2.81398333333333
+SITE0974,Whale,Spio,"Blanes coast, Catalonia",41.6756,2.81398333333333
+SITE0974,Whale,Spirobranchus,"Blanes coast, Catalonia",41.6756,2.81398333333333
+SITE0974,Whale,Syllides,"Blanes coast, Catalonia",41.6756,2.81398333333333
+SITE0974,Whale,Syllidia,"Blanes coast, Catalonia",41.6756,2.81398333333333
+SITE0974,Whale,Syllis,"Blanes coast, Catalonia",41.6756,2.81398333333333
+SITE0974,Whale,Tritonia,"Blanes coast, Catalonia",41.6756,2.81398333333333
+SITE0977,Wood,Bayerius,NW Pacific abyssal plain east of Ogasawara Trench,32.57843333333334,143.7689
+SITE0977,Wood,Crinitostella,NW Pacific abyssal plain east of Ogasawara Trench,32.57843333333334,143.7689
+SITE0977,Wood,Ferreiraella,NW Pacific abyssal plain east of Ogasawara Trench,32.57843333333334,143.7689
+SITE0977,Wood,Leptogyropsis,NW Pacific abyssal plain east of Ogasawara Trench,32.57843333333334,143.7689
+SITE0977,Wood,Provanna,NW Pacific abyssal plain east of Ogasawara Trench,32.57843333333334,143.7689
+SITE0977,Wood,Sclerolinum,NW Pacific abyssal plain east of Ogasawara Trench,32.57843333333334,143.7689
+SITE0977,Wood,Xyloplax,NW Pacific abyssal plain east of Ogasawara Trench,32.57843333333334,143.7689
+SITE0977,Wood,Xyloskenea,NW Pacific abyssal plain east of Ogasawara Trench,32.57843333333334,143.7689
+SITE0978,Wood,Idas,East China Sea sunken wood,30.7,127.8
+SITE0979,Wood,Caymanostella,"Mound 11, Costa Rica",8.9221,-84.3045
+SITE0980,Wood,Caymanostella,"Mound 12, Costa Rica",8.9297,-84.3115
+SITE0981,Wood,Caymanostella,"Mound 12, Costa Rica",8.9306,-84.3124
+SITE0982,Wood,Caymanostella,"Mound 12, Costa Rica",8.9325,-84.3074
+SITE0983,Wood,Caymanostella,"Mound 12, Costa Rica",8.93,-84.3117
+SITE0984,Wood,Caymanostella,"Jaco Scar, Costa Rica",9.1262,-84.8384
+SITE0985,Wood,Caymanostella,"Seamount 2, Costa Rica",8.8003,-85.1899
+SITE0986,Wood,Caymanostella,"Jaco Scar, Costa Rica",9.1146,-84.8356
+SITE0987,Wood,Caymanostella,"Jaco Scar, Costa Rica",9.1151,-84.8398
+SITE0988,Wood,Caymanostella,"Tamayo Fracture Zone, Gulf of California",22.9628,-108.1576
+SITE0989,Wood,Caymanostella,"CCFZ IFREMER East, Station 161",14.0345,-130.09333333333333
+SITE0989,Wood,Munidopsis,"CCFZ IFREMER East, Station 161",14.0345,-130.09333333333333
+SITE0990,Wood,Abditoconus,Northern Gulf of Mexico wood-type experiment,28.81364194,-87.82033444
+SITE0990,Wood,Bankia,Northern Gulf of Mexico wood-type experiment,28.81364194,-87.82033444
+SITE0990,Wood,Spiniapex,Northern Gulf of Mexico wood-type experiment,28.81364194,-87.82033444
+SITE0990,Wood,Xylonora,Northern Gulf of Mexico wood-type experiment,28.81364194,-87.82033444
+SITE0990,Wood,Xylopholas,Northern Gulf of Mexico wood-type experiment,28.81364194,-87.82033444
+SITE0990,Wood,Xyloredo,Northern Gulf of Mexico wood-type experiment,28.81364194,-87.82033444
+SITE0991,Whale,Boudemos,"off Byron Bay, New South Wales",-28.075000000000003,154.08
+SITE0991,Whale,Eumida,"off Byron Bay, New South Wales",-28.075000000000003,154.08
+SITE0991,Whale,Microphthalmus,"off Byron Bay, New South Wales",-28.075000000000003,154.08
+SITE0991,Whale,Neanthes,"off Byron Bay, New South Wales",-28.075000000000003,154.08
+SITE0991,Whale,Nereis,"off Byron Bay, New South Wales",-28.075000000000003,154.08
+SITE0991,Whale,Ophryotrocha,"off Byron Bay, New South Wales",-28.075000000000003,154.08
+SITE0991,Whale,Orbiniella,"off Byron Bay, New South Wales",-28.075000000000003,154.08
+SITE0991,Whale,Osedax,"off Byron Bay, New South Wales",-28.075000000000003,154.08
+SITE0991,Whale,Paramphinome,"off Byron Bay, New South Wales",-28.075000000000003,154.08
+SITE0991,Whale,Paramytha,"off Byron Bay, New South Wales",-28.075000000000003,154.08
+SITE0991,Whale,Phascolosoma,"off Byron Bay, New South Wales",-28.075000000000003,154.08
+SITE0991,Whale,Pleijelius,"off Byron Bay, New South Wales",-28.075000000000003,154.08
+SITE0991,Whale,Protodrilus,"off Byron Bay, New South Wales",-28.075000000000003,154.08
+SITE0991,Whale,Pseudomystides,"off Byron Bay, New South Wales",-28.075000000000003,154.08
+SITE0991,Whale,Sphaerodoropsis,"off Byron Bay, New South Wales",-28.075000000000003,154.08
+SITE0991,Whale,Vrijenhoekia,"off Byron Bay, New South Wales",-28.075000000000003,154.08
+SITE0992,Whale,Ophryotrocha,"Palmer Deep, Western Antarctic Peninsula",-64.84166666666667,-64.15333333333334
+SITE0993,Wood,Rhombonemertes,"Off Owase, Sea of Kumano",34.11361111111111,136.50972222222222
+SITE0994,Wood,Rhombonemertes,"Off Kumano, Sea of Kumano",33.87177777777778,136.19855555555557
+SITE0995,Wood,Erinaceusyllis,NORI-D eastern Clarion-Clipperton Zone wood fall,10.325556666666667,-117.17089666666666
+SITE0997,Wood,Pericelis,"Off Owase, Mie, 330 m",34.016666666666666,136.36666666666667
+SITE0998,Wood,Abidtoconus,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Acrocirrus,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Actinoscyphia,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Amphiplica,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Aonides,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Astyris,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Bankia,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Bivalve,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Brachiopod,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Capitella,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Caymanostella,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Cnidaria,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Cocculina,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Copulabyssia,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Cordesia,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Crustacean,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Cryptonome,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Cyclostrema,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Dillwynella,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Eccliseogyra,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Echinoderm,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Eunice,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Eurycope,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Gastropod,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Idas,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Janiralata,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Leocretes,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Leptamphopus,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Leucia,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Lusitanops,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Macellicephala,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Mesotanais,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Moelleriopsis,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Mollusc,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Munidopsis,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Nereis/Neanthes,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Niomache,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Ophryotrocha,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Pagodula,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Paronesimoides,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Phascolosoma,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Platyhelminth,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Polychaeta,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Prionospio,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Sige,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Spiniapex,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Sponge,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Valettiopsis,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Vigtorniella,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Worms,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Xylonora,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Xylophaga,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Xylopholas,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Xyloredo,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Zoromunna,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,aff.,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,gas-5,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,holo-juv,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,idas-juv,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,mys-1,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,poly-45,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,poly-5C,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,poly-63C,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,poly-int,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,scaph-1,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE1000,Whale,Gastropoda,Diamantina Zone WF1 — Dordrecht Deep,-33.4662,101.5553
+SITE1000,Whale,Nereis,Diamantina Zone WF1 — Dordrecht Deep,-33.4662,101.5553
+SITE1000,Whale,Nicomache,Diamantina Zone WF1 — Dordrecht Deep,-33.4662,101.5553
+SITE1000,Whale,Polynoidae,Diamantina Zone WF1 — Dordrecht Deep,-33.4662,101.5553
+SITE1001,Whale,Adipicola,Diamantina Zone WF2,-32.502,96.5286
+SITE1001,Whale,Gastropoda,Diamantina Zone WF2,-32.502,96.5286
+SITE1001,Whale,Munidopsis,Diamantina Zone WF2,-32.502,96.5286
+SITE1001,Whale,Nicomache,Diamantina Zone WF2,-32.502,96.5286
+SITE1001,Whale,Osedax,Diamantina Zone WF2,-32.502,96.5286
+SITE1001,Whale,Ostiactis,Diamantina Zone WF2,-32.502,96.5286
+SITE1001,Whale,Polynoidae,Diamantina Zone WF2,-32.502,96.5286
+SITE1002,Whale,Caprellidae,Diamantina Zone WF3,-32.8059,96.2777
+SITE1002,Whale,Gastropoda,Diamantina Zone WF3,-32.8059,96.2777
+SITE1002,Whale,Lysianassidae,Diamantina Zone WF3,-32.8059,96.2777
+SITE1002,Whale,Munidopsis,Diamantina Zone WF3,-32.8059,96.2777
+SITE1002,Whale,Nereis,Diamantina Zone WF3,-32.8059,96.2777
+SITE1002,Whale,Nicomache,Diamantina Zone WF3,-32.8059,96.2777
+SITE1002,Whale,Ophiambix,Diamantina Zone WF3,-32.8059,96.2777
+SITE1002,Whale,Osedax,Diamantina Zone WF3,-32.8059,96.2777
+SITE1002,Whale,Ostiactis,Diamantina Zone WF3,-32.8059,96.2777
+SITE1002,Whale,Phyllochaetopterus,Diamantina Zone WF3,-32.8059,96.2777
+SITE1002,Whale,Polynoidae,Diamantina Zone WF3,-32.8059,96.2777
+SITE1002,Whale,Xyloplax,Diamantina Zone WF3,-32.8059,96.2777
+SITE1003,Whale,Actiniaria,Diamantina Zone WF4,-32.6983,98.5612
+SITE1003,Whale,Adipicola,Diamantina Zone WF4,-32.6983,98.5612
+SITE1003,Whale,Nicomache,Diamantina Zone WF4,-32.6983,98.5612
+SITE1003,Whale,Osedax,Diamantina Zone WF4,-32.6983,98.5612
+SITE1003,Whale,Ostiactis,Diamantina Zone WF4,-32.6983,98.5612
+SITE1004,Whale,Abyssogena,Diamantina Zone WF5,-32.7121,98.5722
+SITE1004,Whale,Actiniaria,Diamantina Zone WF5,-32.7121,98.5722
+SITE1004,Whale,Gastropoda,Diamantina Zone WF5,-32.7121,98.5722
+SITE1004,Whale,Munidopsis,Diamantina Zone WF5,-32.7121,98.5722
+SITE1004,Whale,Nicomache,Diamantina Zone WF5,-32.7121,98.5722
+SITE1004,Whale,Ophioscolecidae,Diamantina Zone WF5,-32.7121,98.5722
+SITE1004,Whale,Osedax,Diamantina Zone WF5,-32.7121,98.5722
+SITE1004,Whale,Polynoidae,Diamantina Zone WF5,-32.7121,98.5722
+SITE1004,Whale,Silax,Diamantina Zone WF5,-32.7121,98.5722
+SITE1004,Whale,Xyloplax,Diamantina Zone WF5,-32.7121,98.5722
+SITE1005,Whale,Acesta,Hood Canyon — SuBastian dive S0315,-34.74,119.66
+SITE1005,Whale,Acharax,Hood Canyon — SuBastian dive S0315,-34.74,119.66
+SITE1005,Whale,Adipicola,Hood Canyon — SuBastian dive S0315,-34.74,119.66
+SITE1005,Whale,Brachiopoda,Hood Canyon — SuBastian dive S0315,-34.74,119.66
+SITE1005,Whale,Bryozoa,Hood Canyon — SuBastian dive S0315,-34.74,119.66
+SITE1005,Whale,Calyptogena,Hood Canyon — SuBastian dive S0315,-34.74,119.66
+SITE1005,Whale,Echinoidea,Hood Canyon — SuBastian dive S0315,-34.74,119.66
+SITE1005,Whale,Eunoe,Hood Canyon — SuBastian dive S0315,-34.74,119.66
+SITE1005,Whale,Fusitriton,Hood Canyon — SuBastian dive S0315,-34.74,119.66
+SITE1005,Whale,Gastropoda,Hood Canyon — SuBastian dive S0315,-34.74,119.66
+SITE1005,Whale,Janthina,Hood Canyon — SuBastian dive S0315,-34.74,119.66
+SITE1005,Whale,Leptamphopus,Hood Canyon — SuBastian dive S0315,-34.74,119.66
+SITE1005,Whale,Lucinoma,Hood Canyon — SuBastian dive S0315,-34.74,119.66
+SITE1005,Whale,Phyllochaetopterus,Hood Canyon — SuBastian dive S0315,-34.74,119.66
+SITE1005,Whale,Protobranchia,Hood Canyon — SuBastian dive S0315,-34.74,119.66
+SITE1005,Whale,Pteropoda,Hood Canyon — SuBastian dive S0315,-34.74,119.66
+SITE1005,Whale,Pyrgo,Hood Canyon — SuBastian dive S0315,-34.74,119.66
+SITE1005,Whale,Sassia,Hood Canyon — SuBastian dive S0315,-34.74,119.66
+SITE1005,Whale,Scaphopoda,Hood Canyon — SuBastian dive S0315,-34.74,119.66
+SITE1005,Whale,Scleractinia,Hood Canyon — SuBastian dive S0315,-34.74,119.66
+SITE1005,Whale,Seba,Hood Canyon — SuBastian dive S0315,-34.74,119.66
+SITE1006,Whale,Adipicola,Hood Canyon — SuBastian dive S0323,-34.76,119.63
+SITE1006,Whale,Echinoidea,Hood Canyon — SuBastian dive S0323,-34.76,119.63
+SITE1011,Whale,Ophryotrocha,"Rosebud whale fall, off San Diego, California",32.7769,-117.4881
+SITE1012,Whale,Ophryotrocha,"Pedro whale fall, near Channel Islands, California",33.7704,-119.5241
+SITE1013,Whale,Ophryotrocha,"Pebbles whale fall, Monterey Submarine Canyon",36.803,-121.9946
+SITE1015,Wood,Papuadocus,"CP4062, Bismarck Sea off Vanimo",-2.6166667,141.3
+SITE1016,Wood,Caymanostella,"SO250-9, Kuril-Kamchatka slope",43.8006833,151.7405333
+SITE1017,Wood,Ceradocus,Johnston Atoll NA153 H1999 wood fall,16.990982,-169.7693
+SITE1017,Wood,Decamastus,Johnston Atoll NA153 H1999 wood fall,16.990982,-169.7693
+SITE1017,Wood,Lithodes,Johnston Atoll NA153 H1999 wood fall,16.990982,-169.7693
+SITE1017,Wood,Malmgreniella,Johnston Atoll NA153 H1999 wood fall,16.990982,-169.7693
+SITE1017,Wood,Munidopsis,Johnston Atoll NA153 H1999 wood fall,16.990982,-169.7693
+SITE1017,Wood,Ophiambix,Johnston Atoll NA153 H1999 wood fall,16.990982,-169.7693
+SITE1017,Wood,Pectinodonta,Johnston Atoll NA153 H1999 wood fall,16.990982,-169.7693
+SITE1018,Wood,Munidopsis,Shoho Seamount wood fall — 1901 m (Komai 2025),32.3495,138.6563333333

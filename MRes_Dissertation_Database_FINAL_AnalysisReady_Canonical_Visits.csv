@@ -1,0 +1,293 @@
+﻿Visit_ID,Event_ID,Visit_Date_Start,Visit_Date_End,Verbatim_Date,Date_Precision,Visit_Type,Cruise,Station,Dive_ID,Sampling_Method,Visit_Depth_Min_m,Visit_Depth_Max_m,Ecological_Stage,Stage_Basis,Temperature_C,Oxygen,Sulfide,Methane,Environmental_Notes,Visit_Notes,Contributor
+VIS00001,EVT0980,,,"1988,1991,1995,1999",Unknown,Sampling/monitoring,,,,"Submersible, physical sampling",1240,1240,sulfo,Author-stated,,NA,Max. at 0m of 20 nMg¯¹ S *REF,,,,jmalfarolucas@gmail.com
+VIS00002,EVT0981,,,1995,Unknown,Sampling/monitoring,,,,"Submersible, physical sampling",960,960,sulfo,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00003,EVT0982,,,"1995, 2000",Unknown,Sampling/monitoring,,,,"Submersible, physical sampling",1960,1960,sulfo,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00004,EVT0983,,,"1996,1998,1999",Unknown,Sampling/monitoring,,,,"Submersible, physical sampling",1220,1220,sulfo,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00005,EVT0984,,,1998.1999,Unknown,Sampling/monitoring,,,,"Submersible, physical sampling",1675,1675,sulfo,Author-stated,4,~260 µM,NA,NA,,,jmalfarolucas@gmail.com
+VIS00006,EVT0985,,,2 times at least,Unknown,Sampling/monitoring,,,,"Submersible, physical sampling",4037,4037,sulfo,Author-stated,1.4,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00007,EVT0986,,,15 times at least,Unknown,Sampling/monitoring,,,,ROV/Imagery/bone and sediment collection,2891,2891,mix,Author-stated,,2.426 ml/l,NA,NA,Temperature reported as 1.65–1.69 °C.,,jmalfarolucas@gmail.com
+VIS00008,EVT0987,,,2009,Unknown,Sampling/monitoring,,,,ROV/imagery,1288,1288,mix,Author-stated,,bullseye node ONC,NA,NA,,,jmalfarolucas@gmail.com
+VIS00009,EVT0988,2010-02-07,2010-02-07,7 February 2010,Day,Discovery/sampling,JC42,,ROV Isis Dive 148,ROV observation and bone collection,1444,1447,mix,Author-stated,,Chen paper may be,NA,NA,,,cherisse.persad@gmail.com
+VIS00010,EVT0989,,,3 times at least*,Unknown,Sampling/monitoring,,,,ROV,382,382,mix,Author-stated,7.15,0.992 ml/l,NA,NA,,* by 2010,jmalfarolucas@gmail.com
+VIS00011,EVT0989,,,13 at least*,Unknown,Sampling/monitoring,,,,ROV,382,382,mix,Author-stated,7.11,0.951 ml/l,NA,NA,,* by 2010,jmalfarolucas@gmail.com
+VIS00012,EVT0990,,,5 at least*,Unknown,Sampling/monitoring,,,,ROV,633,633,mix,Author-stated,5.52,0.568 ml/l,NA,NA,,* by 2010,jmalfarolucas@gmail.com
+VIS00013,EVT0991,,,16 times at least*,Unknown,Sampling/monitoring,,,,ROV,1018,1018,mix,Author-stated,3.86,0.476 ml/l,NA,NA,,* by 2010,jmalfarolucas@gmail.com
+VIS00014,EVT0992,,,6 times at least*,Unknown,Sampling/monitoring,,,,ROV,1820,1820,mix,Author-stated,2.3,1.42 ml/l,NA,NA,,* by 2010,jmalfarolucas@gmail.com
+VIS00015,EVT0993,,,2013,Unknown,Sampling/monitoring,,,,"bone and sediment collection, imagery",4204,4204,sulfo,Author-stated,0.4,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00016,EVT0994,,,"1987,1988,1991",Unknown,Sampling/monitoring,,,,"Submersible, physical sampling",1240,1240,sulfo?,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00017,EVT0995,,,1987,Unknown,Sampling/monitoring,,,,trawl,1100,1100,sulfo?,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00018,EVT0996,,,1987,Unknown,Sampling/monitoring,,,,trawl,940,940,sulfo?,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00019,EVT0997,,,1985,Unknown,Sampling/monitoring,,,,trawl,1400,1400,sulfo?,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00020,EVT0998,,,1985,Unknown,Sampling/monitoring,,,,trawl,880,880,sulfo?,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00021,EVT0999,,,1988,Unknown,Sampling/monitoring,,,,trawl,900,900,sulfo?,Author-stated,,NA,NA,NA,,Original coordinates are unavailable. Marshall (1994) describes gastropods from a whale vertebra on Mernoo Bank and also reports a large whale skull from the locality.,jmalfarolucas@gmail.com
+VIS00022,EVT1000,,,1986,Unknown,Sampling/monitoring,,,,trawl,937,937,sulfo?,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00023,EVT1001,,,NA,Unknown,Sampling/monitoring,,,,trawl,844,844,sulfo?,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00024,EVT1002,,,1988,Unknown,Sampling/monitoring,,,,trawl,1116,1116,sulfo?,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00025,EVT1003,,,1989,Unknown,Sampling/monitoring,,,,trawl,908,908,sulfo?,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00026,EVT1004,,,1987,Unknown,Sampling/monitoring,,,,trawl,572,572,sulfo?,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00027,EVT1005,,,1992,Unknown,Sampling/monitoring,,,,trawl,372,372,sulfo?,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00028,EVT1006,,,1989,Unknown,Sampling/monitoring,,,,trawl,1242,1242,sulfo?,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00029,EVT1007,,,NA,Unknown,Sampling/monitoring,,,,trawl,,,sulfo,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00030,EVT1008,,,NA,Unknown,Sampling/monitoring,,,,trawl,150,400,sulfo,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00031,EVT1009,,,NA,Unknown,Sampling/monitoring,,,,trawl,,,sulfo,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00032,EVT1010,,,NA,Unknown,Sampling/monitoring,,,,unknown,,,sulfo,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00033,EVT1011,,,NA,Unknown,Sampling/monitoring,,,,unknown,300,300,sulfo,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00034,EVT1012,,,NA,Unknown,Sampling/monitoring,,,,unknown,100,200,sulfo,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00035,EVT1013,,,NA,Unknown,Sampling/monitoring,,,,unknown,,,sulfo,Author-stated,,NA,NA,NA,,Depth reported as 'few hundred metres'; no numeric depth assigned.,jmalfarolucas@gmail.com
+VIS00036,EVT1014,,,1997,Unknown,Sampling/monitoring,,,,Lander/imagery,4000,4000,scavenger,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00037,EVT1015,,,1997,Unknown,Sampling/monitoring,,,,Lander/imagery,4000,4000,scavenger,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00038,EVT1015,,,1997,Unknown,Sampling/monitoring,,,,Lander/imagery,4000,4000,scavenger,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00039,EVT1016,,,1996,Unknown,Sampling/monitoring,,,,Lander/imagery,4800,4800,scavenger,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00040,EVT1017,,,2003,Unknown,Sampling/monitoring,,,,trawl,430,430,sulfo,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00041,EVT1018,,,"2004,2005, 2008, 2009",Unknown,Sampling/monitoring,,,,"bone collection, sediment corers",125,125,sulfo?,Author-stated,,4.7–6.3 ml l-1,NA,NA,Temperature reported as 4.8–7.5 °C.,,jmalfarolucas@gmail.com
+VIS00042,EVT1019,,,2003,Unknown,Sampling/monitoring,,,,,30,30,scavenger,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00043,EVT1020,,,2001,Unknown,Sampling/monitoring,,,,Lande/imagery,2555,2555,mix,Author-stated,2.8,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00044,EVT1021,,,2002,Unknown,Sampling/monitoring,,,,Lande/imagery,2710,2710,mix,Author-stated,2,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00045,EVT1022,,,"2003,2004,2005",Unknown,Sampling/monitoring,,,,ROV/Imagery/bone and sediment collection,219,219,mix,Author-stated,12,NA,up to 41.7 mM·S2-*kg-1,NA,,,jmalfarolucas@gmail.com
+VIS00046,EVT1023,,,"2003,2004,2005",Unknown,Sampling/monitoring,,,,ROV/Imagery/bone and sediment collection,228,228,mix,Author-stated,12,NA,up to 41.7 mM·S2-*kg-2,NA,,,jmalfarolucas@gmail.com
+VIS00047,EVT1024,,,"2003,2004,2005",Unknown,Sampling/monitoring,,,,ROV/Imagery/bone and sediment collection,229,229,mix,Author-stated,12,NA,up to 41.7 mM·S2-*kg-3,NA,,,jmalfarolucas@gmail.com
+VIS00048,EVT1025,,,2004.2005,Unknown,Sampling/monitoring,,,,ROV/Imagery/bone and sediment collection,245,245,mix,Author-stated,12,NA,up to 41.7 mM·S2-*kg-4,NA,,,jmalfarolucas@gmail.com
+VIS00049,EVT1026,,,"2003,2004,2005",Unknown,Sampling/monitoring,,,,ROV/Imagery/bone and sediment collection,254,254,mix,Author-stated,12,NA,up to 41.7 mM·S2-*kg-5,NA,,,jmalfarolucas@gmail.com
+VIS00050,EVT1027,,,"2007, 2008",Unknown,Sampling/monitoring,,,,scuba,30,30,scavenger/enrichment,Author-stated,13,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00051,EVT1028,,,1997,Unknown,Sampling/monitoring,,,,trawl,300,300,sulfo,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00052,EVT1029,,,NA,Unknown,Sampling/monitoring,,,,unknown,300,300,sulfo,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00053,EVT1030,,,2009,Unknown,Sampling/monitoring,,,,Lander,650,650,sulfo,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00054,EVT1031,,,2009,Unknown,Sampling/monitoring,,,,Lander,568,568,sulfo,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00055,EVT1032,,,2013,Unknown,Sampling/monitoring,,,,"SeaSled, a towedcamera vehicle",1430,1430,scavenger,Author-stated,0.82,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00056,EVT1033,,,2012,Unknown,Sampling/monitoring,,,,"ROV, bone collection",1000,1000,sulfo,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00057,EVT1034,,,2008,Unknown,Sampling/monitoring,,,,ROV/imagery,1210,1210,scavenger,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00058,EVT1035,,,2009,Unknown,Sampling/monitoring,,,,ROV/imagery,1233,1233,scavenger,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00059,EVT1036,,,2010,Unknown,Sampling/monitoring,,,,ROV/imagery,1235,1235,scavenger,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00060,EVT1037,,,2010,Unknown,Sampling/monitoring,,,,ROV/imagery,1233,1233,scavenger,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00061,EVT1038,,,2014,Unknown,Sampling/monitoring,,,,Lander,1439,1439,sulfo,Author-stated,4,> 2 ml l-1,NA,NA,,,jmalfarolucas@gmail.com
+VIS00062,EVT1039,,,2015,Unknown,Sampling/monitoring,,,,Lander,3328,3328,sulfo,Author-stated,1,> 2 ml l-1,NA,NA,,,jmalfarolucas@gmail.com
+VIS00063,EVT1040,,,2015,Unknown,Sampling/monitoring,,,,Lander,3227,3227,sulfo,Author-stated,1,> 2 ml l-1,NA,NA,,,jmalfarolucas@gmail.com
+VIS00064,EVT1041,,,2015,Unknown,Sampling/monitoring,,,,Lander,1444,1444,sulfo,Author-stated,4,> 2 ml l-1,NA,NA,,,jmalfarolucas@gmail.com
+VIS00065,EVT1042,,,2015,Unknown,Sampling/monitoring,,,,Lander,3211,3211,sulfo,Author-stated,1,> 2 ml l-1,NA,NA,,,jmalfarolucas@gmail.com
+VIS00066,EVT1043,,,2017,Unknown,Sampling/monitoring,,,,Lander,550,550,sulfo,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00067,EVT1044,,,2013,Unknown,Sampling/monitoring,,,,"ROV, bone collection",1701,1701,sulfo?,Author-stated,4.5,NA,NA,NA,,Only bone substrate at the External (C4) site is represented.,jmalfarolucas@gmail.com
+VIS00068,EVT1045,,,2015,Unknown,Sampling/monitoring,,,,imagering,4142,4142,scavenger,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00069,EVT1046,,,2019,Unknown,Sampling/monitoring,,,,ROV/Imagery/bone,2181,2181,scavenger,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00070,EVT1047,,,2019,Unknown,Sampling/monitoring,,,,ROV/Imagery/bone,2034,2034,scavenger,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00071,EVT1048,,,2019,Unknown,Sampling/monitoring,,,,ROV/Imagery/bone,1996,1996,scavenger,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00072,EVT1049,,,2010,Unknown,Sampling/monitoring,,,,trawl,104,104,sulfo,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00073,EVT1050,,,2005,Unknown,Sampling/monitoring,,,,Lander/imagery/sediment corers,2500,2500,scavenger,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00074,EVT1051,,,2005,Unknown,Sampling/monitoring,,,,Lander/imagery/sediment corers,5400,5400,scavenger,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00075,EVT1052,,,NA,Unknown,Sampling/monitoring,,,,trawl,170,170,sulfo,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00076,EVT1053,,,1992,Unknown,Sampling/monitoring,,,,trawl,275,275,sulfo,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00077,EVT1054,,,1993,Unknown,Sampling/monitoring,,,,trawl,180,180,sulfo,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00078,EVT1055,,,1929,Unknown,Sampling/monitoring,,,,trawl,,,sulfo,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00079,EVT1056,,,1900,Unknown,Sampling/monitoring,,,,trawl,90,90,sulfo,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00080,EVT1057,,,1901,Unknown,Sampling/monitoring,,,,trawl,,,sulfo,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00081,EVT1058,,,1901,Unknown,Sampling/monitoring,,,,trawl,146,146,sulfo,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00082,EVT1059,,,2010,Unknown,Sampling/monitoring,,,,"ROV, bone collection",118,118,sulfo,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00083,EVT1060,,,2013,Unknown,Sampling/monitoring,,,,Scuba,15,15,sulfo?,Author-stated,0.75,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00084,EVT1061,,,2013,Unknown,Sampling/monitoring,,,,trawl,156,156,sulfo?,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00085,EVT1062,,,NA,Unknown,Sampling/monitoring,,,,scuba,56,56,sulfo?,Author-stated,,NA,NA,NA,Temperature reported as 11.8–22.2 °C.,,jmalfarolucas@gmail.com
+VIS00086,EVT1063,,,2010,Unknown,Sampling/monitoring,,,,lander,21,21,sulfo,Author-stated,0.75,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00087,EVT1064,,,2010,Unknown,Sampling/monitoring,,,,scuba,15,15,sulfo,Author-stated,,NA,NA,NA,Temperature reported as 0–5 °C.,,jmalfarolucas@gmail.com
+VIS00088,EVT1065,,,1972,Unknown,Sampling/monitoring,,,,trawl,150,150,sulfo,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00089,EVT1066,,,2006,Unknown,Sampling/monitoring,,,,Lander/imagery,95,95,scavenger,Author-stated,9.6,1.5-0.5ml/l,NA,NA,,,jmalfarolucas@gmail.com
+VIS00090,EVT1067,,,2007,Unknown,Sampling/monitoring,,,,Lander/imagery,95,95,scavenger,Author-stated,9.6,1-0.5ml/l,NA,NA,,,jmalfarolucas@gmail.com
+VIS00091,EVT1068,,,2008,Unknown,Sampling/monitoring,,,,Lander/imagery,98,98,scavenger,Author-stated,8.8,0.2-2 ml/l,NA,NA,,,jmalfarolucas@gmail.com
+VIS00092,EVT1069,,,2010,Unknown,Sampling/monitoring,,,,Lander/imagery/bone collection,300,300,scavenger,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00093,EVT1070,,,2012,Unknown,Sampling/monitoring,,,,Lander/imagery/bone collection,300,300,scavenger,Author-stated,8.5,2.5-4,NA,NA,,,jmalfarolucas@gmail.com
+VIS00094,EVT1070,,,2014,Unknown,Sampling/monitoring,,,,Lander/imagery/bone collection,300,300,scavenger,Author-stated,9,1.5-4,NA,NA,,,jmalfarolucas@gmail.com
+VIS00095,EVT1071,,,2012,Unknown,Sampling/monitoring,,,,"ROV, bone collection",4974,4974,sulfo?,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00096,EVT1072,,,1997,Unknown,Sampling/monitoring,,,,Lander/imagery,4040,4040,scavenger,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00097,EVT1073,,,1997,Unknown,Sampling/monitoring,,,,Lander/imagery,1900,1900,scavenger,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00098,EVT1074,,,2012,Unknown,Sampling/monitoring,,,,ROV/imagering/sediment collection,492,492,scavenger/enrichment,Author-stated,,NA,NA,NA,Temperature reported as 7.00–4.23 °C.,,jmalfarolucas@gmail.com
+VIS00099,EVT1075,,,1998,Unknown,Sampling/monitoring,,,,trawl,200,200,sulfo,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00100,EVT1076,,,2001,Unknown,Sampling/monitoring,,,,trawl,250,250,sulfo?,Author-stated,,OMZ,NA,NA,,,jmalfarolucas@gmail.com
+VIS00101,EVT1077,,,2001,Unknown,Sampling/monitoring,,,,trawl,320,320,sulfo?,Author-stated,,OMZ,NA,NA,,,jmalfarolucas@gmail.com
+VIS00102,EVT1078,,,2001,Unknown,Sampling/monitoring,,,,trawl,160,160,sulfo?,Author-stated,,OMZ,NA,NA,,,jmalfarolucas@gmail.com
+VIS00103,EVT1079,,,2001,Unknown,Sampling/monitoring,,,,trawl,240,300,sulfo?,Author-stated,,OMZ,NA,NA,,,jmalfarolucas@gmail.com
+VIS00104,EVT1080,,,NA,Unknown,Sampling/monitoring,,,,dredge,187,187,NA,Author-stated,,OMZ,NA,NA,,,jmalfarolucas@gmail.com
+VIS00105,EVT1081,,,NA,Unknown,Sampling/monitoring,,,,dredge,268,268,NA,Author-stated,,OMZ,NA,NA,,,jmalfarolucas@gmail.com
+VIS00106,EVT1082,,,2006,Unknown,Sampling/monitoring,,,,Lander,441,441,sulfo,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00107,EVT1082,,,2006,Unknown,Sampling/monitoring,,,,Lander,441,441,sulfo,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00108,EVT1082,,,2006,Unknown,Sampling/monitoring,,,,Lander,441,441,sulfo,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00109,EVT1082,,,2006,Unknown,Sampling/monitoring,,,,Lander,441,441,sulfo,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00110,EVT1082,,,2006,Unknown,Sampling/monitoring,,,,Lander,441,441,sulfo?,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00111,EVT1083,,,2011,Unknown,Sampling/monitoring,,,,ROV,751,751,sulfo?,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00112,EVT1084,,,2011,Unknown,Sampling/monitoring,,,,ROV,732,732,sulfo?,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00113,EVT1085,,,2018,Unknown,Sampling/monitoring,,,,mooring system,2908,2908,sulfo?,Author-stated,,NA,NA,NA,Temperature reported as 2.18–2.24 °C.,,jmalfarolucas@gmail.com
+VIS00114,EVT0991,,,2011,Unknown,Sampling/monitoring,,,,ROV,1018,1018,sulfo?,Author-stated,3.86,0.476 ml/l,NA,NA,,,jmalfarolucas@gmail.com
+VIS00115,EVT0991,,,2011,Unknown,Sampling/monitoring,,,,ROV,1018,1018,sulfo?,Author-stated,3.86,0.476 ml/l,NA,NA,,,jmalfarolucas@gmail.com
+VIS00116,EVT1086,,,2007,Unknown,Sampling/monitoring,,,,ROV,385,385,sulfo?,Author-stated,7.15,0.992 ml/l,NA,NA,,,jmalfarolucas@gmail.com
+VIS00117,EVT0991,,,2006,Unknown,Sampling/monitoring,,,,ROV,1018,1018,sulfo?,Author-stated,3.86,0.476 ml/l,NA,NA,,,jmalfarolucas@gmail.com
+VIS00118,EVT0991,,,2006,Unknown,Sampling/monitoring,,,,ROV,1018,1018,sulfo?,Author-stated,3.86,0.476 ml/l,NA,NA,,,jmalfarolucas@gmail.com
+VIS00119,EVT0992,,,2006,Unknown,Sampling/monitoring,,,,ROV,1820,1820,sulfo?,Author-stated,2.3,1.42 ml/l,NA,NA,,,jmalfarolucas@gmail.com
+VIS00120,EVT0992,,,2007,Unknown,Sampling/monitoring,,,,ROV,1820,1820,sulfo?,Author-stated,2.3,1.42 ml/l,NA,NA,,,jmalfarolucas@gmail.com
+VIS00121,EVT1087,,,2007,Unknown,Sampling/monitoring,,,,ROV,2893,2893,sulfo?,Author-stated,,2.426 ml/l,NA,NA,Temperature reported as 1.65–1.69 °C.,,jmalfarolucas@gmail.com
+VIS00122,EVT1088,,,2007,Unknown,Sampling/monitoring,,,,ROV/Imagery,1551,1551,sulfo?,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00123,EVT0991,,,2010,Unknown,Sampling/monitoring,,,,"ROV, bone collection",1018,1018,sulfo?,Author-stated,3.86,0.476 ml/l,NA,NA,,,jmalfarolucas@gmail.com
+VIS00124,EVT0991,,,2010,Unknown,Sampling/monitoring,,,,"ROV, bone collection",1018,1018,sulfo?,Author-stated,3.86,0.476 ml/l,NA,NA,,,jmalfarolucas@gmail.com
+VIS00125,EVT0990,,,2009,Unknown,Sampling/monitoring,,,,"ROV, bone collection",633,633,sulfo?,Author-stated,5.52,0.568 ml/l,NA,NA,,,jmalfarolucas@gmail.com
+VIS00126,EVT1089,,,2009,Unknown,Sampling/monitoring,,,,"ROV, bone collection",740,740,sulfo?,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00127,EVT1090,,,2011,Unknown,Sampling/monitoring,,,,"ROV, bone collection",610,610,sulfo?,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00128,EVT1090,,,2011,Unknown,Sampling/monitoring,,,,"ROV, bone collection",610,610,sulfo?,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00129,EVT1091,,,1854,Unknown,Sampling/monitoring,,,,dredge,0,0,sulfo?,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00130,EVT1092,,,1964,Unknown,Sampling/monitoring,,,,dredge,439,439,sulfo?,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00131,EVT1093,,,NA,Unknown,Sampling/monitoring,,,,NA,150,150,scavenger/enrichment,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00132,EVT1094,,,NA,Unknown,Sampling/monitoring,,,,imagering,4850,4850,sulfo,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00133,EVT1095,,,2018,Unknown,Sampling/monitoring,,,,ROV,2341,2341,sulfo?,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00134,EVT1096,,,2018,Unknown,Sampling/monitoring,,,,ROV,2341,2341,sulfo?,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00135,EVT1097,,,1902,Unknown,Sampling/monitoring,,,,trawl,0,0,sulfo?,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00136,EVT1098,,,2009,Unknown,Sampling/monitoring,,,,cage anchored to the shore,123,123,sulfo?,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00137,EVT1099,,,NA,Unknown,Sampling/monitoring,,,,Lander,3225,3225,sulfo?,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00138,EVT1100,,,NA,Unknown,Sampling/monitoring,,,,Lander,1427.5,1427.5,sulfo?,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00139,EVT1101,,,2017,Unknown,Sampling/monitoring,,,,trawl,350,350,sulfo?,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00140,EVT1102,,,2011,Unknown,Sampling/monitoring,,,,scuba,20,20,sulfo?,Author-stated,,NA,NA,NA,Temperature reported as 14.4–20.7 °C.,,jmalfarolucas@gmail.com
+VIS00141,EVT1102,,,2011,Unknown,Sampling/monitoring,,,,scuba,20,20,sulfo?,Author-stated,,NA,NA,NA,Temperature reported as 14.4–20.7 °C.,,jmalfarolucas@gmail.com
+VIS00142,EVT1102,,,2011,Unknown,Sampling/monitoring,,,,scuba,20,20,sulfo?,Author-stated,,NA,NA,NA,Temperature reported as 14.4–20.7 °C.,,jmalfarolucas@gmail.com
+VIS00143,EVT1102,,,2011,Unknown,Sampling/monitoring,,,,scuba,20,20,sulfo?,Author-stated,,NA,NA,NA,Temperature reported as 14.4–20.7 °C.,,jmalfarolucas@gmail.com
+VIS00144,EVT1102,,,2011,Unknown,Sampling/monitoring,,,,scuba,20,20,sulfo?,Author-stated,,NA,NA,NA,Temperature reported as 14.4–20.7 °C.,,jmalfarolucas@gmail.com
+VIS00145,EVT1102,,,2011,Unknown,Sampling/monitoring,,,,scuba,20,20,sulfo?,Author-stated,,NA,NA,NA,Temperature reported as 14.4–20.7 °C.,,jmalfarolucas@gmail.com
+VIS00146,EVT1102,,,2011,Unknown,Sampling/monitoring,,,,scuba,20,20,sulfo?,Author-stated,,NA,NA,NA,Temperature reported as 14.4–20.7 °C.,,jmalfarolucas@gmail.com
+VIS00147,EVT1102,,,2011,Unknown,Sampling/monitoring,,,,scuba,20,20,sulfo?,Author-stated,,NA,NA,NA,Temperature reported as 14.4–20.7 °C.,,jmalfarolucas@gmail.com
+VIS00148,EVT1102,,,2011,Unknown,Sampling/monitoring,,,,scuba,20,20,sulfo?,Author-stated,,NA,NA,NA,Temperature reported as 14.4–20.7 °C.,,jmalfarolucas@gmail.com
+VIS00149,EVT1103,,,NA,Unknown,Sampling/monitoring,,,,ROV,2898,2898,sulfo?,Author-stated,,2.426 ml/l,NA,NA,Temperature reported as 1.65–1.69 °C.,,jmalfarolucas@gmail.com
+VIS00150,EVT1104,,,NA,Unknown,Sampling/monitoring,,,,ROV,633,633,sulfo?,Author-stated,5.52,0.568 ml/l,NA,NA,,,jmalfarolucas@gmail.com
+VIS00151,EVT1105,,,NA,Unknown,Sampling/monitoring,,,,ROV,873,873,sulfo?,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00152,EVT1103,,,NA,Unknown,Sampling/monitoring,,,,ROV,2898,2898,sulfo?,Author-stated,,2.426 ml/l,NA,NA,Temperature reported as 1.65–1.69 °C.,,jmalfarolucas@gmail.com
+VIS00153,EVT1106,,,NA,Unknown,Sampling/monitoring,,,,NA,925,925,sulfo?,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00154,EVT1107,,,NA,Unknown,Sampling/monitoring,,,,NA,925,925,sulfo?,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00155,EVT1108,,,NA,Unknown,Sampling/monitoring,,,,ROV,595,595,scavenger/enrichment,Author-stated,,NA,NA,NA,,,jmalfarolucas@gmail.com
+VIS00156,EVT1027,2007-09,,September 2007,month,Sampling/monitoring,,,,SCUBA sediment core,30,30,enrichment-opportunist,Unspecified,,,,,,Station 1 directly under whale; controls 250 m and 350 m away.,cherisse.persad@gmail.com
+VIS00157,EVT1027,2008-08,,August 2008,month,Sampling/monitoring,,,,SCUBA sediment core,30,30,post-carcass enrichment,Unspecified,,,,,,Whale no longer found; former whale position and 250 m control sampled.,cherisse.persad@gmail.com
+VIS00158,EVT1109,,,T1: trimester 1 (~3 months after March 2011 deployment),Relative,Experimental bone recovery,,,,SCUBA; bone recovery; laboratory extraction and identification,16.6,18.8,,Author-stated,,,,,Temperature reported as 12.8–20.7 °C.,,cherisse.persad@gmail.com
+VIS00159,EVT1109,,,T2: trimester 2 (~6 months after March 2011 deployment),Relative,Experimental bone recovery,,,,SCUBA; bone recovery; laboratory extraction and identification,16.6,18.8,,Author-stated,,,,,Temperature reported as 12.8–20.7 °C.,,cherisse.persad@gmail.com
+VIS00160,EVT1109,,,T3: trimester 3 (~9 months after March 2011 deployment),Relative,Experimental bone recovery,,,,SCUBA; bone recovery; laboratory extraction and identification,16.6,18.8,,Author-stated,,,,,Temperature reported as 12.8–20.7 °C.,,cherisse.persad@gmail.com
+VIS00161,EVT1109,,,T4: trimester 4 (~12 months after March 2011 deployment),Relative,Experimental bone recovery,,,,SCUBA; bone recovery; laboratory extraction and identification,16.6,18.8,,Author-stated,,,,,Temperature reported as 12.8–20.7 °C.,,cherisse.persad@gmail.com
+VIS00162,EVT1111,,,2023,Year,Discovery and sampling,R/V YOKOSUKA 2023,,,DSV SHINKAI 6500 imagery; suction sampler; H-type push core,5505,5505,,,1.5,,,,,,cherisse.persad@gmail.com
+VIS00163,EVT0078,2012-07-03,2012-07-03,2012-07-03,Day,ROV monitoring/resampling,TN282,,R1555,ROPOS; ROV video survey; opportunistic imagery,1288,1288,sulphophilic / reef-stage persistence,Author-stated,,,,,,,cherisse.persad@gmail.com
+VIS00164,EVT0078,2020-09-16,2020-09-16,2020-09-16,Day,ROV monitoring/resampling,NA121,,H1809,Hercules; ROV video survey; opportunistic imagery,1288,1288,sulphophilic / reef-stage persistence,Author-stated,,,,,,,cherisse.persad@gmail.com
+VIS00165,EVT0078,2023-06-27,2023-06-27,2023-06-27,Day,ROV monitoring/resampling,NA115,,H1968,Hercules; ROV structured video/still survey and photogrammetry; faunal counts,1288,1288,sulphophilic / reef-stage persistence,Author-stated,,,,,,,cherisse.persad@gmail.com
+VIS00166,EVT0078,2024-06-23,2024-06-23,2024-06-23,Day,ROV monitoring/resampling,NA161,,H2044,Hercules; ROV video survey; faunal follow-up,1288,1288,sulphophilic / reef-stage persistence,Author-stated,,,,,,,cherisse.persad@gmail.com
+VIS00167,EVT1112,,,April 2023,Month,Trawl collection,,,,commercial/research trawler collection; laboratory wood dissection,460,550,,,,,,,,,cherisse.persad@gmail.com
+VIS00168,EVT0077,2025-10-01,2025-10-01,1 October 2025,Day,Taxonomic resampling,R/V Yokosuka YK25-15C,,Shinkai 6500 dive #1882,HOV Shinkai 6500 suction sampler,4021,4021,,,,,,,,,cherisse.persad@gmail.com
+VIS00169,EVT1113,2018-11-03,2018-11-03,2018-11-03,Day,Wood-fall specimen collection,,,,HOV Alvin / ROV collection,1010,1010,,,,,,,,,cherisse.persad@gmail.com
+VIS00170,EVT1114,2009-02-24,2009-02-24,2009-02-24,Day,Wood-fall specimen collection,,,,HOV Alvin / ROV collection,990,990,,,,,,,,,cherisse.persad@gmail.com
+VIS00171,EVT1115,2010-01-08,2010-01-08,2010-01-08,Day,Wood-fall specimen collection,,,,HOV Alvin / ROV collection,996,996,,,,,,,,,cherisse.persad@gmail.com
+VIS00172,EVT1116,2017-06-05,2017-06-05,2017-06-05,Day,Wood-fall specimen collection,,,,HOV Alvin / ROV collection,1002,1002,,,,,,,,,cherisse.persad@gmail.com
+VIS00173,EVT1117,2018-10-20,2018-10-20,2018-10-20,Day,Wood-fall specimen collection,,,,HOV Alvin / ROV collection,992,992,,,,,,,,,cherisse.persad@gmail.com
+VIS00174,EVT1118,2009-03-03,2009-03-03,2009-03-03,Day,Wood-fall specimen collection,,,,HOV Alvin / ROV collection,974,1856,,,,,,,,,cherisse.persad@gmail.com
+VIS00175,EVT1119,2017-06-09,2017-06-09,2017-06-09,Day,Wood-fall specimen collection,,,,HOV Alvin / ROV collection,1837,1837,,,,,,,,,cherisse.persad@gmail.com
+VIS00176,EVT1120,2018-10-18,2018-10-18,2018-10-18,Day,Wood-fall specimen collection,,,,HOV Alvin / ROV collection,1845,1845,,,,,,,,,cherisse.persad@gmail.com
+VIS00177,EVT1121,2018-10-22,2018-10-22,2018-10-22,Day,Wood-fall specimen collection,,,,HOV Alvin / ROV collection,1887,1887,,,,,,,,,cherisse.persad@gmail.com
+VIS00178,EVT1122,2003-04-11,2003-04-11,2003-04-11,Day,Wood-fall specimen collection,,,,ROV Tiburon collection,3054,3054,,,,,,,,,cherisse.persad@gmail.com
+VIS00179,EVT1123,2015-04-15,2015-04-15,15.04.2015,Day,ROV specimen collection,SO239 EcoResponse,,Station 161,"ROV KIEL 6000 manipulator arm, direct picking",5030.7,5030.7,,,,,,,,,cherisse.persad@gmail.com
+VIS00180,EVT1124,,,February 2019,Month,Experimental recovery,,,,ROV/HOV recovery in individual sealed 300-µm mesh bags; complete exterior/interior fauna picked,1970,1970,21-month colonization,Unspecified,,,,,,,cherisse.persad@gmail.com
+VIS00181,EVT1124,,,February 2020,Month,Experimental recovery,,,,ROV/HOV recovery in individual sealed 300-µm mesh bags; complete exterior/interior fauna picked,1970,1970,31-month colonization,Unspecified,,,,,,,cherisse.persad@gmail.com
+VIS00182,EVT1125,2017-06-09,2017-06-09,9 June 2017,Day,Beam-trawl discovery/collection,IN2017_V03 Sampling the Abyss,,,beam trawl; annelids picked from bones and preserved in 95% ethanol,999,1013,,,,,,,,,cherisse.persad@gmail.com
+VIS00183,EVT1126,,,January 2017,Month,Manned-submersible visual survey,,,,~2 h HD video; no physical sampling permitted,963,963,late enrichment–opportunistic / onset of sulfonic activity,Author-stated,1.4,,,,,,cherisse.persad@gmail.com
+VIS00184,EVT1127,,,May 2017,Month,Experimental recovery,AT37-13,,HOV Alvin,Alvin recovery in individual Delrin bioboxes; fauna removed and sorted at lowest reliable taxonomic level,1000,1000,7.4-year colonization / late organic-fall stage,Unspecified,,,,,,,cherisse.persad@gmail.com
+VIS00185,EVT0002,2014-10-09,2014-10-09,2014-10-09,Day,Experimental recovery / endofauna subsampling,,,,Lander recovery; one-quarter of one half-vertebra dissected; bone-matrix macrofauna hand-picked under stereomicroscope after Rose Bengal staining,1439,1439,16-month colonization,Unspecified,3.64,,,,Author-supplied BioSuOr station salinity=34.67 PSU; reported station depth=1508 m.,"SP1500: Table 1 species richness S=6, total abundance N=577, standardized endofaunal density=115.4 ind./100 cm³. 6 figure-resolved taxa; Table 1 S=6.",cherisse.persad@gmail.com
+VIS00186,EVT0005,2015-05-21,2015-05-21,2015-05-21,Day,Experimental recovery / endofauna subsampling,,,,Lander recovery; one-quarter of one half-vertebra dissected; bone-matrix macrofauna hand-picked under stereomicroscope after Rose Bengal staining,1444,1444,23-month colonization,Unspecified,3.58,,,,Author-supplied BioSuOr station salinity=34.76 PSU; reported station depth=1491 m.,"ES1500: Table 1 species richness S=12, total abundance N=1685, standardized endofaunal density=220.5 ind./100 cm³. 10 figure-resolved taxa + 2 additional rare taxa not site-resolved/named in Fig. 4.",cherisse.persad@gmail.com
+VIS00187,EVT0006,2015-05-22,2015-05-22,2015-05-22,Day,Experimental recovery / endofauna subsampling,,,,Lander recovery; one-quarter of one half-vertebra dissected; bone-matrix macrofauna hand-picked under stereomicroscope after Rose Bengal staining,3211,3211,23-month colonization,Unspecified,2.42,,,,Author-supplied BioSuOr station salinity=34.9 PSU; reported station depth=3322 m.,"ES3300: Table 1 species richness S=10, total abundance N=125, standardized endofaunal density=26.8 ind./100 cm³. 8 figure-resolved taxa + 2 additional rare taxa not site-resolved/named in Fig. 4.",cherisse.persad@gmail.com
+VIS00188,EVT0004,2015-05-23,2015-05-23,2015-05-23,Day,Experimental recovery / endofauna subsampling,,,,Lander recovery; one-quarter of one half-vertebra dissected; bone-matrix macrofauna hand-picked under stereomicroscope after Rose Bengal staining,3227,3227,23-month colonization,Unspecified,2.45,,,,Author-supplied BioSuOr station salinity=34.91 PSU; reported station depth=3285 m.,"RJ3300: Table 1 species richness S=10, total abundance N=133, standardized endofaunal density=22.6 ind./100 cm³. 10 figure-resolved taxa; Table 1 S=10.",cherisse.persad@gmail.com
+VIS00189,EVT0003,2015-05-25,2015-05-25,2015-05-25,Day,Experimental recovery / endofauna subsampling,,,,Lander recovery; one-quarter of one half-vertebra dissected; bone-matrix macrofauna hand-picked under stereomicroscope after Rose Bengal staining,3328,3328,23-month colonization,Unspecified,1.03,,,,Author-supplied BioSuOr station salinity=34.75 PSU; reported station depth=3358 m.,"SP3300: Table 1 species richness S=10, total abundance N=153, standardized endofaunal density=31.6 ind./100 cm³. 10 figure-resolved taxa; Table 1 S=10.",cherisse.persad@gmail.com
+VIS00190,EVT1135,2023-01-24,2023-01-24,2023/01/24,Day,HOV survey / specimen collection,R/V Tansuoyihao,,FDZ163,HOV Fendouzhe in situ imagery and specimen collection,6788.8,6788.8,sulphophilic,Author-stated,,,,,,Modern active whale fall; macrofauna documented by imagery and recovered specimens.,cherisse.persad@gmail.com
+VIS00191,EVT1136,2023-02-03,2023-02-03,2023/02/03,Day,HOV survey / specimen collection,R/V Tansuoyihao,,FDZ173,HOV Fendouzhe in situ imagery and specimen collection,4625.2,4625.2,sulphophilic,Author-stated,,,,,,Modern active whale fall; macrofauna documented by imagery and recovered specimens.,cherisse.persad@gmail.com
+VIS00192,EVT1137,2023-02-04,2023-02-04,2023/02/04,Day,HOV survey / specimen collection,R/V Tansuoyihao,,FDZ174 / FDZ177,HOV Fendouzhe in situ imagery and specimen collection,5610,5610,sulphophilic,Author-stated,,,,,,Modern active whale fall; macrofauna documented by imagery and recovered specimens.,cherisse.persad@gmail.com
+VIS00193,EVT1138,2023-02-09,2023-02-09,2023/02/09,Day,HOV survey / specimen collection,R/V Tansuoyihao,,FDZ178,HOV Fendouzhe in situ imagery and specimen collection,5609.1,5609.1,sulphophilic,Author-stated,,,,,,Modern active whale fall; macrofauna documented by imagery and recovered specimens.,cherisse.persad@gmail.com
+VIS00194,EVT1139,2023-02-09,2023-02-09,2023/02/09,Day,HOV survey / specimen collection,R/V Tansuoyihao,,FDZ178,HOV Fendouzhe in situ imagery and specimen collection,5634,5634,sulphophilic,Author-stated,,,,,,Modern active whale fall; macrofauna documented by imagery and recovered specimens.,cherisse.persad@gmail.com
+VIS00195,EVT0980,,,February 2005,Month,ROV specimen collection,,,Tiburon Dive 825,ROV Tiburon suction sampler / rotating basket; slurp chamber 9,1244,1244,reef stage / transition from sulphophilic to reef,Author-stated,,,,,,"Coordinates 33°11.72 N, 118°29.46 W; specimens collected from cladorhizid sponge attached to whale scapula.",cherisse.persad@gmail.com
+VIS00196,EVT1140,,,"January 2, 2020",Verbatim unresolved,ROV survey / bone sampling,R/V Falkor,ROV SuBastian,S0315,In situ video/stills; hydraulic-arm bone sampling where collected.,1531,1531,Sulfophilic,Author-stated,,,,,,Bone 1; Collected; figure Fig. 2 A-F.,cherisse.persad@gmail.com
+VIS00197,EVT1141,2020-02-13,2020-02-13,2/13/2020,Day,ROV survey / bone sampling,R/V Falkor,ROV SuBastian,S0323,In situ video/stills; hydraulic-arm bone sampling where collected.,952,952,Sulfophilic,Author-stated,,,,,,"Bone 2; Collected; broken during sampling; figure Fig. 3 A,B.",cherisse.persad@gmail.com
+VIS00198,EVT1142,2020-02-13,2020-02-13,2/13/2020,Day,ROV survey / bone sampling,R/V Falkor,ROV SuBastian,S0323,In situ video/stills; hydraulic-arm bone sampling where collected.,1041,1041,Reef stage,Author-stated,,,,,,"Bone 3; Collected/observed; exact recovery status not explicit; figure Fig. 3 C,D.",cherisse.persad@gmail.com
+VIS00199,EVT1143,2020-02-13,2020-02-13,2/13/2020,Day,ROV survey / bone sampling,R/V Falkor,ROV SuBastian,S0323,In situ video/stills; hydraulic-arm bone sampling where collected.,1040,1040,Not separately reported,Author-stated,,,,,,Bone 4; Not reported; figure not specified.,cherisse.persad@gmail.com
+VIS00200,EVT1144,2020-02-13,2020-02-13,2/13/2020,Day,ROV survey / bone sampling,R/V Falkor,ROV SuBastian,S0323,In situ video/stills; hydraulic-arm bone sampling where collected.,1045,1045,Sulfophilic,Author-stated,,,,,,"Bone 5; Collected; figure Fig. 3 E,F.",cherisse.persad@gmail.com
+VIS00201,EVT1145,2020-02-13,2020-02-13,2/13/2020,Day,ROV survey / bone sampling,R/V Falkor,ROV SuBastian,S0323,In situ video/stills; hydraulic-arm bone sampling where collected.,1110,1110,Sulfophilic,Author-stated,,,,,,"Bone 6; At least one vertebra collected; figure Fig. 3 I,J,K.",cherisse.persad@gmail.com
+VIS00202,EVT1146,2020-02-13,2020-02-13,2/13/2020,Day,ROV survey / bone sampling,R/V Falkor,ROV SuBastian,S0323,In situ video/stills; hydraulic-arm bone sampling where collected.,1115,1115,Sulfophilic,Author-stated,,,,,,"Bone 7; One caudal vertebra collected; figure Fig. 3 G,H.",cherisse.persad@gmail.com
+VIS00203,EVT1147,2020-02-13,2020-02-13,2/13/2020,Day,ROV survey / bone sampling,R/V Falkor,ROV SuBastian,S0323,In situ video/stills; hydraulic-arm bone sampling where collected.,1120,1120,Sulfophilic,Author-stated,,,,,,"Bone 8; Skull not collected; one lower jaw explicitly recovered onboard; figure Fig. 3 L,M,N.",cherisse.persad@gmail.com
+VIS00204,EVT1148,2017-05-18,2017-05-18,18 May 2017,Day,Experimental recovery,R/V Alucia,,,Recovery of experimental cow bones; live photography then fixation in 96% ethanol,550,550,approximately 10 months,Author-stated,,,,,,Single lander; bone-level replication unavailable.,cherisse.persad@gmail.com
+VIS00205,EVT0948,,,October 2011,Month,Recovery set 1,R/V Western Flyer,ROV Doc Ricketts,,Recovery and complete enumeration of 16 Acacia logs; specimens from exterior/interior,3203,3203,~5 years,Author-stated,,,,,,"McClain (2014) Dryad contains 16 log rows, whereas the paper reports 18 logs collected in the 2014 subset.",cherisse.persad@gmail.com
+VIS00206,EVT0948,,,October 2013,Month,Recovery set 2,R/V Western Flyer,ROV Doc Ricketts / Tiburon,,Recovery and complete enumeration of remaining 16 Acacia logs,3203,3203,~7 years,Author-stated,,,,,,Second colonisation stage used in McClain 2016/2018 and Webb 2017.,cherisse.persad@gmail.com
+VIS00207,EVT1149,,,2019-04-15,Day,recovery/sampling,,,,Recovery of experimentally deployed cow bones; Osedax later dissected/photographed,,,,,,,,,,Platform=ROV Global Explorer / R/V Pelican; station=Dive 17; source sample resolution=bone/fall; individual specimens,cherisse.persad@gmail.com
+VIS00208,EVT0008,,,2019-04-12,Day,recovery/sampling,,,,Recovery/sampling of alligator bones carrying Osedax,,,,,,,,,,Platform=ROV Global Explorer / R/V Pelican; station=Dive 16; source sample resolution=bone/fall; individual specimens,cherisse.persad@gmail.com
+VIS00209,EVT1150,,,2016-12-01,Day,trawl recovery/sampling,,,,Scientific trawl recovered whale skull; worms scraped from skull after recovery,,,,,,,,,,Platform=R/V Tangaroa; station=TAN1614 Station 9; source sample resolution=single skull; individual specimens,cherisse.persad@gmail.com
+VIS00210,EVT1152,,,2002-10-24,Day,Sampling / sediment cores,,,,Sediment macrofauna + sediment chemistry,1670,1670,Early wood-fall stage,,,,,,,"Dive=TD 492; design=Tube cores at 0, 0.5, 1, 2 m on 3 radial transects",cherisse.persad@gmail.com
+VIS00211,EVT1152,,,2004-03-01,Day,Sampling / sediment cores,,,,Sediment macrofauna + sediment chemistry; direct parcel observation,1670,1670,Developing enrichment/reducing stage,,,,,,,"Dive=TD 652; design=Tube cores at 0, 0.5, 1, 2 m on 3 radial transects",cherisse.persad@gmail.com
+VIS00212,EVT1151,,,2002-10-25,Day,Sampling / sediment cores,,,,Sediment macrofauna + sediment chemistry,1670,1670,Strong organic enrichment,,,,,,,"Dive=TD 494; design=Tube cores at 0, 0.5, 1, 2 m on 3 radial transects",cherisse.persad@gmail.com
+VIS00213,EVT1151,,,2005-03-01,Day,Sampling / sediment cores,,,,Sediment macrofauna + sediment chemistry,1670,1670,Persistent enrichment/reducing stage,,,,,,,"Dive=TD 827; design=Tube cores at 0, 0.5, 1, 2 m on 3 radial transects",cherisse.persad@gmail.com
+VIS00214,EVT0099,,,2015-08-22,Day,Monitoring dive,,,,Imagery only,760,760,Mobile-scavenger,,,,,,,Dive=63; video_compilation=00:51:49; video_analysed=00:51:49,cherisse.persad@gmail.com
+VIS00215,EVT0099,,,2015-08-23,Day,Monitoring dive,,,,Imagery only,760,760,Mobile-scavenger,,,,,,,Dive=64; video_compilation=00:28:48; video_analysed=00:02:42,cherisse.persad@gmail.com
+VIS00216,EVT0099,,,2015-08-30,Day,Monitoring dive,,,,Imagery only,760,760,Mobile-scavenger,,,,,,,Dive=65; video_compilation=00:38:32; video_analysed=00:29:38,cherisse.persad@gmail.com
+VIS00217,EVT0099,,,2015-10-22,Day,Monitoring dive,,,,Imagery only,760,760,Mobile-scavenger / enrichment-opportunistic overlap,,,,,,,Dive=69; video_compilation=00:33:57; video_analysed=00:33:57,cherisse.persad@gmail.com
+VIS00218,EVT0099,,,2015-11-26,Day,Monitoring dive,,,,Imagery only,760,760,Enrichment-opportunistic overlap,,,,,,,Dive=70; video_compilation=03:39:00; video_analysed=00:03:08,cherisse.persad@gmail.com
+VIS00219,EVT0099,,,2016-01-17,Day,Monitoring dive,,,,Imagery only,760,760,Enrichment-opportunistic overlap,,,,,,,Dive=71; video_compilation=03:42:41; video_analysed=03:42:41,cherisse.persad@gmail.com
+VIS00220,EVT0099,,,2016-08-13,Day,Monitoring dive,,,,Rib + thoracic vertebra recovered,760,760,Enrichment-opportunistic; transition toward chemosynthetic-based stage inferred by authors,,,,,,,Dive=84; video_compilation=01:32:58; video_analysed=01:32:58,cherisse.persad@gmail.com
+VIS00221,EVT0974,,,2014-06-22,Day,Recovery / endpoint sampling,,,,Fauna from replicate mesh-bin substrates; published abundance averages n=3.,,,~15 months,,,,,,,Published means across n=3 mesh-bin replicates; replicate identity not recoverable.,cherisse.persad@gmail.com
+VIS00222,EVT0111,,,2014-06-22,Day,Recovery / endpoint sampling,,,,Fauna from replicate mesh-bin substrates; published abundance averages n=3.,,,~15 months,,,,,,,Published means across n=3 mesh-bin replicates; replicate identity not recoverable.,cherisse.persad@gmail.com
+VIS00223,EVT0975,,,2014-06-27,Day,Recovery / endpoint sampling,,,,Fauna from replicate mesh-bin substrates; published abundance averages n=3.,,,~15 months,,,,,,,Published means across n=3 mesh-bin replicates; replicate identity not recoverable.,cherisse.persad@gmail.com
+VIS00224,EVT0112,,,2014-06-27,Day,Recovery / endpoint sampling,,,,Fauna from replicate mesh-bin substrates; published abundance averages n=3.,,,~15 months,,,,,,,Published means across n=3 mesh-bin replicates; replicate identity not recoverable.,cherisse.persad@gmail.com
+VIS00225,EVT0976,,,2014-06-23,Day,Recovery / endpoint sampling,,,,Fauna from replicate mesh-bin substrates; published abundance averages n=3.,,,~15 months,,,,,,,Published means across n=3 mesh-bin replicates; replicate identity not recoverable.,cherisse.persad@gmail.com
+VIS00226,EVT0113,,,2014-06-23,Day,Recovery / endpoint sampling,,,,Fauna from replicate mesh-bin substrates; published abundance averages n=3.,,,~15 months,,,,,,,Published means across n=3 mesh-bin replicates; replicate identity not recoverable.,cherisse.persad@gmail.com
+VIS00227,EVT0977,,,2014-06-26,Day,Recovery / endpoint sampling,,,,Fauna from replicate mesh-bin substrates; published abundance averages n=3.,,,~15 months,,,,,,,Published means across n=3 mesh-bin replicates; replicate identity not recoverable.,cherisse.persad@gmail.com
+VIS00228,EVT0114,,,2014-06-26,Day,Recovery / endpoint sampling,,,,Fauna from replicate mesh-bin substrates; published abundance averages n=3.,,,~15 months,,,,,,,Published means across n=3 mesh-bin replicates; replicate identity not recoverable.,cherisse.persad@gmail.com
+VIS00229,EVT1133,,,2019-02,Month,Experimental recovery,,,,Complete exterior/interior community collection from 24 logs,2171,2171,21-month colonization,,,,,,,individual log IDs reported.,cherisse.persad@gmail.com
+VIS00230,EVT1153,2014-10-09,2014-10-09,2014-10-09,Day,Experimental recovery / wood-parcel community sampling,,SP1500,,Wood-parcel macrofaunal sampling,1508,1508,16-month colonization,Unspecified,3.64,,,,Salinity=34.67 PSU; author-supplied station metadata.,Paired wood treatment for SP1500; paired whale event EVT0002. Author-supplied BioSuOr community data; fine replicate identity is unavailable.,cherisse.persad@gmail.com
+VIS00231,EVT1154,2015-05-25,2015-05-25,2015-05-25,Day,Experimental recovery / wood-parcel community sampling,,SP3300,,Wood-parcel macrofaunal sampling,3358,3358,23-month colonization,Unspecified,1.03,,,,Salinity=34.75 PSU; author-supplied station metadata.,Paired wood treatment for SP3300; paired whale event EVT0003. Author-supplied BioSuOr community data; fine replicate identity is unavailable.,cherisse.persad@gmail.com
+VIS00232,EVT1155,2015-05-23,2015-05-23,2015-05-23,Day,Experimental recovery / wood-parcel community sampling,,RJ3300,,Wood-parcel macrofaunal sampling,3285,3285,23-month colonization,Unspecified,2.45,,,,Salinity=34.91 PSU; author-supplied station metadata.,Paired wood treatment for RJ3300; paired whale event EVT0004. Author-supplied BioSuOr community data; fine replicate identity is unavailable.,cherisse.persad@gmail.com
+VIS00233,EVT1156,2015-05-21,2015-05-21,2015-05-21,Day,Experimental recovery / wood-parcel community sampling,,ES1500,,Wood-parcel macrofaunal sampling,1491,1491,23-month colonization,Unspecified,3.58,,,,Salinity=34.76 PSU; author-supplied station metadata.,Paired wood treatment for ES1500; paired whale event EVT0005. Author-supplied BioSuOr community data; fine replicate identity is unavailable.,cherisse.persad@gmail.com
+VIS00234,EVT1157,2015-05-22,2015-05-22,2015-05-22,Day,Experimental recovery / wood-parcel community sampling,,ES3300,,Wood-parcel macrofaunal sampling,3322,3322,23-month colonization,Unspecified,2.42,,,,Salinity=34.9 PSU; author-supplied station metadata.,Paired wood treatment for ES3300; paired whale event EVT0006. Author-supplied BioSuOr community data; fine replicate identity is unavailable.,cherisse.persad@gmail.com
+VIS00235,EVT0035,2009-02,2009-02,February 2009,Month,Recovery/sampling,,,,Implanted bone recovery,650,650,,,,,,,,ACES1; Molecular/specimen records could not be assigned to a specific lander..,cherisse.persad@gmail.com
+VIS00236,EVT0036,2009-02-09,2009-02-09,9 February 2009,Day,Recovery/sampling,,,,Implanted bone recovery,568,568,,,,,,,,,cherisse.persad@gmail.com
+VIS00237,EVT0606,2007-11-11,2007-11-11,2007-11-11,Day,Recovery/sampling,,,,experimental wood retrieval,1690,1690,,,,,,,,,cherisse.persad@gmail.com
+VIS00238,EVT0605,2007-11-11,2007-11-11,2007-11-11,Day,Recovery/sampling,,,,experimental wood retrieval,1690,1690,,,,,,,,,cherisse.persad@gmail.com
+VIS00239,EVT0604,2007-11-13,2007-11-13,2007-11-13,Day,Recovery/sampling,,,,experimental wood retrieval,1690,1690,,,,,,,,,cherisse.persad@gmail.com
+VIS00240,EVT1161,2007-11-11,2007-11-11,2007-11-11,Day,Recovery/sampling,,,,experimental wood retrieval,1690,1690,,,,,,,,,cherisse.persad@gmail.com
+VIS00241,EVT0428,1951-08-21,1951-08-21,1951-08-21,Day,Sampling,Galathea expedition,450,,deep-sea collection,4940,4970,,,,,,,,,cherisse.persad@gmail.com
+VIS00242,EVT0310,1952-05-13,1952-05-13,1952-05-13,Day,Sampling,Galathea expedition,726,,deep-sea collection,3270,3670,,,,,,,,,cherisse.persad@gmail.com
+VIS00243,EVT0312,1952-05-16,1952-05-16,1952-05-16,Day,Sampling,Galathea expedition,745,,deep-sea collection,915,915,,,,,,,,,cherisse.persad@gmail.com
+VIS00244,EVT0970,2021-02-03,2021-02-03,3 February 2021,Day,Sampling,KM21-E02,,KM-ROV dive #149,KM-ROV collection,858,858,,,,,,,,,cherisse.persad@gmail.com
+VIS00245,EVT0493,2017-05-20,2017-05-20,2017-05-20,Day,Trawl collection,IN2017_V03,,,beam trawl,4114,4139,,,,,,,,,cherisse.persad@gmail.com
+VIS00246,EVT0494,2017-05-25,2017-05-25,2017-05-25,Day,Trawl collection,IN2017_V03,,,beam trawl,2338,2581,,,,,,,,,cherisse.persad@gmail.com
+VIS00247,EVT0495,2017-06-03,2017-06-03,2017-06-03,Day,Trawl collection,IN2017_V03,,,beam trawl,2474,2595,,,,,,,,,cherisse.persad@gmail.com
+VIS00248,EVT1162,2024-05,2024-05,May 2024,Month,Revisit/sampling,,,,deep-sea collection,5506,5506,,,,,,,,,cherisse.persad@gmail.com
+VIS00249,EVT1163,2012-12-21,2012-12-21,21 December 2012,Day,Trawl collection,Papua Nuigini expedition,CP4062,,French beam trawl / RV ALIS,500,580,,,,,,,,,cherisse.persad@gmail.com
+VIS00250,EVT1164,,,19/20 August 2016 (source conflict),Conflicting day,Sampling,SO250 KuramBio II,SO250-9,,RV Sonne deep-sea sampling,5101,5134,,,,,,,,,cherisse.persad@gmail.com
+VIS00251,EVT1165,2023-08-23,2023-08-23,23 August 2023,Day,ROV sampling,NA153,,H1999,E/V Nautilus ROV collection,2379,2379,,,,,,,,,cherisse.persad@gmail.com
+VIS00252,EVT0280,2004-09-03,2004-09-03,2004-09-03,Day,Recovery/sampling,,,,subsea vehicle recovery,,,,,,,,,,Voight 2007 recovery unit; duration 24 mo.,cherisse.persad@gmail.com
+VIS00253,EVT0281,2003-07-08,2003-07-08,2003-07-08,Day,Recovery/sampling,,,,subsea vehicle recovery,,,,,,,,,,Voight 2007 recovery unit; duration 10 mo.,cherisse.persad@gmail.com
+VIS00254,EVT0282,2003-07-11,2003-07-11,2003-07-11,Day,Recovery/sampling,,,,subsea vehicle recovery,,,,,,,,,,Voight 2007 recovery unit; duration 10 mo.,cherisse.persad@gmail.com
+VIS00255,EVT0283,2004-08-30,2004-08-30,2004-08-30,Day,Recovery/sampling,,,,subsea vehicle recovery,,,,,,,,,,Voight 2007 recovery unit; duration 24 mo.,cherisse.persad@gmail.com
+VIS00256,EVT0284,2004-08-31,2004-08-31,2004-08-31,Day,Recovery/sampling,,,,subsea vehicle recovery,,,,,,,,,,Voight 2007 recovery unit; duration 24 mo.,cherisse.persad@gmail.com
+VIS00257,EVT0285,2003-09-03,2003-09-03,2003-09-03,Day,Recovery/sampling,,,,subsea vehicle recovery,,,,,,,,,,Voight 2007 recovery unit; duration 10 mo.,cherisse.persad@gmail.com
+VIS00258,EVT0286,2003-07-15,2003-07-15,2003-07-15,Day,Recovery/sampling,,,,subsea vehicle recovery,,,,,,,,,,Voight 2007 recovery unit; duration 10 mo.,cherisse.persad@gmail.com
+VIS00259,EVT0286,2004-09-02,2004-09-02,2004-09-02,Day,Recovery/sampling,,,,subsea vehicle recovery,,,,,,,,,,Voight 2007 recovery unit; duration 24 mo.,cherisse.persad@gmail.com
+VIS00260,EVT0287,,,2000-07,Month,Recovery/sampling,,,,subsea vehicle recovery,,,,,,,,,,Voight 2007 recovery unit; duration July 2000.,cherisse.persad@gmail.com
+VIS00261,EVT0288,,,2005-09,Month,Recovery/sampling,,,,subsea vehicle recovery,,,,,,,,,,Voight 2007 recovery unit; duration September 2005.,cherisse.persad@gmail.com
+VIS00262,EVT0289,1997-04-17,1997-04-17,1997-04-17,Day,Trawl collection,,,,trawl,,,,,,,,,,Voight 2007 recovery unit; duration 17 April 1997.,cherisse.persad@gmail.com
+VIS00263,EVT1166,2020-11-26,2020-11-26,26 November 2020,Exact,Sampling/collection,KM20-10C,,KM-ROV dive #122,KM-ROV manipulator / specimen collection,1901,1901,,,,,,,,Natural sunken-wood piece collected/observed at Shoho Seamount; direct habitat association for both Munidopsis species.,cherisse.persad@gmail.com
+VIS00264,EVT0042,2002-02,2002-02,2002-02,Month,Monitoring/sampling,,,T391,ROV Tiburon video observation and targeted sampling,2898,2898,,,,,,,,Braby et al. (2007) monitoring visit; approximate carcass age 6 months.,cherisse.persad@gmail.com
+VIS00265,EVT0042,2002-03,2002-03,2002-03,Month,Monitoring/sampling,,,T406,ROV Tiburon video observation and targeted sampling,2898,2898,,,,,,,,Braby et al. (2007) monitoring visit; approximate carcass age 7 months.,cherisse.persad@gmail.com
+VIS00266,EVT0042,2002-10,2002-10,2002-10,Month,Monitoring/sampling,,,T486,ROV Tiburon video observation and targeted sampling,2898,2898,,,,,,,,Braby et al. (2007) monitoring visit; approximate carcass age 14 months.,cherisse.persad@gmail.com
+VIS00267,EVT0042,2003-08,2003-08,2003-08,Month,Monitoring/sampling,,,T609; T610,ROV Tiburon video observation and targeted sampling,2898,2898,,,,,,,,Braby et al. (2007) monitoring visit; approximate carcass age 24 months.,cherisse.persad@gmail.com
+VIS00268,EVT0042,2004-01,2004-01,2004-01,Month,Monitoring/sampling,,,T644,ROV Tiburon video observation and targeted sampling,2898,2898,,,,,,,,Braby et al. (2007) monitoring visit; approximate carcass age 29 months.,cherisse.persad@gmail.com
+VIS00269,EVT0042,2004-05,2004-05,2004-05,Month,Monitoring/sampling,,,T671,ROV Tiburon video observation and targeted sampling,2898,2898,,,,,,,,Braby et al. (2007) monitoring visit; approximate carcass age 33 months.,cherisse.persad@gmail.com
+VIS00270,EVT0042,2004-09,2004-09,2004-09,Month,Monitoring/sampling,,,T742,ROV Tiburon video observation and targeted sampling,2898,2898,,,,,,,,Braby et al. (2007) monitoring visit; approximate carcass age 38 months.,cherisse.persad@gmail.com
+VIS00271,EVT0042,2004-11,2004-11,2004-11,Month,Monitoring/sampling,,,T769,ROV Tiburon video observation and targeted sampling,2898,2898,,,,,,,,Braby et al. (2007) monitoring visit; approximate carcass age 40 months.,cherisse.persad@gmail.com
+VIS00272,EVT0042,2005-01,2005-01,2005-01,Month,Monitoring/sampling,,,T777,ROV Tiburon video observation and targeted sampling,2898,2898,,,,,,,,Braby et al. (2007) monitoring visit; approximate carcass age 41 months.,cherisse.persad@gmail.com
+VIS00273,EVT0042,2005-11,2005-11,2005-11,Month,Monitoring/sampling,,,T917,ROV Tiburon video observation and targeted sampling,2898,2898,,,,,,,,Braby et al. (2007) monitoring visit; approximate carcass age 51 months.,cherisse.persad@gmail.com
+VIS00274,EVT0042,2006-01,2006-01,2006-01,Month,Monitoring/sampling,,,T932,ROV Tiburon video observation and targeted sampling,2898,2898,,,,,,,,Braby et al. (2007) monitoring visit; approximate carcass age 53 months.,cherisse.persad@gmail.com
+VIS00275,EVT0042,2006-05,2006-05,2006-05,Month,Monitoring/sampling,,,T991,ROV Tiburon video observation and targeted sampling,2898,2898,,,,,,,,Braby et al. (2007) monitoring visit; approximate carcass age 57 months.,cherisse.persad@gmail.com
+VIS00276,EVT0061,2006-05,2006-05,2006-05,Month,Monitoring/sampling,,,T990,ROV Tiburon video observation and targeted sampling,1820,1820,,,,,,,,Braby et al. (2007) monitoring visit; approximate carcass age 2 months.,cherisse.persad@gmail.com
+VIS00277,EVT0041,2004-12,2004-12,2004-12,Month,Monitoring/sampling,,,V2607,ROV Ventana video observation and targeted sampling,1018,1018,,,,,,,,Braby et al. (2007) monitoring visit; approximate carcass age 2 months.,cherisse.persad@gmail.com
+VIS00278,EVT0041,2005-01,2005-01,2005-01,Month,Monitoring/sampling,,,T776; T778,ROV Tiburon video observation and targeted sampling,1018,1018,,,,,,,,Braby et al. (2007) monitoring visit; approximate carcass age 3 months.,cherisse.persad@gmail.com
+VIS00279,EVT0041,2005-02,2005-02,2005-02,Month,Monitoring/sampling,,,V2621,ROV Ventana video observation and targeted sampling,1018,1018,,,,,,,,Braby et al. (2007) monitoring visit; approximate carcass age 4 months.,cherisse.persad@gmail.com
+VIS00280,EVT0041,2005-07,2005-07,2005-07,Month,Monitoring/sampling,,,V2689,ROV Ventana video observation and targeted sampling,1018,1018,,,,,,,,Braby et al. (2007) monitoring visit; approximate carcass age 9 months.,cherisse.persad@gmail.com
+VIS00281,EVT0041,2005-11,2005-11,2005-11,Month,Monitoring/sampling,,,T916,ROV Tiburon video observation and targeted sampling,1018,1018,,,,,,,,Braby et al. (2007) monitoring visit; approximate carcass age 13 months.,cherisse.persad@gmail.com
+VIS00282,EVT0041,2006-01,2006-01,2006-01,Month,Monitoring/sampling,,,T931,ROV Tiburon video observation and targeted sampling,1018,1018,,,,,,,,Braby et al. (2007) monitoring visit; approximate carcass age 14 months.,cherisse.persad@gmail.com
+VIS00283,EVT0041,2006-05,2006-05,2006-05,Month,Monitoring/sampling,,,T992,ROV Tiburon video observation and targeted sampling,1018,1018,,,,,,,,Braby et al. (2007) monitoring visit; approximate carcass age 18 months.,cherisse.persad@gmail.com
+VIS00284,EVT0989,2005-05,2005-05,2005-05,Month,Monitoring/sampling,,,V2657,ROV Ventana video observation and targeted sampling,382,382,,,,,,,,Braby et al. (2007) monitoring visit; approximate carcass age 1 months.,cherisse.persad@gmail.com
+VIS00285,EVT0989,2005-07,2005-07,2005-07,Month,Monitoring/sampling,,,V2690,ROV Ventana video observation and targeted sampling,382,382,,,,,,,,Braby et al. (2007) monitoring visit; approximate carcass age 3 months.,cherisse.persad@gmail.com
+VIS00286,EVT0989,2005-08,2005-08,2005-08,Month,Monitoring/sampling,,,V2713,ROV Ventana video observation and targeted sampling,382,382,,,,,,,,Braby et al. (2007) monitoring visit; approximate carcass age 5 months.,cherisse.persad@gmail.com
+VIS00287,EVT0989,2005-11,2005-11,2005-11,Month,Monitoring/sampling,,,T918,ROV Tiburon video observation and targeted sampling,382,382,,,,,,,,Braby et al. (2007) monitoring visit; approximate carcass age 7 months.,cherisse.persad@gmail.com
+VIS00288,EVT0989,2006-01,2006-01,2006-01,Month,Monitoring/sampling,,,T933,ROV Tiburon video observation and targeted sampling,382,382,,,,,,,,Braby et al. (2007) monitoring visit; approximate carcass age 9 months.,cherisse.persad@gmail.com
+VIS00289,EVT0989,2006-05,2006-05,2006-05,Month,Monitoring/sampling,,,T993,ROV Tiburon video observation and targeted sampling,382,382,,,,,,,,Braby et al. (2007) monitoring visit; approximate carcass age 13 months.,cherisse.persad@gmail.com
+VIS00290,EVT0108,1996-10-23,1996-10-23,1996-10-23,Exact,Sampling,,,ATV Dive #188,Sediment coring,1240,1240,Enrichment opportunist,,3.2,1 ml/L,,,Salinity 34.4 PSU.,V. flokati formed an undulating carpet on sediment surrounding the skeleton.,cherisse.persad@gmail.com
+VIS00291,EVT1167,1999-08-31,1999-08-31,1999-08-31,Exact,Sampling,,,Pisces V Dive #416,Box wash,1057,1057,Enrichment opportunist,,4.2,1.8 ml/L,,,Salinity 34.5 PSU.,Five juveniles and one anterior fragment with eggs and large-type notochaetae reported.,cherisse.persad@gmail.com
+VIS00292,EVT0106,1999-10-17,1999-10-17,1999-10-17,Exact,Sampling,,,DSV Alvin Dive #3485,Slurp gun; box wash,1675,1675,Enrichment opportunist,,4.1,0.8 ml/L,,,Salinity 34.5 PSU.,Large and small individuals present; 123 small individuals collected on five vertebrae.,cherisse.persad@gmail.com

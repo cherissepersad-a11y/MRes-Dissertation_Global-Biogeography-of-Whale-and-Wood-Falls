@@ -1,0 +1,472 @@
+﻿Site_ID,Fall_Type,Taxon,Site_Name,Latitude,Longitude
+SITE0001,Whale,Ampharetidae,São Paulo Ridge,-28.5186516666666,-41.6568283333333
+SITE0001,Whale,Capitellidae,São Paulo Ridge,-28.5186516666666,-41.6568283333333
+SITE0001,Whale,Chaetopteridae,São Paulo Ridge,-28.5186516666666,-41.6568283333333
+SITE0001,Whale,Chrysopetalidae,São Paulo Ridge,-28.5186516666666,-41.6568283333333
+SITE0001,Whale,Cirratulidae,São Paulo Ridge,-28.5186516666666,-41.6568283333333
+SITE0001,Whale,Dorvilleidae,São Paulo Ridge,-28.5186516666666,-41.6568283333333
+SITE0001,Whale,Hesionidae,São Paulo Ridge,-28.5186516666666,-41.6568283333333
+SITE0001,Whale,Malletiidae,São Paulo Ridge,-28.5186516666666,-41.6568283333333
+SITE0001,Whale,Munidopsidae,São Paulo Ridge,-28.5186516666666,-41.6568283333333
+SITE0001,Whale,Nereididae,São Paulo Ridge,-28.5186516666666,-41.6568283333333
+SITE0001,Whale,Polynoidae,São Paulo Ridge,-28.5186516666666,-41.6568283333333
+SITE0001,Whale,Siboglinidae,São Paulo Ridge,-28.5186516666666,-41.6568283333333
+SITE0001,Whale,Sphaerodoridae,São Paulo Ridge,-28.5186516666666,-41.6568283333333
+SITE0001,Whale,Spionidae,São Paulo Ridge,-28.5186516666666,-41.6568283333333
+SITE0001,Whale,Uristidae,São Paulo Ridge,-28.5186516666666,-41.6568283333333
+SITE0001,Whale,Xyalidae,São Paulo Ridge,-28.5186516666666,-41.6568283333333
+SITE0003,Whale,Ampharetidae,off São Paulo,-28.0285,-43.5296666666666
+SITE0003,Whale,Capitellidae,off São Paulo,-28.0285,-43.5296666666666
+SITE0003,Whale,Dorvilleidae,off São Paulo,-28.0285,-43.5296666666666
+SITE0003,Whale,Hesionidae,off São Paulo,-28.0285,-43.5296666666666
+SITE0003,Whale,Hyalogyrinidae,off São Paulo,-28.0285,-43.5296666666666
+SITE0003,Whale,Iphimediidae,off São Paulo,-28.0285,-43.5296666666666
+SITE0003,Whale,Metapseudidae,off São Paulo,-28.0285,-43.5296666666666
+SITE0003,Whale,Munidopsidae,off São Paulo,-28.0285,-43.5296666666666
+SITE0003,Whale,Mytilidae,off São Paulo,-28.0285,-43.5296666666666
+SITE0003,Whale,Provannidae,off São Paulo,-28.0285,-43.5296666666666
+SITE0003,Whale,Raphitomidae,off São Paulo,-28.0285,-43.5296666666666
+SITE0003,Whale,Sebidae,off São Paulo,-28.0285,-43.5296666666666
+SITE0003,Whale,Siboglinidae,off São Paulo,-28.0285,-43.5296666666666
+SITE0003,Whale,Spionidae,off São Paulo,-28.0285,-43.5296666666666
+SITE0003,Whale,unassigned,off São Paulo,-28.0285,-43.5296666666666
+SITE0003,Wood,Amphinomidae,off São Paulo,-28.0285,-43.5296666666666
+SITE0003,Wood,Capitellidae,off São Paulo,-28.0285,-43.5296666666666
+SITE0003,Wood,Chrysopetallidae,off São Paulo,-28.0285,-43.5296666666666
+SITE0003,Wood,Hesionidae,off São Paulo,-28.0285,-43.5296666666666
+SITE0003,Wood,Hyalogyrinidae,off São Paulo,-28.0285,-43.5296666666666
+SITE0003,Wood,Lysianassidae,off São Paulo,-28.0285,-43.5296666666666
+SITE0003,Wood,Melitidae,off São Paulo,-28.0285,-43.5296666666666
+SITE0003,Wood,Munidopsidae,off São Paulo,-28.0285,-43.5296666666666
+SITE0003,Wood,Ophiactidae,off São Paulo,-28.0285,-43.5296666666666
+SITE0003,Wood,Phyllodocidae,off São Paulo,-28.0285,-43.5296666666666
+SITE0003,Wood,Polynoidae,off São Paulo,-28.0285,-43.5296666666666
+SITE0003,Wood,Provannidae,off São Paulo,-28.0285,-43.5296666666666
+SITE0003,Wood,Raphitomidae,off São Paulo,-28.0285,-43.5296666666666
+SITE0003,Wood,Sebidae,off São Paulo,-28.0285,-43.5296666666666
+SITE0003,Wood,Xylophagaidae,off São Paulo,-28.0285,-43.5296666666666
+SITE0003,Wood,unassigned,off São Paulo,-28.0285,-43.5296666666666
+SITE0007,Whale,Hesionidae,off Santos,-26.6,-46.15
+SITE0007,Whale,Siboglinidae,off Santos,-26.6,-46.15
+SITE0010,Whale,Pyropeltidae,off Point Sur,36.2933333333333,-122.203333333333
+SITE0011,Whale,Pyropeltidae,off Point Lobos,36.4366666666666,-122.263333333333
+SITE0012,Whale,Pyropeltidae,Monterey Bay,36.94,-122.631666666666
+SITE0015,Whale,Osteopeltidae,"off Southwestern Iceland, between Vestmannaeyjar and Reykjanesridge",,
+SITE0016,Whale,Mytilidae,"off Vestmannaeyar, Southern Iceland",,
+SITE0017,Whale,Mytilidae,off Bay of Biscay,,
+SITE0018,Whale,Mytilidae,off Bastia (Corsica),,
+SITE0019,Whale,Mytilidae,Bjarnarey (Southern Iceland),,
+SITE0020,Whale,Skeneidae,"Skeidarardypi, off southwestern Iceland",,
+SITE0021,Whale,Mytilidae,Adriatic Sea,42.4863833333333,17.0026416666666
+SITE0022,Whale,Mytilidae,"off Sète, Lion Gulf",,
+SITE0023,Whale,Mytilidae,west Póvoa de Varzim (Portugal),41.4783333333333,-9.21166666666666
+SITE0024,Whale,Mytilidae,North Azores,42.8333333333333,-28.6291666666666
+SITE0025,Whale,Mytilidae,Chatham Islands (New Zealand),-42.9366666666666,-175.543333333333
+SITE0025,Whale,Osteopeltidae,Chatham Islands (New Zealand),-42.9366666666666,-175.543333333333
+SITE0025,Whale,Phascolosomatidae,Chatham Islands (New Zealand),-42.9366666666666,-175.543333333333
+SITE0026,Whale,Mytilidae,"off Mernoo Bank, Chatham Rise (New Zealand)",-43.569,176.3115
+SITE0026,Whale,Osteopeltidae,"off Mernoo Bank, Chatham Rise (New Zealand)",-43.569,176.3115
+SITE0026,Whale,Xylodisculidae,"off Mernoo Bank, Chatham Rise (New Zealand)",-43.569,176.3115
+SITE0027,Whale,Mytilidae,Chatham Rise (New Zealand),-44.13,178.526666666666
+SITE0027,Whale,Osteopeltidae,Chatham Rise (New Zealand),-44.13,178.526666666666
+SITE0028,Whale,Cocculinidae,off Banks Peninsula (New Zealand),-44.675,174.016666666666
+SITE0028,Whale,Mytilidae,off Banks Peninsula (New Zealand),-44.675,174.016666666666
+SITE0029,Whale,Mytilidae,East Slope Challenger Plateau (New Zealand),-39.8666666666666,167.116666666666
+SITE0030,Whale,Cocculinidae,Challenger Plateau (New Zealand),-39.8866666666666,168.02
+SITE0030,Whale,Mytilidae,Challenger Plateau (New Zealand),-39.8866666666666,168.02
+SITE0030,Whale,Osteopeltidae,Challenger Plateau (New Zealand),-39.8866666666666,168.02
+SITE0030,Whale,Skeneidae,Challenger Plateau (New Zealand),-39.8866666666666,168.02
+SITE0031,Whale,Mytilidae,Chatham Rise (New Zealand),-43.8583333333333,177.863333333333
+SITE0032,Whale,Skeneidae,NE Chatham Islands (New Zealand),-43.2833333333333,174.091666666666
+SITE0033,Whale,Siboglinidae,"ACES1, off Smith Island, Antarctic Peninsula",-63.1645,-61.689
+SITE0034,Whale,Siboglinidae,"ACES2, off Smith Island, Antarctic Peninsula",-63.183,-61.636
+SITE0035,Whale,Ammotheidae,"East Scotia Sea, Kemp Caldera",-59.6945166666666,-28.3514833333333
+SITE0035,Whale,Cerabratulidae,"East Scotia Sea, Kemp Caldera",-59.6945166666666,-28.3514833333333
+SITE0035,Whale,Dorvilleidae,"East Scotia Sea, Kemp Caldera",-59.6945166666666,-28.3514833333333
+SITE0035,Whale,Echinidae,"East Scotia Sea, Kemp Caldera",-59.6945166666666,-28.3514833333333
+SITE0035,Whale,Janiridae,"East Scotia Sea, Kemp Caldera",-59.6945166666666,-28.3514833333333
+SITE0035,Whale,Lepetodrillae,"East Scotia Sea, Kemp Caldera",-59.6945166666666,-28.3514833333333
+SITE0035,Whale,Munnopsidae,"East Scotia Sea, Kemp Caldera",-59.6945166666666,-28.3514833333333
+SITE0035,Whale,Nematocarcinidae,"East Scotia Sea, Kemp Caldera",-59.6945166666666,-28.3514833333333
+SITE0035,Whale,Nothotheniidae,"East Scotia Sea, Kemp Caldera",-59.6945166666666,-28.3514833333333
+SITE0035,Whale,Pyropeltidae,"East Scotia Sea, Kemp Caldera",-59.6945166666666,-28.3514833333333
+SITE0035,Whale,Siboglinidae,"East Scotia Sea, Kemp Caldera",-59.6945166666666,-28.3514833333333
+SITE0037,Whale,Cirratulidae,"Whalers Bay, Deception Island",-62.9888333333333,-60.5575
+SITE0037,Whale,Dorvilleidae,"Whalers Bay, Deception Island",-62.9888333333333,-60.5575
+SITE0037,Whale,Siboglinidae,"Whalers Bay, Deception Island",-62.9888333333333,-60.5575
+SITE0039,Whale,Buccinidae,"Monterey Bay, CA, USA",36.6101,-122.435366666666
+SITE0039,Whale,Chaetopteridae,"Monterey Bay, CA, USA",36.6101,-122.435366666666
+SITE0039,Whale,Diogenidae,"Monterey Bay, CA, USA",36.6101,-122.435366666666
+SITE0039,Whale,Dorvilleidae,"Monterey Bay, CA, USA",36.6101,-122.435366666666
+SITE0039,Whale,Glaucidae,"Monterey Bay, CA, USA",36.6101,-122.435366666666
+SITE0039,Whale,Hesionidae,"Monterey Bay, CA, USA",36.6101,-122.435366666666
+SITE0039,Whale,Lepetodrillae,"Monterey Bay, CA, USA",36.6101,-122.435366666666
+SITE0039,Whale,Liparidae,"Monterey Bay, CA, USA",36.6101,-122.435366666666
+SITE0039,Whale,Mytilidae,"Monterey Bay, CA, USA",36.6101,-122.435366666666
+SITE0039,Whale,Nereididae,"Monterey Bay, CA, USA",36.6101,-122.435366666666
+SITE0039,Whale,Polynoidae,"Monterey Bay, CA, USA",36.6101,-122.435366666666
+SITE0039,Whale,Protodrilidae,"Monterey Bay, CA, USA",36.6101,-122.435366666666
+SITE0039,Whale,Provannidae,"Monterey Bay, CA, USA",36.6101,-122.435366666666
+SITE0039,Whale,Pseudococculinidae,"Monterey Bay, CA, USA",36.6101,-122.435366666666
+SITE0039,Whale,Siboglinidae,"Monterey Bay, CA, USA",36.6101,-122.435366666666
+SITE0039,Whale,Spionidae,"Monterey Bay, CA, USA",36.6101,-122.435366666666
+SITE0039,Whale,Vesicomyidae,"Monterey Bay, CA, USA",36.6101,-122.435366666666
+SITE0039,Whale,Zoarcidae,"Monterey Bay, CA, USA",36.6101,-122.435366666666
+SITE0040,Whale,Siboglinidae,Cape Nomamisaki (Japan),31.3453333333333,129.988166666666
+SITE0042,Whale,Brissidae,Kosterfjord (Sweden),58.885,11.1066666666666
+SITE0042,Whale,Capulidae,Kosterfjord (Sweden),58.885,11.1066666666666
+SITE0042,Whale,Cardiidae,Kosterfjord (Sweden),58.885,11.1066666666666
+SITE0042,Whale,Chrysopetalidae,Kosterfjord (Sweden),58.885,11.1066666666666
+SITE0042,Whale,Craniidae,Kosterfjord (Sweden),58.885,11.1066666666666
+SITE0042,Whale,Cylichnidae,Kosterfjord (Sweden),58.885,11.1066666666666
+SITE0042,Whale,Dorvilleidae,Kosterfjord (Sweden),58.885,11.1066666666666
+SITE0042,Whale,Hiatellidae,Kosterfjord (Sweden),58.885,11.1066666666666
+SITE0042,Whale,Lasaeidae,Kosterfjord (Sweden),58.885,11.1066666666666
+SITE0042,Whale,Mytilidae,Kosterfjord (Sweden),58.885,11.1066666666666
+SITE0042,Whale,Nuculanidae,Kosterfjord (Sweden),58.885,11.1066666666666
+SITE0042,Whale,Nuculidae,Kosterfjord (Sweden),58.885,11.1066666666666
+SITE0042,Whale,Oregoniidae,Kosterfjord (Sweden),58.885,11.1066666666666
+SITE0042,Whale,Rissoidae,Kosterfjord (Sweden),58.885,11.1066666666666
+SITE0042,Whale,Semelidae,Kosterfjord (Sweden),58.885,11.1066666666666
+SITE0042,Whale,Siboglinidae,Kosterfjord (Sweden),58.885,11.1066666666666
+SITE0042,Whale,Spatangidae,Kosterfjord (Sweden),58.885,11.1066666666666
+SITE0042,Whale,Thyasiridae,Kosterfjord (Sweden),58.885,11.1066666666666
+SITE0042,Whale,Turritellidae,Kosterfjord (Sweden),58.885,11.1066666666666
+SITE0042,Whale,Yoldiidae,Kosterfjord (Sweden),58.885,11.1066666666666
+SITE0043,Whale,Siboglinidae,"Monterey Bay, CA, USA",36.8029666666666,-121.994616666666
+SITE0046,Whale,Dorvilleidae,"Monterey Bay, CA, USA",36.7082666666666,-122.105266666666
+SITE0046,Whale,Liparidae,"Monterey Bay, CA, USA",36.7082666666666,-122.105266666666
+SITE0046,Whale,Siboglinidae,"Monterey Bay, CA, USA",36.7082666666666,-122.105266666666
+SITE0046,Whale,Zoarcidae,"Monterey Bay, CA, USA",36.7082666666666,-122.105266666666
+SITE0049,Whale,Dorvilleidae,"Colatinas, Deception Island",-62.9913666666666,-60.61825
+SITE0050,Whale,Mytilidae,South-West Ireland,52.5,-12
+SITE0052,Whale,Mytilidae,South-West Ireland,,
+SITE0053,Whale,Mytilidae,150 miles off NE Aberdeen (North Sea),,
+SITE0054,Whale,Mytilidae,20 miles off NW Fair Isle,,
+SITE0055,Whale,Mytilidae,East Shetlands,,
+SITE0056,Whale,Mytilidae,Gulf of San Jorge,-46.1666666666666,-61.8333333333333
+SITE0057,Whale,Mytilidae,Gascogne Gulf,47.0333333333333,-4.68333333333333
+SITE0059,Whale,Dorvilleidae,"Malene Bay, Nuuk (Greenland)",64.1569444444444,-51.6969444444444
+SITE0060,Whale,Actiniidae,Torishima seamount (Japan),30.9241666666666,141.828666666666
+SITE0060,Whale,Munidopsidae,Torishima seamount (Japan),30.9241666666666,141.828666666666
+SITE0060,Whale,Mytilidae,Torishima seamount (Japan),30.9241666666666,141.828666666666
+SITE0060,Whale,Spionidae,Torishima seamount (Japan),30.9241666666666,141.828666666666
+SITE0061,Whale,Halipteridae,British Columbia,48.6754388888888,-126.0899
+SITE0061,Whale,Lithodidae,British Columbia,48.6754388888888,-126.0899
+SITE0061,Whale,Macrouridae,British Columbia,48.6754388888888,-126.0899
+SITE0061,Whale,Moridae,British Columbia,48.6754388888888,-126.0899
+SITE0061,Whale,Mytilidae,British Columbia,48.6754388888888,-126.0899
+SITE0061,Whale,Pandalidae,British Columbia,48.6754388888888,-126.0899
+SITE0061,Whale,Siboglinidae,British Columbia,48.6754388888888,-126.0899
+SITE0061,Whale,Vesicomyidae,British Columbia,48.6754388888888,-126.0899
+SITE0062,Whale,Mytilidae,Capraia Island (Italy),,
+SITE0063,Whale,Mytilidae,"Marettimo Island, Tyrrhenian Sea (Italy)",,
+SITE0064,Whale,Siboglinidae,"Blanes canyon, Catalonia",41.6709722222222,2.8898
+SITE0066,Whale,Siboglinidae,"Whalers Bay, Deception Island",-62.9899166666666,-60.5613888888888
+SITE0067,Whale,Polynoidae,Nansei-Shoto Trench (Philippine Sea),23.9093466666666,126.36227
+SITE0069,Whale,Siboglinidae,"Hydrate Ridge, Oregon",44.669,-125.098
+SITE0072,Whale,Mytilidae,Vanuatu,-15.704,167.0435
+SITE0073,Whale,Acrocirridae,"Coral Seamount, Southwest Indian Ridge",-41.373,42.9106666666666
+SITE0073,Whale,Amaryllididae,"Coral Seamount, Southwest Indian Ridge",-41.373,42.9106666666666
+SITE0073,Whale,Ammotheidae,"Coral Seamount, Southwest Indian Ridge",-41.373,42.9106666666666
+SITE0073,Whale,Arcturidae,"Coral Seamount, Southwest Indian Ridge",-41.373,42.9106666666666
+SITE0073,Whale,Austrodecidae,"Coral Seamount, Southwest Indian Ridge",-41.373,42.9106666666666
+SITE0073,Whale,Capitellidae,"Coral Seamount, Southwest Indian Ridge",-41.373,42.9106666666666
+SITE0073,Whale,Colossendeidae,"Coral Seamount, Southwest Indian Ridge",-41.373,42.9106666666666
+SITE0073,Whale,Dorvilleidae,"Coral Seamount, Southwest Indian Ridge",-41.373,42.9106666666666
+SITE0073,Whale,Hippolytidae,"Coral Seamount, Southwest Indian Ridge",-41.373,42.9106666666666
+SITE0073,Whale,Ischyroceridae,"Coral Seamount, Southwest Indian Ridge",-41.373,42.9106666666666
+SITE0073,Whale,Leucothoidae,"Coral Seamount, Southwest Indian Ridge",-41.373,42.9106666666666
+SITE0073,Whale,Lysianassidae,"Coral Seamount, Southwest Indian Ridge",-41.373,42.9106666666666
+SITE0073,Whale,Munnopsidae,"Coral Seamount, Southwest Indian Ridge",-41.373,42.9106666666666
+SITE0073,Whale,Mytilidae,"Coral Seamount, Southwest Indian Ridge",-41.373,42.9106666666666
+SITE0073,Whale,Nymphonidae,"Coral Seamount, Southwest Indian Ridge",-41.373,42.9106666666666
+SITE0073,Whale,Podoceridae,"Coral Seamount, Southwest Indian Ridge",-41.373,42.9106666666666
+SITE0073,Whale,Polynoidae,"Coral Seamount, Southwest Indian Ridge",-41.373,42.9106666666666
+SITE0073,Whale,Rhynchothoracidae,"Coral Seamount, Southwest Indian Ridge",-41.373,42.9106666666666
+SITE0073,Whale,Sabellidae,"Coral Seamount, Southwest Indian Ridge",-41.373,42.9106666666666
+SITE0073,Whale,Sebidae,"Coral Seamount, Southwest Indian Ridge",-41.373,42.9106666666666
+SITE0074,Whale,Colossendeidae,"Atlantis Bank, Southwest Indian Ridge",-32.7118333333333,57.2718333333333
+SITE0074,Whale,Dorvilleidae,"Atlantis Bank, Southwest Indian Ridge",-32.7118333333333,57.2718333333333
+SITE0074,Whale,Echinidae,"Atlantis Bank, Southwest Indian Ridge",-32.7118333333333,57.2718333333333
+SITE0074,Whale,Mytilidae,"Atlantis Bank, Southwest Indian Ridge",-32.7118333333333,57.2718333333333
+SITE0074,Whale,Polynoidae,"Atlantis Bank, Southwest Indian Ridge",-32.7118333333333,57.2718333333333
+SITE0074,Whale,Ranellidae,"Atlantis Bank, Southwest Indian Ridge",-32.7118333333333,57.2718333333333
+SITE0074,Whale,Sebidae,"Atlantis Bank, Southwest Indian Ridge",-32.7118333333333,57.2718333333333
+SITE0079,Whale,Ischnochitonidae,"Off Concepción, Chile",-36.4833333333333,-73.5666666666666
+SITE0218,Wood,Bythocytheridae,South Woods Hole (USA),39.7666666666666,-70.6833333333333
+SITE0218,Wood,Paradoxostomatidae,South Woods Hole (USA),39.7666666666666,-70.6833333333333
+SITE0218,Wood,Pontocyprididae,South Woods Hole (USA),39.7666666666666,-70.6833333333333
+SITE0218,Wood,Trachyleberididae,South Woods Hole (USA),39.7666666666666,-70.6833333333333
+SITE0219,Wood,Cytheruridae,SE Woods Hole (USA),38.3066666666666,-69.5933333333333
+SITE0219,Wood,Paradoxostomatidae,SE Woods Hole (USA),38.3066666666666,-69.5933333333333
+SITE0219,Wood,Pontocyprididae,SE Woods Hole (USA),38.3066666666666,-69.5933333333333
+SITE0221,Wood,Cytheruridae,Tongue of the Ocean (Bahamas),24.8866666666666,-77.67
+SITE0221,Wood,Pontocyprididae,Tongue of the Ocean (Bahamas),24.8866666666666,-77.67
+SITE0222,Wood,Cytheruridae,"St. Croix, off N Coast",17.9438333333333,-64.81
+SITE0222,Wood,Paradoxostomatidae,"St. Croix, off N Coast",17.9438333333333,-64.81
+SITE0222,Wood,Pontocyprididae,"St. Croix, off N Coast",17.9438333333333,-64.81
+SITE0223,Wood,Cytheruridae,Panama Basin,5.34416666666666,-81.9365
+SITE0223,Wood,Paracyprididae,Panama Basin,5.34416666666666,-81.9365
+SITE0246,Wood,Xylophagaidae,"Wuzza Bare, Cascadia Basin",47.7847833333333,-127.691316666666
+SITE0247,Wood,Xylophagaidae,"Baby Bare, Cascadia Basin",47.7106166666666,-127.79375
+SITE0248,Wood,Xylophagaidae,"ODP 1026B, Cascadia Basin",47.7625833333333,-127.75735
+SITE0249,Wood,Xylophagaidae,Escanaba Trough,41.0002666666666,-127.49475
+SITE0250,Wood,Xylophagaidae,"Sea Cliff, Gorda Ridge",42.7543,-126.709533333333
+SITE0251,Wood,Xylophagaidae,"Axial Volcano, Juan de Fuca Ridge",45.9336833333333,-129.9827
+SITE0252,Wood,Xylophagaidae,"Endeavour Segment, Juan de Fuca Ridge",47.94635,-129.097033333333
+SITE0253,Wood,Xylophagaidae,"Cleft Segment, Juan de Fuca Ridge",44.6633333333333,-130.355
+SITE0254,Wood,Xylophagaidae,Nootka Fracture Zone,49.2951666666666,-127.6785
+SITE0255,Wood,Xylophagaidae,Oregon Margin,44.7595,-125.524333333333
+SITE0272,Wood,Maeridae,"Galathea Station 726, Gulf of Panama",5.8166666,-78.8666666666666
+SITE0274,Wood,Gammaridae,"Galathea Station 745, Gulf of Panama",7.25,-79.4166666666666
+SITE0381,Wood,Lysianassidae,"Galathea Station 450, Celebes Sea",1.83333333333333,119.333333333333
+SITE0445,Wood,Xylophagaidae,"Flinders CMR, Tasman Sea, Australia",-40.4732,149.3967
+SITE0446,Wood,Xylophagaidae,"East Gippsland CMR, Tasman Sea, Australia",-37.792,150.382
+SITE0447,Wood,Xylophagaidae,"Hunter CMR, Tasman Sea, Australia",-32.575,153.1617
+SITE0547,Wood,Glyceridae,Nile deep-sea fan Wood#5,32.53465,30.3564
+SITE0547,Wood,Mytilidae,Nile deep-sea fan Wood#5,32.53465,30.3564
+SITE0547,Wood,Phascolosomatidae,Nile deep-sea fan Wood#5,32.53465,30.3564
+SITE0547,Wood,Portunidae,Nile deep-sea fan Wood#5,32.53465,30.3564
+SITE0547,Wood,Xylophagaidae,Nile deep-sea fan Wood#5,32.53465,30.3564
+SITE0548,Wood,Amphinomidae,Nile deep-sea fan Wood#2,32.53271,30.35292
+SITE0548,Wood,Glyceridae,Nile deep-sea fan Wood#2,32.53271,30.35292
+SITE0548,Wood,Mytilidae,Nile deep-sea fan Wood#2,32.53271,30.35292
+SITE0548,Wood,Phascolosomatidae,Nile deep-sea fan Wood#2,32.53271,30.35292
+SITE0548,Wood,Portunidae,Nile deep-sea fan Wood#2,32.53271,30.35292
+SITE0548,Wood,Xylophagaidae,Nile deep-sea fan Wood#2,32.53271,30.35292
+SITE0549,Wood,Amphinomidae,Nile deep-sea fan Wood#1,32.53416,30.35208
+SITE0549,Wood,Glyceridae,Nile deep-sea fan Wood#1,32.53416,30.35208
+SITE0549,Wood,Mytilidae,Nile deep-sea fan Wood#1,32.53416,30.35208
+SITE0549,Wood,Phascolosomatidae,Nile deep-sea fan Wood#1,32.53416,30.35208
+SITE0549,Wood,Portunidae,Nile deep-sea fan Wood#1,32.53416,30.35208
+SITE0549,Wood,Xylophagaidae,Nile deep-sea fan Wood#1,32.53416,30.35208
+SITE0871,Whale,Alvinocarididae,"Rio de Janeiro, Brazil",-25.3383333333333,-39.6411666666666
+SITE0871,Whale,Ampharetidae,"Rio de Janeiro, Brazil",-25.3383333333333,-39.6411666666666
+SITE0871,Whale,Amphitoidae,"Rio de Janeiro, Brazil",-25.3383333333333,-39.6411666666666
+SITE0871,Whale,Capitellidae,"Rio de Janeiro, Brazil",-25.3383333333333,-39.6411666666666
+SITE0871,Whale,Dexaminidae,"Rio de Janeiro, Brazil",-25.3383333333333,-39.6411666666666
+SITE0871,Whale,Dorvilleidae,"Rio de Janeiro, Brazil",-25.3383333333333,-39.6411666666666
+SITE0871,Whale,Hesionidae,"Rio de Janeiro, Brazil",-25.3383333333333,-39.6411666666666
+SITE0871,Whale,Hyalogyrinidae,"Rio de Janeiro, Brazil",-25.3383333333333,-39.6411666666666
+SITE0871,Whale,Munidopsidae,"Rio de Janeiro, Brazil",-25.3383333333333,-39.6411666666666
+SITE0871,Whale,Provannidae,"Rio de Janeiro, Brazil",-25.3383333333333,-39.6411666666666
+SITE0871,Whale,Raphitomidae,"Rio de Janeiro, Brazil",-25.3383333333333,-39.6411666666666
+SITE0871,Whale,Sebidae,"Rio de Janeiro, Brazil",-25.3383333333333,-39.6411666666666
+SITE0871,Whale,Siboglinidae,"Rio de Janeiro, Brazil",-25.3383333333333,-39.6411666666666
+SITE0871,Whale,unassigned,"Rio de Janeiro, Brazil",-25.3383333333333,-39.6411666666666
+SITE0871,Wood,Abyssochrysidae,"Rio de Janeiro, Brazil",-25.3383333333333,-39.6411666666666
+SITE0871,Wood,Amphitoidae,"Rio de Janeiro, Brazil",-25.3383333333333,-39.6411666666666
+SITE0871,Wood,Aoridae,"Rio de Janeiro, Brazil",-25.3383333333333,-39.6411666666666
+SITE0871,Wood,Capitellidae,"Rio de Janeiro, Brazil",-25.3383333333333,-39.6411666666666
+SITE0871,Wood,Chrysopetallidae,"Rio de Janeiro, Brazil",-25.3383333333333,-39.6411666666666
+SITE0871,Wood,Columbellidae,"Rio de Janeiro, Brazil",-25.3383333333333,-39.6411666666666
+SITE0871,Wood,Dexaminidae,"Rio de Janeiro, Brazil",-25.3383333333333,-39.6411666666666
+SITE0871,Wood,Hesionidae,"Rio de Janeiro, Brazil",-25.3383333333333,-39.6411666666666
+SITE0871,Wood,Hyalogyrinidae,"Rio de Janeiro, Brazil",-25.3383333333333,-39.6411666666666
+SITE0871,Wood,Hyperiidae,"Rio de Janeiro, Brazil",-25.3383333333333,-39.6411666666666
+SITE0871,Wood,Janiridae,"Rio de Janeiro, Brazil",-25.3383333333333,-39.6411666666666
+SITE0871,Wood,Lysianassidae,"Rio de Janeiro, Brazil",-25.3383333333333,-39.6411666666666
+SITE0871,Wood,Melitidae,"Rio de Janeiro, Brazil",-25.3383333333333,-39.6411666666666
+SITE0871,Wood,Munidopsidae,"Rio de Janeiro, Brazil",-25.3383333333333,-39.6411666666666
+SITE0871,Wood,Ophiactidae,"Rio de Janeiro, Brazil",-25.3383333333333,-39.6411666666666
+SITE0871,Wood,Provannidae,"Rio de Janeiro, Brazil",-25.3383333333333,-39.6411666666666
+SITE0871,Wood,Pseudococculinidae,"Rio de Janeiro, Brazil",-25.3383333333333,-39.6411666666666
+SITE0871,Wood,Raphitomidae,"Rio de Janeiro, Brazil",-25.3383333333333,-39.6411666666666
+SITE0871,Wood,Sebidae,"Rio de Janeiro, Brazil",-25.3383333333333,-39.6411666666666
+SITE0871,Wood,Xylophagaidae,"Rio de Janeiro, Brazil",-25.3383333333333,-39.6411666666666
+SITE0871,Wood,unassigned,"Rio de Janeiro, Brazil",-25.3383333333333,-39.6411666666666
+SITE0874,Wood,Amphiuridae,"Monterey Bay, CA, USA",36.154098,-122.40852
+SITE0874,Wood,Buccinidae,"Monterey Bay, CA, USA",36.154098,-122.40852
+SITE0874,Wood,Caymanostellidae,"Monterey Bay, CA, USA",36.154098,-122.40852
+SITE0874,Wood,Ferreiraellidae,"Monterey Bay, CA, USA",36.154098,-122.40852
+SITE0874,Wood,Hyalogyrinidae,"Monterey Bay, CA, USA",36.154098,-122.40852
+SITE0874,Wood,Larocheidae,"Monterey Bay, CA, USA",36.154098,-122.40852
+SITE0874,Wood,Maeridae,"Monterey Bay, CA, USA",36.154098,-122.40852
+SITE0874,Wood,Maldanidae,"Monterey Bay, CA, USA",36.154098,-122.40852
+SITE0874,Wood,Munidopsidae,"Monterey Bay, CA, USA",36.154098,-122.40852
+SITE0874,Wood,Ophiacanthidae,"Monterey Bay, CA, USA",36.154098,-122.40852
+SITE0874,Wood,Ophioscolecidae,"Monterey Bay, CA, USA",36.154098,-122.40852
+SITE0874,Wood,Provannidae,"Monterey Bay, CA, USA",36.154098,-122.40852
+SITE0874,Wood,Sebidae,"Monterey Bay, CA, USA",36.154098,-122.40852
+SITE0874,Wood,Seguenzioidea incertae sedis,"Monterey Bay, CA, USA",36.154098,-122.40852
+SITE0874,Wood,Skeneidae,"Monterey Bay, CA, USA",36.154098,-122.40852
+SITE0874,Wood,Tanaididae,"Monterey Bay, CA, USA",36.154098,-122.40852
+SITE0874,Wood,Thyasiridae,"Monterey Bay, CA, USA",36.154098,-122.40852
+SITE0874,Wood,Tryphosidae,"Monterey Bay, CA, USA",36.154098,-122.40852
+SITE0874,Wood,Xylophagaidae,"Monterey Bay, CA, USA",36.154098,-122.40852
+SITE0874,Wood,Yoldiidae,"Monterey Bay, CA, USA",36.154098,-122.40852
+SITE0875,Whale,Abyssochrysidae,"Espirito Santo, Brazil",-21.4501666666666,-39.8965
+SITE0875,Whale,Alvinocarididae,"Espirito Santo, Brazil",-21.4501666666666,-39.8965
+SITE0875,Whale,Ampharetidae,"Espirito Santo, Brazil",-21.4501666666666,-39.8965
+SITE0875,Whale,Amphinomidae,"Espirito Santo, Brazil",-21.4501666666666,-39.8965
+SITE0875,Whale,Capitellidae,"Espirito Santo, Brazil",-21.4501666666666,-39.8965
+SITE0875,Whale,Corophiidae,"Espirito Santo, Brazil",-21.4501666666666,-39.8965
+SITE0875,Whale,Dexaminidae,"Espirito Santo, Brazil",-21.4501666666666,-39.8965
+SITE0875,Whale,Dorvilleidae,"Espirito Santo, Brazil",-21.4501666666666,-39.8965
+SITE0875,Whale,Hesionidae,"Espirito Santo, Brazil",-21.4501666666666,-39.8965
+SITE0875,Whale,Hyalogyrinidae,"Espirito Santo, Brazil",-21.4501666666666,-39.8965
+SITE0875,Whale,Hyperiidae,"Espirito Santo, Brazil",-21.4501666666666,-39.8965
+SITE0875,Whale,Lysianassidae,"Espirito Santo, Brazil",-21.4501666666666,-39.8965
+SITE0875,Whale,Microphthalmidae,"Espirito Santo, Brazil",-21.4501666666666,-39.8965
+SITE0875,Whale,Munidopsidae,"Espirito Santo, Brazil",-21.4501666666666,-39.8965
+SITE0875,Whale,Mytilidae,"Espirito Santo, Brazil",-21.4501666666666,-39.8965
+SITE0875,Whale,Podoceridae,"Espirito Santo, Brazil",-21.4501666666666,-39.8965
+SITE0875,Whale,Raphitomidae,"Espirito Santo, Brazil",-21.4501666666666,-39.8965
+SITE0875,Whale,Siboglinidae,"Espirito Santo, Brazil",-21.4501666666666,-39.8965
+SITE0875,Whale,unassigned,"Espirito Santo, Brazil",-21.4501666666666,-39.8965
+SITE0875,Wood,Alvinocarididae,"Espirito Santo, Brazil",-21.4501666666666,-39.8965
+SITE0875,Wood,Amphilochidae,"Espirito Santo, Brazil",-21.4501666666666,-39.8965
+SITE0875,Wood,Amphinomidae,"Espirito Santo, Brazil",-21.4501666666666,-39.8965
+SITE0875,Wood,Amphitoidae,"Espirito Santo, Brazil",-21.4501666666666,-39.8965
+SITE0875,Wood,Capitellidae,"Espirito Santo, Brazil",-21.4501666666666,-39.8965
+SITE0875,Wood,Chrysopetallidae,"Espirito Santo, Brazil",-21.4501666666666,-39.8965
+SITE0875,Wood,Eusiridae,"Espirito Santo, Brazil",-21.4501666666666,-39.8965
+SITE0875,Wood,Hesionidae,"Espirito Santo, Brazil",-21.4501666666666,-39.8965
+SITE0875,Wood,Lysianassidae,"Espirito Santo, Brazil",-21.4501666666666,-39.8965
+SITE0875,Wood,Munidopsidae,"Espirito Santo, Brazil",-21.4501666666666,-39.8965
+SITE0875,Wood,Mytilidae,"Espirito Santo, Brazil",-21.4501666666666,-39.8965
+SITE0875,Wood,Nereididae,"Espirito Santo, Brazil",-21.4501666666666,-39.8965
+SITE0875,Wood,Pseudococculinidae,"Espirito Santo, Brazil",-21.4501666666666,-39.8965
+SITE0875,Wood,Raphitomidae,"Espirito Santo, Brazil",-21.4501666666666,-39.8965
+SITE0875,Wood,Sophrosynidae,"Espirito Santo, Brazil",-21.4501666666666,-39.8965
+SITE0875,Wood,Xylophagaidae,"Espirito Santo, Brazil",-21.4501666666666,-39.8965
+SITE0875,Wood,unassigned,"Espirito Santo, Brazil",-21.4501666666666,-39.8965
+SITE0876,Whale,Abyssochrysidae,"São Paulo, Brazil",-25.894,-45.0483333333333
+SITE0876,Whale,Ampharetidae,"São Paulo, Brazil",-25.894,-45.0483333333333
+SITE0876,Whale,Amphinomidae,"São Paulo, Brazil",-25.894,-45.0483333333333
+SITE0876,Whale,Capitellidae,"São Paulo, Brazil",-25.894,-45.0483333333333
+SITE0876,Whale,Dorvilleidae,"São Paulo, Brazil",-25.894,-45.0483333333333
+SITE0876,Whale,Eulimidae,"São Paulo, Brazil",-25.894,-45.0483333333333
+SITE0876,Whale,Hesionidae,"São Paulo, Brazil",-25.894,-45.0483333333333
+SITE0876,Whale,Hyalogyrinidae,"São Paulo, Brazil",-25.894,-45.0483333333333
+SITE0876,Whale,Mytilidae,"São Paulo, Brazil",-25.894,-45.0483333333333
+SITE0876,Whale,Raphitomidae,"São Paulo, Brazil",-25.894,-45.0483333333333
+SITE0876,Whale,Siboglinidae,"São Paulo, Brazil",-25.894,-45.0483333333333
+SITE0876,Whale,unassigned,"São Paulo, Brazil",-25.894,-45.0483333333333
+SITE0876,Wood,Amphinomidae,"São Paulo, Brazil",-25.894,-45.0483333333333
+SITE0876,Wood,Capitellidae,"São Paulo, Brazil",-25.894,-45.0483333333333
+SITE0876,Wood,Chrysopetallidae,"São Paulo, Brazil",-25.894,-45.0483333333333
+SITE0876,Wood,Hesionidae,"São Paulo, Brazil",-25.894,-45.0483333333333
+SITE0876,Wood,Nereididae,"São Paulo, Brazil",-25.894,-45.0483333333333
+SITE0876,Wood,Xylophagaidae,"São Paulo, Brazil",-25.894,-45.0483333333333
+SITE0877,Whale,Ampharetidae,"Espirito Santo, Brazil",-22.8408333333333,-38.4163333333333
+SITE0877,Whale,Amphinomidae,"Espirito Santo, Brazil",-22.8408333333333,-38.4163333333333
+SITE0877,Whale,Capitellidae,"Espirito Santo, Brazil",-22.8408333333333,-38.4163333333333
+SITE0877,Whale,Dorvilleidae,"Espirito Santo, Brazil",-22.8408333333333,-38.4163333333333
+SITE0877,Whale,Hesionidae,"Espirito Santo, Brazil",-22.8408333333333,-38.4163333333333
+SITE0877,Whale,Hyalogyrinidae,"Espirito Santo, Brazil",-22.8408333333333,-38.4163333333333
+SITE0877,Whale,Isaeidae,"Espirito Santo, Brazil",-22.8408333333333,-38.4163333333333
+SITE0877,Whale,Microphthalmidae,"Espirito Santo, Brazil",-22.8408333333333,-38.4163333333333
+SITE0877,Whale,Munidopsidae,"Espirito Santo, Brazil",-22.8408333333333,-38.4163333333333
+SITE0877,Whale,Provannidae,"Espirito Santo, Brazil",-22.8408333333333,-38.4163333333333
+SITE0877,Whale,Raphitomidae,"Espirito Santo, Brazil",-22.8408333333333,-38.4163333333333
+SITE0877,Whale,Siboglinidae,"Espirito Santo, Brazil",-22.8408333333333,-38.4163333333333
+SITE0877,Whale,unassigned,"Espirito Santo, Brazil",-22.8408333333333,-38.4163333333333
+SITE0877,Wood,Abyssochrysidae,"Espirito Santo, Brazil",-22.8408333333333,-38.4163333333333
+SITE0877,Wood,Amphilochidae,"Espirito Santo, Brazil",-22.8408333333333,-38.4163333333333
+SITE0877,Wood,Amphitoidae,"Espirito Santo, Brazil",-22.8408333333333,-38.4163333333333
+SITE0877,Wood,Capitellidae,"Espirito Santo, Brazil",-22.8408333333333,-38.4163333333333
+SITE0877,Wood,Chrysopetallidae,"Espirito Santo, Brazil",-22.8408333333333,-38.4163333333333
+SITE0877,Wood,Hesionidae,"Espirito Santo, Brazil",-22.8408333333333,-38.4163333333333
+SITE0877,Wood,Munidopsidae,"Espirito Santo, Brazil",-22.8408333333333,-38.4163333333333
+SITE0877,Wood,Ophiactidae,"Espirito Santo, Brazil",-22.8408333333333,-38.4163333333333
+SITE0877,Wood,Provannidae,"Espirito Santo, Brazil",-22.8408333333333,-38.4163333333333
+SITE0877,Wood,Raphitomidae,"Espirito Santo, Brazil",-22.8408333333333,-38.4163333333333
+SITE0877,Wood,Xylophagaidae,"Espirito Santo, Brazil",-22.8408333333333,-38.4163333333333
+SITE0877,Wood,unassigned,"Espirito Santo, Brazil",-22.8408333333333,-38.4163333333333
+SITE0886,Wood,Cocculinidae,Sagami Bay KM-ROV dive #149 branch-like plant debris,35.01595,139.222183333333
+SITE0887,Wood,Lacydoniidae,Shoho Seamount wood fall — 2042 m (Hookabe 2022),32.3475666666666,138.657866666666
+SITE0890,Whale,Polynoidae,Santa Catalina Basin (NE Pacific Ocean),33.2,-118.5
+SITE0890,Whale,Pyropeltidae,Santa Catalina Basin (NE Pacific Ocean),33.2,-118.5
+SITE0899,Whale,Amphinomidae,Monterey Canyon (NE Pacific Ocean),36.79,-121.887
+SITE0899,Whale,Buccinidae,Monterey Canyon (NE Pacific Ocean),36.79,-121.887
+SITE0899,Whale,Scyliorhinidae,Monterey Canyon (NE Pacific Ocean),36.79,-121.887
+SITE0899,Whale,Sebastidae,Monterey Canyon (NE Pacific Ocean),36.79,-121.887
+SITE0899,Whale,Siboglinidae,Monterey Canyon (NE Pacific Ocean),36.79,-121.887
+SITE0899,Whale,Zoarcidae,Monterey Canyon (NE Pacific Ocean),36.79,-121.887
+SITE0901,Whale,Buccinidae,Monterey Canyon (NE Pacific Ocean),36.772,-122.083
+SITE0901,Whale,Caprellidae,Monterey Canyon (NE Pacific Ocean),36.772,-122.083
+SITE0901,Whale,Diogenidae,Monterey Canyon (NE Pacific Ocean),36.772,-122.083
+SITE0901,Whale,Dorvilleidae,Monterey Canyon (NE Pacific Ocean),36.772,-122.083
+SITE0901,Whale,Eunicidae,Monterey Canyon (NE Pacific Ocean),36.772,-122.083
+SITE0901,Whale,Hyalogyrinidae,Monterey Canyon (NE Pacific Ocean),36.772,-122.083
+SITE0901,Whale,Liparidae,Monterey Canyon (NE Pacific Ocean),36.772,-122.083
+SITE0901,Whale,Mytilidae,Monterey Canyon (NE Pacific Ocean),36.772,-122.083
+SITE0901,Whale,Nuculanidae,Monterey Canyon (NE Pacific Ocean),36.772,-122.083
+SITE0901,Whale,Polynoidae,Monterey Canyon (NE Pacific Ocean),36.772,-122.083
+SITE0901,Whale,Siboglinidae,Monterey Canyon (NE Pacific Ocean),36.772,-122.083
+SITE0901,Whale,Thyasiridae,Monterey Canyon (NE Pacific Ocean),36.772,-122.083
+SITE0901,Whale,Zoarcidae,Monterey Canyon (NE Pacific Ocean),36.772,-122.083
+SITE0977,Wood,Ferreiraellidae,NW Pacific abyssal plain east of Ogasawara Trench,32.57843333333334,143.7689
+SITE0990,Wood,Teredinidae,Northern Gulf of Mexico wood-type experiment,28.81364194,-87.82033444
+SITE0990,Wood,Xylophagaidae,Northern Gulf of Mexico wood-type experiment,28.81364194,-87.82033444
+SITE0991,Whale,Ampharetidae,"off Byron Bay, New South Wales",-28.075000000000003,154.08
+SITE0991,Whale,Amphinomidae,"off Byron Bay, New South Wales",-28.075000000000003,154.08
+SITE0991,Whale,Nereididae,"off Byron Bay, New South Wales",-28.075000000000003,154.08
+SITE0991,Whale,Orbiniidae,"off Byron Bay, New South Wales",-28.075000000000003,154.08
+SITE0991,Whale,Phascolosomatidae,"off Byron Bay, New South Wales",-28.075000000000003,154.08
+SITE0991,Whale,Phyllodocidae,"off Byron Bay, New South Wales",-28.075000000000003,154.08
+SITE0991,Whale,Protodrilidae,"off Byron Bay, New South Wales",-28.075000000000003,154.08
+SITE0991,Whale,Sphaerodoridae,"off Byron Bay, New South Wales",-28.075000000000003,154.08
+SITE0993,Wood,Oerstediidae,"Off Owase, Sea of Kumano",34.11361111111111,136.50972222222222
+SITE0994,Wood,Oerstediidae,"Off Kumano, Sea of Kumano",33.87177777777778,136.19855555555557
+SITE0995,Wood,Syllidae,NORI-D eastern Clarion-Clipperton Zone wood fall,10.325556666666667,-117.17089666666666
+SITE0997,Wood,Diposthidae,"Off Owase, Mie, 330 m",34.016666666666666,136.36666666666667
+SITE0998,Wood,Calliopiidae,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Capitellidae,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Caymanostellidae,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Chrysopetalidae,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Cocculinidae,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Dorvilleidae,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Eunicidae,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Munidopsidae,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Munnopsidae,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Mytilidae,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Phascolosomatidae,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Polynoidae,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Provannidae,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Pseudococculinidae,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Skeneidae,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Spionidae,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Teredinidae,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE0998,Wood,Xylophagaidae,Northern Gulf of Mexico 24-log wood experiment,27.135,-89.924
+SITE1000,Whale,Maldanidae,Diamantina Zone WF1 — Dordrecht Deep,-33.4662,101.5553
+SITE1001,Whale,Maldanidae,Diamantina Zone WF2,-32.502,96.5286
+SITE1002,Whale,Chaetopteridae,Diamantina Zone WF3,-32.8059,96.2777
+SITE1002,Whale,Maldanidae,Diamantina Zone WF3,-32.8059,96.2777
+SITE1002,Whale,Ophioscolecidae,Diamantina Zone WF3,-32.8059,96.2777
+SITE1003,Whale,Maldanidae,Diamantina Zone WF4,-32.6983,98.5612
+SITE1004,Whale,Amphiuridae,Diamantina Zone WF5,-32.7121,98.5722
+SITE1004,Whale,Maldanidae,Diamantina Zone WF5,-32.7121,98.5722
+SITE1005,Whale,Eunicidae,Hood Canyon — SuBastian dive S0315,-34.74,119.66
+SITE1005,Whale,Gnathiidae,Hood Canyon — SuBastian dive S0315,-34.74,119.66
+SITE1005,Whale,Leptamphropus,Hood Canyon — SuBastian dive S0315,-34.74,119.66
+SITE1005,Whale,Lucinidae,Hood Canyon — SuBastian dive S0315,-34.74,119.66
+SITE1005,Whale,Lysianassidae,Hood Canyon — SuBastian dive S0315,-34.74,119.66
+SITE1005,Whale,Munnidae,Hood Canyon — SuBastian dive S0315,-34.74,119.66
+SITE1005,Whale,Nebalia,Hood Canyon — SuBastian dive S0315,-34.74,119.66
+SITE1005,Whale,Oedicerotidae,Hood Canyon — SuBastian dive S0315,-34.74,119.66
+SITE1005,Whale,Parataniadae,Hood Canyon — SuBastian dive S0315,-34.74,119.66
+SITE1005,Whale,Phoxocephalidae,Hood Canyon — SuBastian dive S0315,-34.74,119.66
+SITE1005,Whale,Seba,Hood Canyon — SuBastian dive S0315,-34.74,119.66
+SITE1005,Whale,Serpulidae,Hood Canyon — SuBastian dive S0315,-34.74,119.66
+SITE1005,Whale,Stenothoidae,Hood Canyon — SuBastian dive S0315,-34.74,119.66
+SITE1005,Whale,Thyasiridae,Hood Canyon — SuBastian dive S0315,-34.74,119.66
+SITE1005,Whale,Vesicomyidae,Hood Canyon — SuBastian dive S0315,-34.74,119.66
+SITE1006,Whale,Bathymodiolinae,Hood Canyon — SuBastian dive S0323,-34.76,119.63
+SITE1006,Whale,Serpulidae,Hood Canyon — SuBastian dive S0323,-34.76,119.63
+SITE1011,Whale,Dorvilleidae,"Rosebud whale fall, off San Diego, California",32.7769,-117.4881
+SITE1012,Whale,Dorvilleidae,"Pedro whale fall, near Channel Islands, California",33.7704,-119.5241
+SITE1013,Whale,Dorvilleidae,"Pebbles whale fall, Monterey Submarine Canyon",36.803,-121.9946
+SITE1015,Wood,Maeridae,"CP4062, Bismarck Sea off Vanimo",-2.6166667,141.3
+SITE1016,Wood,Caymanostellidae,"SO250-9, Kuril-Kamchatka slope",43.8006833,151.7405333
+SITE1017,Wood,Capitellidae,Johnston Atoll NA153 H1999 wood fall,16.990982,-169.7693
+SITE1017,Wood,Lithodidae,Johnston Atoll NA153 H1999 wood fall,16.990982,-169.7693
+SITE1017,Wood,Maeridae,Johnston Atoll NA153 H1999 wood fall,16.990982,-169.7693
+SITE1017,Wood,Munidopsidae,Johnston Atoll NA153 H1999 wood fall,16.990982,-169.7693
+SITE1017,Wood,Ophioscolecidae,Johnston Atoll NA153 H1999 wood fall,16.990982,-169.7693
+SITE1017,Wood,Pectinodontidae,Johnston Atoll NA153 H1999 wood fall,16.990982,-169.7693
+SITE1017,Wood,Polynoidae,Johnston Atoll NA153 H1999 wood fall,16.990982,-169.7693
+SITE1017,Wood,Xylophagaidae,Johnston Atoll NA153 H1999 wood fall,16.990982,-169.7693
+SITE1018,Wood,Munidopsidae,Shoho Seamount wood fall — 1901 m (Komai 2025),32.3495,138.6563333333

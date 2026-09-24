@@ -1,0 +1,1018 @@
+Site_ID,Site_Name,Original_Locality_Name,Country_or_EEZ,Ocean,Region,Latitude,Longitude,Coordinate_Precision,Location_Notes,Legacy_Site_IDs,Contributor,Verbatim_Basin,Assigned_Basin,Basin_Assignment_Notes
+SITE0001,São Paulo Ridge,São Paulo Ridge,NA,South Atlantic,SW Atlantic,-28.5186516666666,-41.6568283333333,Exact,NA,NA,cherisse.persad@gmail.com,South Atlantic,Atlantic,NA
+SITE0002,off São Paulo,off São Paulo,NA,South Atlantic,SW Atlantic,-25.894,-45.0483333333333,Exact,NA,NA,cherisse.persad@gmail.com,NA,Atlantic,NA
+SITE0003,off São Paulo,off São Paulo,NA,South Atlantic,SW Atlantic,-28.0285,-43.5296666666666,Exact,NA,NA,cherisse.persad@gmail.com,South Atlantic,Atlantic,NA
+SITE0004,off Rio de Janeiro,off Rio de Janeiro,NA,South Atlantic,SW Atlantic,-25.3383333333333,-39.6411666666666,Exact,NA,NA,cherisse.persad@gmail.com,NA,Atlantic,NA
+SITE0005,off Espirito Santo,off Espirito Santo,NA,South Atlantic,SW Atlantic,-21.4501666666666,-39.8965,Exact,NA,NA,cherisse.persad@gmail.com,NA,Atlantic,NA
+SITE0006,off Espirito Santo,off Espirito Santo,NA,South Atlantic,SW Atlantic,-22.8408333333333,-38.4163333333333,Exact,NA,NA,cherisse.persad@gmail.com,NA,Atlantic,NA
+SITE0007,off Santos,off Santos,NA,South Atlantic,SW Atlantic,-26.6,-46.15,Exact,NA,NA,cherisse.persad@gmail.com,South Atlantic,Atlantic,NA
+SITE0008,off Mississipi,off Mississipi,NA,North Atlantic,Gulf of Mexico,27.3126,-88.927,Exact,NA,NA,cherisse.persad@gmail.com,NA,Atlantic,NA
+SITE0009,Catalina Basin,Catalina Basin,NA,North Pacific,NE Pacific,33.2,-118.5,Exact,NA,NA,cherisse.persad@gmail.com,NA,Pacific,NA
+SITE0010,off Point Sur,off Point Sur,NA,North Pacific,NE Pacific,36.2933333333333,-122.203333333333,Exact,NA,NA,cherisse.persad@gmail.com,North Pacific,Pacific,NA
+SITE0011,off Point Lobos,off Point Lobos,NA,North Pacific,NE Pacific,36.4366666666666,-122.263333333333,Exact,NA,NA,cherisse.persad@gmail.com,North Pacific,Pacific,NA
+SITE0012,Monterey Bay,Monterrey Bay,NA,North Pacific,NE Pacific,36.94,-122.631666666666,Exact,NA,NA,cherisse.persad@gmail.com,North Pacific,Pacific,NA
+SITE0013,Arctic Mid-Ocean Ridge,Arctic Mid-Ocean Ridge,NA,Arctic,Arctic Mid-Ocean Ridge,73.5671111111111,8.15880555555555,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Arctic,NA
+SITE0014,Arctic Mid-Ocean Ridge,Arctic Mid-Ocean Ridge,NA,Arctic,Arctic Mid-Ocean Ridge,73.567,8.15830555555555,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Arctic,NA
+SITE0015,"off Southwestern Iceland, between Vestmannaeyjar and Reykjanesridge","off Southwestern Iceland, between Vestmannaeyjar and Reykjanesridge",NA,North Atlantic,NE Atlantic,NA,NA,Unknown,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0016,"off Vestmannaeyar, Southern Iceland","off Vestmannaeyar, Southern Iceland",NA,North Atlantic,NE Atlantic,NA,NA,Unknown,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0017,off Bay of Biscay,off Bay of Biscay,NA,North Atlantic,NE Atlantic,NA,NA,Unknown,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0018,off Bastia (Corsica),off Bastia (Corsica),NA,Mediterranean sea,W Mediterranean,NA,NA,Unknown,NA,NA,jmalfarolucas@gmail.com,Mediterranean sea,Mediterranean,NA
+SITE0019,Bjarnarey (Southern Iceland),Bjarnarey (Southern Iceland),NA,North Atlantic,NE Atlantic,NA,NA,Unknown,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0020,"Skeidarardypi, off southwestern Iceland","Skeidarardypi, off southwestern Iceland",NA,North Atlantic,NE Atlantic,NA,NA,Unknown,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0021,Adriatic Sea,Adriatic Sea,NA,Mediterranean sea,W Mediterranean,42.4863833333333,17.0026416666666,Exact,NA,NA,jmalfarolucas@gmail.com,Mediterranean sea,Mediterranean,NA
+SITE0022,"off Sète, Lion Gulf","off Sète, Lion Gulf",NA,Mediterranean sea,W Mediterranean,NA,NA,Unknown,NA,NA,jmalfarolucas@gmail.com,Mediterranean sea,Mediterranean,NA
+SITE0023,west Póvoa de Varzim (Portugal),west Póvoa de Varzim (Portugal),NA,North Atlantic,NE Atlantic,41.4783333333333,-9.21166666666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0024,North Azores,North Azores,NA,North Atlantic,NE Atlantic,42.8333333333333,-28.6291666666666,Exact,NA,NA,cherisse.persad@gmail.com,North Atlantic,Atlantic,NA
+SITE0025,Chatham Islands (New Zealand),Chatham Islands (New Zeland),NA,South Pacific,SW Pacific,-42.9366666666666,-175.543333333333,Exact,NA,NA,cherisse.persad@gmail.com,South Pacific,Pacific,NA
+SITE0026,"off Mernoo Bank, Chatham Rise (New Zealand)","off Mernoo Bank, Chatham Rise (New Zeland)",NA,South Pacific,SW Pacific,-43.569,176.3115,Exact,NA,NA,cherisse.persad@gmail.com,South Pacific,Pacific,NA
+SITE0027,Chatham Rise (New Zealand),Chatham Rise (New Zeland),NA,South Pacific,SW Pacific,-44.13,178.526666666666,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0028,off Banks Peninsula (New Zealand),off Banks Peninsula (New Zeland),NA,South Pacific,SW Pacific,-44.675,174.016666666666,Exact,NA,NA,cherisse.persad@gmail.com,South Pacific,Pacific,NA
+SITE0029,East Slope Challenger Plateau (New Zealand),East Slope Challenger Plateau (New Zeland),NA,South Pacific,SW Pacific,-39.8666666666666,167.116666666666,Exact,NA,NA,cherisse.persad@gmail.com,South Pacific,Pacific,NA
+SITE0030,Challenger Plateau (New Zealand),Challenger Plateau (New Zeland),NA,South Pacific,SW Pacific,-39.8866666666666,168.02,Exact,NA,NA,cherisse.persad@gmail.com,South Pacific,Pacific,NA
+SITE0031,Chatham Rise (New Zealand),Chatham Rise (New Zeland),NA,South Pacific,SW Pacific,-43.8583333333333,177.863333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0032,NE Chatham Islands (New Zealand),NE Chatham Islands (New Zeland),NA,South Pacific,SW Pacific,-43.2833333333333,174.091666666666,Exact,NA,NA,cherisse.persad@gmail.com,South Pacific,Pacific,NA
+SITE0033,"ACES1, off Smith Island, Antarctic Peninsula",Bransfield strait (Antarctica),Antarctica,Southern Ocean,Bransfield Strait / Antarctic Peninsula,-63.1645,-61.689,Exact,NA,NA,cherisse.persad@gmail.com,Southern Ocean,Southern,NA
+SITE0034,"ACES2, off Smith Island, Antarctic Peninsula",Bransfield strait (Antarctica),Antarctica,Southern Ocean,Bransfield Strait / Antarctic Peninsula,-63.183,-61.636,Exact,NA,NA,cherisse.persad@gmail.com,Southern Ocean,Southern,NA
+SITE0035,"East Scotia Sea, Kemp Caldera","East Scotia Sea, Kemp Caldera",NA,Southern Ocean,Antarctica,-59.6945166666666,-28.3514833333333,Exact,NA,NA,cherisse.persad@gmail.com,Southern Ocean,Southern,NA
+SITE0036,"Monterey Bay, CA, USA","Monterey Bay, CA, USA",NA,North Pacific,NE Pacific,36.7082666666666,-122.105266666666,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Pacific,NA
+SITE0037,"Whalers Bay, Deception Island","Whalers Bay, Deception Island",NA,Southern Ocean,Antarctica,-62.9888333333333,-60.5575,Exact,NA,NA,cherisse.persad@gmail.com,Southern Ocean,Southern,NA
+SITE0038,"Monterey Bay, CA, USA","Monterey Bay, CA, USA",NA,North Pacific,NE Pacific,36.7718,-122.1052,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0039,"Monterey Bay, CA, USA","Monterey Bay, CA, USA",NA,North Pacific,NE Pacific,36.6101,-122.435366666666,Exact,NA,NA,cherisse.persad@gmail.com,North Pacific,Pacific,NA
+SITE0040,Cape Nomamisaki (Japan),Cape Nomamisaki (Japan),NA,North Pacific,NW Pacific,31.3453333333333,129.988166666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0041,"Monterey Bay, CA, USA","Monterey Bay, CA, USA",NA,North Pacific,NE Pacific,36.7900166666666,-122.88725,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0042,Kosterfjord (Sweden),Kosterfjord (Sweden),NA,North Atlantic,NE Atlantic,58.885,11.1066666666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0043,"Monterey Bay, CA, USA","Monterey Bay, CA, USA",NA,North Pacific,NE Pacific,36.8029666666666,-121.994616666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0044,"Monterey Bay, CA, USA","Monterey Bay, CA, USA",NA,North Pacific,NE Pacific,36.6051166666666,-122.154,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Pacific,NA
+SITE0045,"Monterey Bay, CA, USA","Monterey Bay, USA",NA,North Pacific,NE Pacific,36.7718,-122.1052,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Pacific,NA
+SITE0046,"Monterey Bay, CA, USA","Monterey Bay, USA",NA,North Pacific,NE Pacific,36.7082666666666,-122.105266666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0047,Sagami Bay,Sagami Bay,NA,North Pacific,NW Pacific,35.05,139.13,Exact,"Original latitude and longitude were transposed (139.13, 35.05) to 35.05 N, 139.13 E.",NA,cherisse.persad@gmail.com,NA,Pacific,NA
+SITE0048,Sagami Bay,Sagami Bay,NA,North Pacific,NW Pacific,31.2,129.6,Exact,"Original latitude and longitude were transposed (129.6, 31.2) to 31.2 N, 129.6 E.",NA,cherisse.persad@gmail.com,NA,Pacific,NA
+SITE0049,"Colatinas, Deception Island","Colatinas, Deception Island",NA,Southern Ocean,Antarctica,-62.9913666666666,-60.61825,Exact,NA,NA,cherisse.persad@gmail.com,Southern Ocean,Southern,NA
+SITE0050,South-West Ireland,South-West Ireland,NA,North Atlantic,NE Atlantic,52.5,-12,Exact,NA,NA,cherisse.persad@gmail.com,North Atlantic,Atlantic,NA
+SITE0051,off Dingle Bay (Ireland),off Dingle Bay (Ireland),NA,North Atlantic,NE Atlantic,52.5,-12,Exact,NA,NA,cherisse.persad@gmail.com,NA,Atlantic,NA
+SITE0052,South-West Ireland,South-West Ireland,NA,North Atlantic,NE Atlantic,NA,NA,Unknown,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0053,150 miles off NE Aberdeen (North Sea),150 miles off NE Aberdeen (North Sea),NA,North Atlantic,NE Atlantic,NA,NA,Unknown,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0054,20 miles off NW Fair Isle,20 miles off NW Fair Isle,NA,North Atlantic,NE Atlantic,NA,NA,Unknown,"Marshall (1901)/Fair Isle metadata report coordinates as unavailable. Values of 57, 6.5 are unsupported for this locality.",NA,cherisse.persad@gmail.com,North Atlantic,Atlantic,NA
+SITE0055,East Shetlands,East Shetlands,NA,North Atlantic,NE Atlantic,NA,NA,Unknown,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0056,Gulf of San Jorge,Gulf of San Jorge,NA,South Atlantic,SW Atlantic,-46.1666666666666,-61.8333333333333,Exact,NA,NA,cherisse.persad@gmail.com,South Atlantic,Atlantic,NA
+SITE0057,Gascogne Gulf,Gascogne Gulf,NA,North Atlantic,NE Atlantic,47.0333333333333,-4.68333333333333,Exact,NA,NA,cherisse.persad@gmail.com,North Atlantic,Atlantic,NA
+SITE0058,Bjørnafjord south off Bergen (Norway),Bjørnafjord south off Bergen (Norway),NA,North Atlantic,NE Atlantic,60.1842931666666,5.50879628,Exact,NA,NA,cherisse.persad@gmail.com,NA,Atlantic,NA
+SITE0059,"Malene Bay, Nuuk (Greenland)","Malene Bay, Nuuk (Greenland)",NA,North Atlantic,NW Atlantic,64.1569444444444,-51.6969444444444,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0060,Torishima seamount (Japan),Torishima seamount (Japan),NA,North Pacific,NW Pacific,30.9241666666666,141.828666666666,Exact,NA,NA,cherisse.persad@gmail.com,North Pacific,Pacific,NA
+SITE0061,British Columbia,British Columbia,NA,North Pacific,NE Pacific,48.6754388888888,-126.0899,Exact,NA,NA,cherisse.persad@gmail.com,North Pacific,Pacific,NA
+SITE0062,Capraia Island (Italy),Capraia Island (Italy),NA,Mediterranean sea,W Mediterranean,NA,NA,Unknown,NA,NA,jmalfarolucas@gmail.com,Mediterranean sea,Mediterranean,NA
+SITE0063,"Marettimo Island, Tyrrhenian Sea (Italy)","Marettimo Island, Tyrrhenian Sea (Italy)",NA,Mediterranean sea,W Mediterranean,NA,NA,Unknown,NA,NA,jmalfarolucas@gmail.com,Mediterranean sea,Mediterranean,NA
+SITE0064,"Blanes canyon, Catalonia",Blanes Canyon (Catalonia),NA,Mediterranean sea,W Mediterranean,41.6709722222222,2.8898,Exact,NA,NA,cherisse.persad@gmail.com,Mediterranean sea,Mediterranean,NA
+SITE0065,South Georgia Island,South Georgia Island,NA,Southern Ocean,Antarctica,-54.2967499999999,-37.9045,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Southern,NA
+SITE0066,"Whalers Bay, Deception Island","Whalers Bay, Deception Island",NA,Southern Ocean,Antarctica,-62.9899166666666,-60.5613888888888,Exact,NA,NA,cherisse.persad@gmail.com,Southern Ocean,Southern,NA
+SITE0067,Nansei-Shoto Trench (Philippine Sea),Nansei-Shoto Trench (Philippine Sea),NA,North Pacific,NW Pacific,23.9093466666666,126.36227,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0068,"between the Papua New Guinea islands of New Ireland and New Britain, Manus Basin","between the Papua New Guinea islands of New Ireland and New Britain, Manus Basin",NA,South Pacific,SW Pacific,-3.78943166666666,152.092013055555,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0069,"Hydrate Ridge, Oregon","Hydrate Ridge, Oregon",NA,North Pacific,NE Pacific,44.669,-125.098,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0070,"Monterey Bay, CA, USA","Monterey Bay, CA, USA",NA,North Pacific,NE Pacific,36.608544,-122.156694,Exact,NA,NA,cherisse.persad@gmail.com,NA,Pacific,NA
+SITE0071,Longqi vent field (Southwest Indian Ridge),Longqi vent field (Southwest Indian Ridge),NA,Indian Ocean,SW Indian Ocean,-37.78355,49.64475,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Indian,NA
+SITE0072,Vanuatu,Santo Island (Vanuatu),NA,South Pacific,SW Pacific,-15.704,167.0435,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0073,"Coral Seamount, Southwest Indian Ridge","Coral Seamount, Southwest Indian Ridge",NA,Indian Ocean,SW Indian Ocean,-41.373,42.9106666666666,Exact,NA,SITE0557,cherisse.persad@gmail.com,Indian Ocean,Indian,NA
+SITE0074,"Atlantis Bank, Southwest Indian Ridge","Atlantis Bank, Southwest Indian Ridge",NA,Indian Ocean,SW Indian Ocean,-32.7118333333333,57.2718333333333,Exact,NA,SITE0556,cherisse.persad@gmail.com,Indian Ocean,Indian,NA
+SITE0075,Weijia Guyot,Weijia Guyot,NA,North Pacific,NW Pacific,12.716915,156.453428333333,Exact,NA,NA,cherisse.persad@gmail.com,NA,Pacific,NA
+SITE0076,Weijia Guyot,Weijia Guyot,NA,North Pacific,NW Pacific,12.9493333333333,156.954166666666,Exact,NA,NA,cherisse.persad@gmail.com,NA,Pacific,NA
+SITE0077,Setubal Canyon (Portugal),Setubal Canyon (Portugal),NA,North Atlantic,NE Atlantic,38.2809333333333,-9.11223333333333,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Atlantic,NA
+SITE0078,East China,East China,NA,North Pacific,NW Pacific,28,127,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Pacific,NA
+SITE0079,"Off Concepción, Chile","Off Concepción, Chile",NA,South Pacific,SE Pacific,-36.4833333333333,-73.5666666666666,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0080,off Azores,off Azores,NA,North Atlantic,Mid-Atlantic Ridge,38.4651666666666,-28.6216666666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0081,Lucky Strike vent field,Lucky Strike hydrothermal field,NA,North Atlantic,Mid-Atlantic Ridge,37.2886666666666,-32.2755,Exact,NA,NA,cherisse.persad@gmail.com,NA,Atlantic,NA
+SITE0082,"off Cape Nomamisaki, Japan","off Cape Nomamisaki, Japan",NA,North Pacific,NW Pacific,31.3453333333333,129.988083333333,Exact,NA,NA,cherisse.persad@gmail.com,North Pacific,Pacific,NA
+SITE0083,"Monterey Bay, CA, USA","Monterey Bay, CA, USA",NA,North Pacific,NE Pacific,32.7769666666666,-117.487566666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0084,"San Diego, CA, USA","San Diego, CA, USA",NA,North Pacific,NE Pacific,32.7716,-117.453,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0085,"Monterey Bay, CA, USA","Monterey Bay, CA, USA",NA,North Pacific,NE Pacific,36.7721,-122.0831,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0086,Santa Cruz Basin,Santa Cruz Basin,NA,North Pacific,NE Pacific,33.45,-119.366666666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0087,Santa Catalina Basin,Santa Catalina Basin,NA,North Pacific,NE Pacific,32.2,-118.5,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0088,San Diego Trough,San Diego Trough,NA,North Pacific,NE Pacific,32.5833333333333,-117.5,Exact,NA,NA,cherisse.persad@gmail.com,North Pacific,Pacific,NA
+SITE0089,San Nicolas Slope,San Nicolas Slope,NA,North Pacific,NE Pacific,33.3333333333333,-119.833333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0090,San Clemente Basin,San Clemente Basin,NA,North Pacific,NE Pacific,32.4333333333333,-118.15,Exact,NA,NA,cherisse.persad@gmail.com,North Pacific,Pacific,NA
+SITE0091,off Oregon,off Oregon,NA,North Pacific,NE Pacific,47.9576666666666,-126.035333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0092,off Oregon,off Oregon,NA,North Pacific,NE Pacific,43.9086666666666,-125.173666666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0093,off Oregon,off Oregon,NA,North Pacific,NE Pacific,47.27,-127.592833333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0094,off Oregon,off Oregon,NA,North Pacific,NE Pacific,43.8783333333333,-127.5655,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0095,Off Woods Hole,Off Woods Hole,NA,North Atlantic,NW Atlantic,39.7666666666666,-70.6833333333333,Exact,NA,NA,cherisse.persad@gmail.com,NA,Atlantic,NA
+SITE0096,Cayman Trench,central Puerto Rico Trench,NA,North Atlantic,NW Atlantic,19.0166666666667,-80.5,Exact,"Wolff (1976) Table I identifies 19°01'N, 80°30'W, 6800 m as Cayman Trench west station 1242A. Original_Locality_Name records the source label 'central Puerto Rico Trench', which is not used as the standardised locality.",NA,cherisse.persad@gmail.com,NA,Atlantic,NA
+SITE0097,Near Lesser Antilles,Near Lesser Antilles,NA,North Atlantic,NW Atlantic,17.85,-65.0666666666666,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Atlantic,NA
+SITE0098,Cayman Trench,Cayman Trench,NA,North Atlantic,NW Atlantic,19.65,-76.6166666666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0099,"Caribbean sea, near Lesser Antilles","Caribbean sea, near Lesser Antilles",NA,North Atlantic,NW Atlantic,17.583,-61.35,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Atlantic,NA
+SITE0100,Caribbean sea,Caribbean sea,NA,North Atlantic,NW Atlantic,19.23,-73.23,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0101,Gulf of Guinea,Gulf of Guinea,NA,South Atlantic,SE Atlantic,4.8333,-4.9666,Exact,NA,NA,jmalfarolucas@gmail.com,South Atlantic,Atlantic,NA
+SITE0102,Cayman Trench,Cayman Trench,NA,North Atlantic,NW Atlantic,19.016666666666602,-80.5833333333333,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Atlantic,NA
+SITE0103,Cayman Trench,Cayman Trench,NA,North Atlantic,NW Atlantic,19.1,-80.5,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Atlantic,NA
+SITE0104,Caribbean sea,Caribbean sea,NA,North Atlantic,NW Atlantic,20.1333333333333,-84.5,Exact,NA,NA,cherisse.persad@gmail.com,North Atlantic,Atlantic,NA
+SITE0105,"Caribbean sea, Southern Caribbean","Caribbean sea, Southern Caribbean",NA,North Atlantic,NW Atlantic,11.65,-64.5833333333333,Exact,NA,NA,cherisse.persad@gmail.com,North Atlantic,Atlantic,NA
+SITE0106,"Caribbean sea, Northern Caribbean","Caribbean sea, Northern Caribbean",NA,North Atlantic,NW Atlantic,19.2333333333333,-73.2333333333333,Exact,NA,NA,cherisse.persad@gmail.com,North Atlantic,Atlantic,NA
+SITE0107,Gulf of Guinea,Gulf of Guinea,NA,South Atlantic,SE Atlantic,4.83333333333333,-4.96666666666666,Exact,NA,NA,cherisse.persad@gmail.com,South Atlantic,Atlantic,NA
+SITE0108,"Caribbean Sea, off Trinidad","Caribbean Sea, off Trinidad",NA,North Atlantic,NW Atlantic,11.6166666666666,-60.2,Exact,NA,NA,cherisse.persad@gmail.com,North Atlantic,Atlantic,NA
+SITE0109,North of Bahama Islands,North of Bahama Islands,NA,North Atlantic,NW Atlantic,27.4333333333333,-77.8333333333333,Exact,NA,NA,cherisse.persad@gmail.com,NA,Atlantic,NA
+SITE0110,Northern Caribbean Sea,Northen Caribbean,NA,North Atlantic,NW Atlantic,19.2333333333333,-73.2333333333333,Exact,NA,NA,cherisse.persad@gmail.com,NA,Atlantic,NA
+SITE0111,Puerto Rico Trench,Puerto Rico Trench,NA,North Atlantic,NW Atlantic,19.4333333333333,-66.4,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Atlantic,NA
+SITE0112,off Georgia,off Georgia,NA,North Atlantic,NW Atlantic,31.8,-76.5333333333333,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Atlantic,NA
+SITE0113,off Guiana,off Guiana,NA,North Atlantic,NW Atlantic,8.55,-54.3,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0114,Cayman Trench central,Cayman Trench central,NA,North Atlantic,NW Atlantic,19.65,-76.61666,Exact,NA,NA,cherisse.persad@gmail.com,North Atlantic,Atlantic,NA
+SITE0115,Puerto Rico Trench,Puerto Rico Trench south,NA,North Atlantic,NW Atlantic,19.4,-68,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Atlantic,NA
+SITE0116,Yucatan Basin,Yucatan Basin,NA,North Atlantic,NW Atlantic,20.1333,-84.5,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Atlantic,NA
+SITE0117,North Cuba,North Cuba,NA,North Atlantic,NW Atlantic,21.9666666666666,-73.7,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0118,Cayman Trench,Cayman Trench,NA,North Atlantic,NW Atlantic,19.016666666666602,-80.5,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0119,Near Lesser Antilles,Near Lesser Antilles,NA,North Atlantic,NW Atlantic,13.45,-62.3166666666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0120,Cayman Trench,Cayman Trench,NA,North Atlantic,NW Atlantic,19.4,-76.6333333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0121,Puerto Rico Trench,Puerto Rico Trench,NA,North Atlantic,NW Atlantic,19.65,-68.3,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0122,Panama Gulf,Panama Gulf,NA,North Pacific,NW Pacific,6.85,-79.4666666666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0123,Near Lesser Antilles,Near Lesser Antilles,NA,North Atlantic,NW Atlantic,11.6166666666666,-60.2,Exact,NA,NA,cherisse.persad@gmail.com,NA,Atlantic,NA
+SITE0124,"South of Eyrabakki, Iceland","South of Eyrabakki, Iceland",NA,North Atlantic,NE Atlantic,61.5,-22.5,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0125,North of Bahama Island,North of Bahama Island,NA,North Atlantic,NE Atlantic,27.4333333333333,-77.8333333333333,Exact,NA,NA,cherisse.persad@gmail.com,NA,Atlantic,NA
+SITE0126,Northern Caribbean Sea,Northern Caribbean,NA,North Atlantic,NE Atlantic,19.2333333333333,-73.2333333333333,Exact,NA,NA,cherisse.persad@gmail.com,NA,Atlantic,NA
+SITE0127,Southern Caribbean Sea,Southern Caribbean,NA,North Atlantic,NE Atlantic,11.65,-64.5833333333333,Exact,NA,NA,cherisse.persad@gmail.com,NA,Atlantic,NA
+SITE0128,Near Lesser Antilles,Near Lesser Antilles,NA,North Atlantic,NE Atlantic,13.7666666666666,-61.0833333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0129,off Guiana,off Guiana,NA,North Atlantic,NE Atlantic,7.58333333333333,-56.35,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0130,Bay of Guinea,Bay of Guinea,NA,South Atlantic,SE Atlantic,4.83333333333333,-4.96666666666666,Exact,NA,NA,cherisse.persad@gmail.com,NA,Atlantic,NA
+SITE0131,North Cuba,North of Cuba,NA,North Atlantic,NE Atlantic,22.4,-75.43333,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0132,Northern Caribbean Sea,Northern Caribbean,NA,North Atlantic,NE Atlantic,18.266666,-78.516666,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Atlantic,NA
+SITE0133,Yucatan Basin,Yucatan Basin,NA,North Atlantic,NE Atlantic,20.1333333333333,-84.5,Exact,NA,NA,cherisse.persad@gmail.com,NA,Atlantic,NA
+SITE0134,Puerto Rico Trench,Puerto Rico Trench,NA,North Atlantic,NE Atlantic,19.4,-66.1833333,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Atlantic,NA
+SITE0135,Puerto Rico Trench,Puerto Rico Trench,NA,North Atlantic,NE Atlantic,19.6333,-67.7666,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Atlantic,NA
+SITE0136,Puerto Rico Trench,Puerto Rico Trench,NA,North Atlantic,NE Atlantic,19.75,-67,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Atlantic,NA
+SITE0137,Caribbean Sea,Caribbean,NA,North Atlantic,NE Atlantic,19.8,-83.5,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Atlantic,NA
+SITE0138,Puerto Rico Trench,Puerto Rico Trench,NA,North Atlantic,NE Atlantic,19.71666,-67.083333,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Atlantic,NA
+SITE0139,West Cayman Trench,West Cayman Trench,NA,North Atlantic,NE Atlantic,19.01666,-80.5,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Atlantic,NA
+SITE0140,West Cayman Trench,West Cayman Trench,NA,North Atlantic,NE Atlantic,19.01666,-80.58333,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Atlantic,NA
+SITE0141,East Cayman Trench,East Cayman Trench,NA,North Atlantic,NE Atlantic,19.65,-76.61666,Exact,NA,NA,cherisse.persad@gmail.com,NA,Atlantic,NA
+SITE0142,West Cayman Trench,West Cayman Trench,NA,North Atlantic,NE Atlantic,19.01666,-80.5833,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Atlantic,NA
+SITE0143,off Georgia,off Georgia,NA,North Atlantic,NE Atlantic,31.8,-76.5333,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Atlantic,NA
+SITE0144,Tumokemoke Knoll,Tumokemoke Knoll,NA,South Pacific,SW Pacific,-37.485,176.911666666666,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0145,East of Cape Kidnappers,East of Cape Kidnappers,NA,South Pacific,SW Pacific,-39.88,177.608333333333,Exact,NA,NA,cherisse.persad@gmail.com,South Pacific,Pacific,NA
+SITE0146,South East of Cape Campbell,South East of Cape Campbell,NA,South Pacific,SW Pacific,-41.9316666666666,174.72,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0147,off Jackson Bay,off Jackson Bay,NA,South Pacific,SW Pacific,-43.4466666666666,168.903333333333,Exact,NA,NA,cherisse.persad@gmail.com,South Pacific,Pacific,NA
+SITE0148,off Timaru,off Timaru,NA,South Pacific,SW Pacific,-44.5366666666666,173.705,Exact,NA,NA,cherisse.persad@gmail.com,South Pacific,Pacific,NA
+SITE0149,South East of Banks Peninsula,South East of Banks Peninsula,NA,South Pacific,SW Pacific,-44.6083333333333,173.546666666666,Exact,NA,NA,cherisse.persad@gmail.com,South Pacific,Pacific,NA
+SITE0150,New Zealand,New Zeland,NA,South Pacific,SW Pacific,-37.395,177.658333333333,Exact,NA,NA,cherisse.persad@gmail.com,NA,Pacific,NA
+SITE0151,off Castlepoint,off Castlepoint,NA,South Pacific,SW Pacific,-41.1616666666666,176.521666666666,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0152,off Castlepoint,off Castlepoint,NA,South Pacific,SW Pacific,-41.1616666666666,176.441666666666,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0153,Lower Kaikoura Canyon,Lower Kaikoura Canyon,NA,South Pacific,SW Pacific,-42.6383333333333,173.773333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0154,off Timaru,off Timaru,NA,South Pacific,SW Pacific,-44.7683333333333,173.6,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0155,Chatham Rise,Chatham Rise,NA,South Pacific,SW Pacific,-42.7316666666666,176.133333333333,Exact,NA,NA,cherisse.persad@gmail.com,NA,Pacific,NA
+SITE0156,South East of Mayor,South East of Mayor,NA,South Pacific,SW Pacific,-37.365,176.348333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0157,East of Mayor,East of Mayor,NA,South Pacific,SW Pacific,-37.3916666666666,176.75,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0158,South East of Broken Bay,South East of Broken Bay,NA,South Pacific,SW Pacific,-33.6666666666666,151.933333333333,Exact,NA,NA,cherisse.persad@gmail.com,NA,Pacific,NA
+SITE0159,off Port Jackson,off Port Jackson,NA,South Pacific,SW Pacific,-33.5,152.083333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0160,off Broken Bay,off Broken Bay,NA,South Pacific,SW Pacific,-33.5333333333333,152,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0161,East of Broken Bay,East of Broken Bay,NA,South Pacific,SW Pacific,-33.5666666666666,152.116666666666,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0162,off Port Jackson,off Port Jackson,NA,South Pacific,SW Pacific,-33.5833333333333,152.016666666666,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0163,East of Broken Bay,East of Broken Bay,NA,South Pacific,SW Pacific,-33.5833333333333,152,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0164,off Timaru,off Timaru,NA,South Pacific,SW Pacific,-44.6083333333333,173.546666666666,Exact,NA,NA,cherisse.persad@gmail.com,NA,Pacific,NA
+SITE0165,South East of Botany Bay,South East of Botany Bay,NA,South Pacific,SW Pacific,-34.2833333333333,151.45,Exact,NA,NA,cherisse.persad@gmail.com,NA,Pacific,NA
+SITE0166,off Botany Bay,off Botany Bay,NA,South Pacific,SW Pacific,-34.35,151.383333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0167,East of Brush Island,East of Brush Island,NA,South Pacific,SW Pacific,-35.55,150.733333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0168,off Newcastle,off Newcastle,NA,South Pacific,SW Pacific,-33.6666666666666,151.933333333333,Exact,NA,NA,cherisse.persad@gmail.com,NA,Pacific,NA
+SITE0169,East of Sydney,East of Sydney,NA,South Pacific,SW Pacific,-33.7166666666666,151.85,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0170,off Broken Bay,off Broken Bay,NA,South Pacific,SW Pacific,-33.7666666666666,151.833333333333,Exact,NA,NA,cherisse.persad@gmail.com,NA,Pacific,NA
+SITE0171,East of Wattamolla,East of Wattamolla,NA,South Pacific,SW Pacific,-34.2833333333333,151.45,Exact,NA,NA,cherisse.persad@gmail.com,South Pacific,Pacific,NA
+SITE0172,off White Island,off White Island,NA,South Pacific,SW Pacific,-37.395,177.658333333333,Exact,NA,NA,cherisse.persad@gmail.com,South Pacific,Pacific,NA
+SITE0173,off East Cape,off East Cape,NA,South Pacific,SW Pacific,-37.5433333333333,179.321666666666,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0174,off Castlepoint,off Castlepoint,NA,South Pacific,SW Pacific,-41.1833333333333,176.666666666666,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Pacific,NA
+SITE0175,off Castlepoint,off Castlepoint,NA,South Pacific,SW Pacific,-41.175,176.58,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Pacific,NA
+SITE0176,off Timaru,off Timaru,NA,South Pacific,SW Pacific,-44.7366666666666,173.13,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0177,off Timaru,off Timaru,NA,South Pacific,SW Pacific,-44.7516666666666,173.086666666666,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0178,West Hokitika,West Hokitika,NA,South Pacific,SW Pacific,-42.9766666666666,168.365,Exact,NA,NA,cherisse.persad@gmail.com,NA,Pacific,NA
+SITE0179,off Kaikoura,off Kaikoura,NA,South Pacific,SW Pacific,-42.695,174.466666666666,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0180,off Cape Egmont,off Cape Egmont,NA,South Pacific,SW Pacific,-38.975,172.17,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0181,off Mahia Peninsula,off Mahia Peninsula,NA,South Pacific,SW Pacific,-39.4733333333333,178.393333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0182,off Cape Kidnappers,off Cape Kidnappers,NA,South Pacific,SW Pacific,-39.945,177.92,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0183,off Castlepoint,off Castlepoint,NA,South Pacific,SW Pacific,-41.165,176.441666666666,Exact,NA,NA,cherisse.persad@gmail.com,South Pacific,Pacific,NA
+SITE0184,South of Castlepoint,South of Castlepoint,NA,South Pacific,SW Pacific,-41.4733333333333,176.086666666666,Exact,NA,NA,cherisse.persad@gmail.com,South Pacific,Pacific,NA
+SITE0185,off Cape Palliser,off Cape Palliser,NA,South Pacific,SW Pacific,-41.7533333333333,175.446666666666,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0186,off Clarence River mouth,off Clarence River mouth,NA,South Pacific,SW Pacific,-42.24,174.353333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0187,off Greymouth,off Greymouth,NA,South Pacific,SW Pacific,-42.37,169.458333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0188,NE of Chatham Island,NE of Chatham Island,NA,South Pacific,SW Pacific,-42.785,-175.76,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0189,off Hokitika,off Hokitika,NA,South Pacific,SW Pacific,-42.9766666666666,168.365,Exact,NA,NA,cherisse.persad@gmail.com,South Pacific,Pacific,NA
+SITE0190,"off Jackson Bay, Moeraki Canyon","off Jackson Bay, Moeraki Canyon",NA,South Pacific,SW Pacific,-43.4466666666666,168.903333333333,Exact,NA,NA,cherisse.persad@gmail.com,NA,Pacific,NA
+SITE0191,off Jackson Bay,off Jackson Bay,NA,South Pacific,SW Pacific,-43.4966666666666,168.901666666666,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0192,off Castlepoint,off Castlepoint,NA,South Pacific,SW Pacific,-41.3583333333333,176.348333333333,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Pacific,NA
+SITE0193,off Gable End Foreland,off Gable End Foreland,NA,South Pacific,SW Pacific,-38.6483333333333,178.638333333333,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Pacific,NA
+SITE0194,West of Hokitika,West of Hokitika,NA,South Pacific,SW Pacific,-42.9766666666666,168.365,Exact,NA,NA,cherisse.persad@gmail.com,NA,Pacific,NA
+SITE0195,SE of Broken Bay,SE of Broken Bay,NA,South Pacific,SW Pacific,-33.6666666666666,151.933333333333,Exact,NA,NA,cherisse.persad@gmail.com,South Pacific,Pacific,NA
+SITE0196,off East Cape,off East Cape,NA,South Pacific,SW Pacific,-37.535,179.176666666666,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0197,off Castlepoint,off Castlepoint,NA,South Pacific,SW Pacific,-41.4116666666666,176.14,Exact,NA,NA,cherisse.persad@gmail.com,South Pacific,Pacific,NA
+SITE0198,off Castlepoint,off Castlepoint,NA,South Pacific,SW Pacific,-41.4216666666666,176.126666666666,Exact,NA,NA,cherisse.persad@gmail.com,South Pacific,Pacific,NA
+SITE0199,NE of Chatham Island,NE of Chatham Island,NA,South Pacific,SW Pacific,-42.9583333333333,175.371666666666,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0200,off Oamaru,off Oamaru,NA,South Pacific,SW Pacific,-44.9875,174.015,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0201,"NE of Mernoo Bank, Chatham Rise","NE of Mernoo Bank, Chatham Rise",NA,South Pacific,SW Pacific,-42.7316666666666,176.133333333333,Exact,NA,NA,cherisse.persad@gmail.com,South Pacific,Pacific,NA
+SITE0202,off Cape Runaway,off Cape Runaway,NA,South Pacific,SW Pacific,-37.4983333333333,177.783333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0203,off Castlepoint,off Castlepoint,NA,South Pacific,SW Pacific,-41.42,176.07,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0204,off Castlepoint,off Castlepoint,NA,South Pacific,SW Pacific,-41.4733333333333,176.086666666666,Exact,NA,NA,cherisse.persad@gmail.com,NA,Pacific,NA
+SITE0205,off Jackson Bay,off Jackson Bay,NA,South Pacific,SW Pacific,-43.555,168.856666666666,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0206,off Timaru,off Timaru,NA,South Pacific,SW Pacific,-44.5883333333333,174.098333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0207,off Timaru,off Timaru,NA,South Pacific,SW Pacific,-44.7983333333333,174.098333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0208,off Timaru,off Timaru,NA,South Pacific,SW Pacific,-44.5366666666666,173.705,Exact,NA,NA,cherisse.persad@gmail.com,NA,Pacific,NA
+SITE0209,East of Broken Bay,East of Broken Bay,NA,South Pacific,SW Pacific,-33.7666666666666,151.833333333333,Exact,NA,NA,cherisse.persad@gmail.com,South Pacific,Pacific,NA
+SITE0210,off Cape Kidnappers,off Cape Kidnappers,NA,South Pacific,SW Pacific,-39.88,177.608333333333,Exact,NA,NA,cherisse.persad@gmail.com,NA,Pacific,NA
+SITE0211,East of Ulladulla,East of Ulladulla,NA,South Pacific,SW Pacific,-35.5166666666666,150.833333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0212,New Zealand,New Zealand,NA,South Pacific,SW Pacific,-37.35,176.433333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0213,New Zealand,New Zealand,NA,South Pacific,SW Pacific,-37.3333333333333,176.483333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0214,New Zealand,New Zealand,NA,South Pacific,SW Pacific,-38.65,172.633333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0215,New Zealand,New Zealand,NA,South Pacific,SW Pacific,-43.3833333333333,169.05,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0216,New Zealand,New Zealand,NA,South Pacific,SW Pacific,-42.7166666666666,169.25,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0217,New Zealand,New Zealand,NA,South Pacific,SW Pacific,-43.3833333333333,168.083333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0218,South Woods Hole (USA),South Woods Hole (USA),NA,North Atlantic,NW Atlantic,39.7666666666666,-70.6833333333333,Exact,NA,NA,cherisse.persad@gmail.com,North Atlantic,Atlantic,NA
+SITE0219,SE Woods Hole (USA),SE Woods Hole (USA),NA,North Atlantic,NW Atlantic,38.3066666666666,-69.5933333333333,Exact,NA,NA,cherisse.persad@gmail.com,North Atlantic,Atlantic,NA
+SITE0220,SE Woods Hole (USA),SE Woods Hole (USA),NA,North Atlantic,NW Atlantic,38.3066666666666,-69.5933333333333,Exact,"Most original SE Woods Hole records report 38.3066667°N, 69.5933333°W; one row reports Tongue-of-the-Ocean coordinates and is treated as an outlier.",NA,cherisse.persad@gmail.com,North Atlantic,Atlantic,NA
+SITE0221,Tongue of the Ocean (Bahamas),Tongue of the Ocean (Bahamas),NA,North Atlantic,NW Atlantic,24.8866666666666,-77.67,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0222,"St. Croix, off N Coast","St. Croix, off N Coast",NA,North Atlantic,NW Atlantic,17.9438333333333,-64.81,Exact,NA,NA,cherisse.persad@gmail.com,North Atlantic,Atlantic,NA
+SITE0223,Panama Basin,Panama Basin,NA,North Pacific,NE Pacific,5.34416666666666,-81.9365,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Pacific,"Analytical basin assignment corrected to Pacific based on Panama Basin locality and coordinates (5.344167 N, 81.9365 W); inherited verbatim basin retained."
+SITE0224,west of Spitsbergen,west of Spitsbergen,NA,North Atlantic,NE Atlantic,NA,NA,Unknown,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0225,Selvogsdypet,Selvogsdypet,NA,North Atlantic,NE Atlantic,NA,NA,Unknown,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0226,southeast of Reykjanesridge,southeast of Reykjanesridge,NA,North Atlantic,NE Atlantic,NA,NA,Unknown,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0227,off Vesrmannaeyar,off Vesrmannaeyar,NA,North Atlantic,NE Atlantic,NA,NA,Unknown,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0228,between Hebrides & Faroe Islands (Wyville-Thomson Ridge),between Hebrides & Faroe Islands (Wyville-Thomson Ridge),NA,North Atlantic,NE Atlantic,NA,NA,Unknown,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0229,Off New England,Off New England,NA,North Atlantic,NE Atlantic,38.5083333333333,-69.1402777777777,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0230,Off New England,Off New England,NA,North Atlantic,NE Atlantic,39.7,-71.5333333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0231,"Tuscan Sea, Italy","Tuscan Sea, Italy",NA,Mediterranean Sea,W Mediterranean,NA,NA,Unknown,NA,NA,jmalfarolucas@gmail.com,Mediterranean Sea,Mediterranean,NA
+SITE0232,"off Almeria, Spain","off Almeria, Spain",NA,Mediterranean Sea,W Mediterranean,NA,NA,Unknown,NA,NA,jmalfarolucas@gmail.com,Mediterranean Sea,Mediterranean,NA
+SITE0233,off Kaikoura,off Kaikoura,NA,South Pacific,SW Pacific,-43.0416666666666,174.15,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Pacific,NA
+SITE0234,East Auckland Island,East Auckland Island,NA,South Pacific,SW Pacific,-30.0433333333333,169.516666666666,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Pacific,NA
+SITE0235,New South Wales,New South Wales,NA,South Pacific,SW Pacific,NA,NA,Unknown,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0236,off Queensland,off Queensland,NA,South Pacific,SW Pacific,NA,NA,Unknown,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0237,Morroco,Morroco,NA,North Atlantic,NE Atlantic,35.1833333333333,-7.83333333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0238,Tongue of the Ocean (Bahamas),Tongue of the Ocean (Bahamas),NA,North Atlantic,NW Atlantic,17.9438333333333,-64.81,Exact,NA,NA,cherisse.persad@gmail.com,NA,Atlantic,NA
+SITE0239,San Diego,San Diego,NA,North Pacific,NE Pacific,32.5166666666666,-117.275,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0240,"east of Savannah, Georgia","east of Savannah, Georgia",NA,North Atlantic,NW Atlantic,32,-77,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Atlantic,NA
+SITE0241,Ocean Drilling Program (ODP) Drill Hole 1026B,Ocean Drilling Program (ODP) Drill Hole 1026B,NA,North Pacific,NE Pacific,47.76275,-127.757316666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0242,Baby Bare Seamount,Baby Bare Seamount,NA,North Pacific,NE Pacific,47.7106166666666,-127.7882,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0243,Escanaba Trough,Escanaba Trough,NA,North Pacific,NE Pacific,41.0045333333333,-127.49465,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0244,Cape Cod,Cape Cod,NA,North Atlantic,NW Atlantic,39.7783333333333,-70.68,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0245,South of Cape Cod,South of Cape Cod,NA,North Atlantic,NW Atlantic,38.3233333333333,-69.5933333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0246,"Wuzza Bare, Cascadia Basin",Cascadia Basin (Wuzza Bare),NA,North Pacific,NE Pacific,47.7847833333333,-127.691316666666,Exact,NA,NA,cherisse.persad@gmail.com,North Pacific,Pacific,NA
+SITE0247,"Baby Bare, Cascadia Basin",Cascadia Basin (Baby Bare Seamount),NA,North Pacific,NE Pacific,47.7106166666666,-127.79375,Exact,NA,NA,cherisse.persad@gmail.com,North Pacific,Pacific,NA
+SITE0248,"ODP 1026B, Cascadia Basin",Cascadia Basin (ODP 102b),NA,North Pacific,NE Pacific,47.7625833333333,-127.75735,Exact,NA,NA,cherisse.persad@gmail.com,North Pacific,Pacific,NA
+SITE0249,Escanaba Trough,Escanaba Trough,NA,North Pacific,NE Pacific,41.0002666666666,-127.49475,Exact,NA,NA,cherisse.persad@gmail.com,North Pacific,Pacific,NA
+SITE0250,"Sea Cliff, Gorda Ridge",Gorda Ridge (Sea Cliff),NA,North Pacific,NE Pacific,42.7543,-126.709533333333,Exact,NA,NA,cherisse.persad@gmail.com,North Pacific,Pacific,NA
+SITE0251,"Axial Volcano, Juan de Fuca Ridge",Juan de Fuca (Axial),NA,North Pacific,NE Pacific,45.9336833333333,-129.9827,Exact,NA,NA,cherisse.persad@gmail.com,North Pacific,Pacific,NA
+SITE0252,"Endeavour Segment, Juan de Fuca Ridge",Juan de Fuca (Endeavour),NA,North Pacific,NE Pacific,47.94635,-129.097033333333,Exact,NA,NA,cherisse.persad@gmail.com,North Pacific,Pacific,NA
+SITE0253,"Cleft Segment, Juan de Fuca Ridge",Juan de Fuca (Cleft),NA,North Pacific,NE Pacific,44.6633333333333,-130.355,Exact,NA,NA,cherisse.persad@gmail.com,North Pacific,Pacific,NA
+SITE0254,Nootka Fracture Zone,Nootka Fracture Zone (Nootka F.Z.),NA,North Pacific,NE Pacific,49.2951666666666,-127.6785,Exact,NA,NA,cherisse.persad@gmail.com,North Pacific,Pacific,NA
+SITE0255,Oregon Margin,Oregon Margin,NA,North Pacific,NE Pacific,44.7595,-125.524333333333,Exact,NA,NA,cherisse.persad@gmail.com,North Pacific,Pacific,NA
+SITE0256,"Straits of Juan de Fuca, off Washington","Straits of Juan de Fuca, off Washington",NA,North Pacific,NE Pacific,48.5166666666666,-124.716666666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0257,Tongue of the Ocean (Bahamas),Tongue of the Ocean (Bahamas),NA,North Atlantic,NW Atlantic,25.9,-77.8166666666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0258,"Sant Miguel Island, off Port Hueneme, California","Sant Miguel Island, off Port Hueneme, California",NA,North Pacific,NE Pacific,33.7666666666666,-120.766666666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0259,"NE Port Gentil, off Gabon","NE Port Gentil, off Gabon",NA,South Atlantic,SE Atlantic,0,8.96666666666666,Exact,NA,NA,jmalfarolucas@gmail.com,South Atlantic,Atlantic,NA
+SITE0260,"off Port Victoria, São Tome Island","off Port Victoria, São Tome Island",NA,North Atlantic,NE Atlantic,1.7,7.85,Exact,NA,NA,cherisse.persad@gmail.com,NA,Atlantic,NA
+SITE0261,"SE Fowey Rocks, Florida","SE Fowey Rocks, Florida",NA,North Atlantic,NW Atlantic,25.4166666666666,-79.9833333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0262,SE Miami,SE Miami,NA,North Atlantic,NW Atlantic,25.65,-79.9666666666666,Exact,NA,NA,cherisse.persad@gmail.com,NA,Atlantic,NA
+SITE0263,South Aligator Reef,South Aligator Reef,NA,North Atlantic,NW Atlantic,24.4166666666666,-80.5583333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0264,West Africa,West Africa,NA,South Atlantic,SE Atlantic,1.7,7.85,Exact,NA,NA,cherisse.persad@gmail.com,South Atlantic,Atlantic,NA
+SITE0265,Mindano Sea,Mindano Sea,NA,North Pacific,NW Pacific,8.8,124.15,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0266,Sulu Sea,Sulu Sea,NA,North Pacific,NW Pacific,7.9,121.5,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0267,Makassar Strait,Makassar Strait,NA,South Pacific,SW Pacific,-3.93333333333333,118.433333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0268,Bali Sea,Bali Sea,NA,South Pacific,SW Pacific,-5.41666666666666,117.05,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0269,Banda Trench,Banda Trench,NA,South Pacific,SW Pacific,-5.43333333333333,130.966666666666,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0270,Tasman Sea,Tasman Sea,NA,South Pacific,SW Pacific,-31.45,153.55,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0271,Kermadec Trench,Kermadec Trench,NA,South Pacific,SW Pacific,-35.85,-178.516666666666,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0272,"Galathea Station 726, Gulf of Panama",Gulf of Panama,NA,North Pacific,NE Pacific,5.8166666,-78.8666666666666,Exact,NA,NA,cherisse.persad@gmail.com,North Pacific,Pacific,NA
+SITE0273,Gulf of Panama,Gulf of Panama,NA,North Pacific,NE Pacific,7.36,-79.5333333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0274,"Galathea Station 745, Gulf of Panama",Gulf of Panama,NA,North Pacific,NE Pacific,7.25,-79.4166666666666,Exact,NA,NA,cherisse.persad@gmail.com,North Pacific,Pacific,NA
+SITE0275,Bay of Puerto Montt,Bay of Puerto Montt,NA,South Pacific,SE Pacific,-41.5013888888888,-72.9394444444444,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0276,"off Acapulco, Mexico","off Acapulco, Mexico",NA,North Pacific,NE Pacific,16.7833333333333,-99.9833333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0277,East Gloucester,East Gloucester,NA,North Atlantic,NW Atlantic,42.55,-69.9666666666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0278,East Cape Cod,East Cape Cod,NA,North Atlantic,NW Atlantic,41.2166666666666,-66,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0279,Barnegat Bay,Barnegat Bay,NA,North Atlantic,NW Atlantic,39.7166666666666,-71.5333333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0280,East Atlantic City,East Atlantic City,NA,North Atlantic,NW Atlantic,39.5666666666666,-71.9333333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0281,East Atlantic City,East Atlantic City,NA,North Atlantic,NW Atlantic,39.3666666666666,-68.4166666666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0282,East Cape May,East Cape May,NA,North Atlantic,NW Atlantic,38.8666666666666,-69.4,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0283,East Cape Henry,East Cape Henry,NA,North Atlantic,NW Atlantic,36.75,-74.4666666666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0284,East Cape Henry,East Cape Henry,NA,North Atlantic,NW Atlantic,36.6,-74.5333333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0285,off Atlantic City,off Atlantic City,NA,North Atlantic,NW Atlantic,39.4833333333333,-70.9666666666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0286,off Cape Hatteras,off Cape Hatteras,NA,North Atlantic,NW Atlantic,35.8166666666666,-74.5666666666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0287,off Fernandina,off Fernandina,NA,North Atlantic,NW Atlantic,30.9666666666666,-79.6333333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0288,off Dominica,off Dominica,NA,North Atlantic,NW Atlantic,15.2833333333333,-61.4,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0289,off Santa Lucia,off Santa Lucia,NA,North Atlantic,NW Atlantic,13.85,-61.05,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0290,West Silver Point (Oregon),West Silver Point (Oregon),NA,North Pacific,NE Pacific,44.8666666666666,-124.483333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0291,West Depoe Bay (Oregon),West Depoe Bay (Oregon),NA,North Pacific,NE Pacific,44.8666666666666,-124.6,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0292,West Depoe Bay (Oregon),West Depoe Bay (Oregon),NA,North Pacific,NE Pacific,44.8666666666666,-125.016666666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0293,Indonesia,Indonesia,NA,North Pacific,NW Pacific,0.576666666666667,118.883333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0294,SW Point (Bahamas),SW Point (Bahamas),NA,North Atlantic,NW Atlantic,26.6166666666666,-78.9333333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0295,Florida (USA),Florida (USA),NA,North Atlantic,NW Atlantic,25.65,-79.9666666666666,Exact,NA,NA,cherisse.persad@gmail.com,North Atlantic,Atlantic,NA
+SITE0296,N Port Louis (Guadeloupe Island),N Port Louis (Guadeloupe Island),NA,North Atlantic,NW Atlantic,16.5366666666666,-61.6133333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0297,Gulf of San Blas (Panama),Gulf of San Blas (Panama),NA,North Atlantic,NW Atlantic,9.93,-78.9966666666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0298,Cabo Marzo (Panama),Cabo Marzo (Panama),NA,North Pacific,NE Pacific,6.88333333333,-79.45,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0299,Barnegat Bay,Barnegat Bay,NA,North Atlantic,NW Atlantic,39.73,-70.5,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0300,East Currituck Sound,East Currituck Sound,NA,North Atlantic,NW Atlantic,36.4816666666666,-67.97,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0301,SE Brunswick,SE Brunswick,NA,North Atlantic,NW Atlantic,31,-79.8333333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0302,East Cape Charles (Bermuda),East Cape Charles (Bermuda),NA,North Atlantic,NW Atlantic,37.43333333,-63.9833333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0303,South Bermuda,South Bermuda,NA,North Atlantic,NW Atlantic,32.25,-64.5333333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0304,Pertigalete Bay (Venezuela),Pertigalete Bay (Venezuela),NA,North Atlantic,NW Atlantic,11.5833333333333,-64.59,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0305,Cuba,Cuba,NA,North Atlantic,NW Atlantic,23.35,-80.9333333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0306,Punta Piedras (Colombia),Punta Piedras (Colombia),NA,North Atlantic,NW Atlantic,9.46,-76.4333333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0307,Tongue of the Ocean (Bahamas),Tongue of the Ocean (Bahamas),NA,North Atlantic,NW Atlantic,24.9,-77.7833333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0308,"Sant Miguel Island, off Port Hueneme, California","Sant Miguel Island, off Port Hueneme, California",NA,North Pacific,NE Pacific,33.73,-120.75,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0309,West of Seaside (Oregon),West of Seaside (Oregon),NA,North Pacific,NE Pacific,46,-124.8,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0310,West of Tillamookhead (Oregon),West of Tillamookhead (Oregon),NA,North Pacific,NE Pacific,45.75,-125.15,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0311,West of Silver Point (Oregon),West of Silver Point (Oregon),NA,North Pacific,NE Pacific,45.8666666666666,-124.9,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0312,"Sant Miguel Island, off Port Hueneme, California","Sant Miguel Island, off Port Hueneme, California",NA,North Pacific,NE Pacific,34.1,-120.75,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0313,"Sant Miguel Island, off Port Hueneme, California","Sant Miguel Island, off Port Hueneme, California",NA,North Pacific,NE Pacific,33.7333333333333,-120.75,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0314,Desecho Island (Puerto Rico),Desecho Island (Puerto Rico),NA,North Atlantic,NW Atlantic,18.1986111111111,-67.7138888888888,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0315,Java,Java,NA,Indian Ocean,E Indian Ocean,-8.6,114.566666666666,Exact,NA,NA,jmalfarolucas@gmail.com,Indian Ocean,Indian,NA
+SITE0316,Clara Island,Clara Island,NA,Indian Ocean,E Indian Ocean,10.5,96.5833333333333,Exact,NA,NA,jmalfarolucas@gmail.com,Indian Ocean,Indian,NA
+SITE0317,"NE Port Gentil, off Gabon","NE Port Gentil, off Gabon",NA,South Atlantic,SE Atlantic,-0.25,8.78333333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Atlantic,Atlantic,NA
+SITE0318,North Iceland,North Iceland,NA,Arctic Ocean,Arctic Ocean,67.4078333333333,-21.6183333333333,Exact,NA,NA,jmalfarolucas@gmail.com,Arctic Ocean,Arctic,NA
+SITE0319,Greenland,Greenland,NA,Arctic Ocean,Arctic Ocean,74.892,-12.5898333333333,Exact,NA,NA,jmalfarolucas@gmail.com,Arctic Ocean,Arctic,NA
+SITE0320,off Tokai,off Tokai,NA,North Pacific,NW Pacific,NA,NA,Unknown,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0321,off Hitachi,off Hitachi,NA,North Pacific,NW Pacific,NA,NA,Unknown,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0322,off Atsumi Peninsula,off Atsumi Peninsula,NA,North Pacific,NW Pacific,NA,NA,Unknown,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0323,Vanuatu,Vanuatu,NA,South Pacific,SW Pacific,NA,NA,Unknown,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0324,Cape Verde Abyssal Plain,Cape Verde Abyssal Plain,NA,North Atlantic,NE Atlantic,21.0635,-31.2035,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0325,East off Castlepoint,East off Castlepoint,NA,South Pacific,SW Pacific,-41.165,176.441666666666,Exact,NA,NA,cherisse.persad@gmail.com,NA,Pacific,NA
+SITE0326,East off Castlepoint,East off Castlepoint,NA,South Pacific,SW Pacific,-41.3,176.305,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0327,East off Castlepoint,East off Castlepoint,NA,South Pacific,SW Pacific,-41.4216666666666,176.126666666666,Exact,NA,NA,cherisse.persad@gmail.com,NA,Pacific,NA
+SITE0328,East off Castlepoint,East off Castlepoint,NA,South Pacific,SW Pacific,-41.4116666666666,176.14,Exact,NA,NA,cherisse.persad@gmail.com,NA,Pacific,NA
+SITE0329,Gorda Ridge (Sea Cliff),Gorda Ridge (Sea Cliff),NA,North Pacific,NE Pacific,42.7533333333333,-126.708333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0330,Off Monterey,Off Monterey,NA,North Pacific,NE Pacific,36.26128,-122.677983333333,Exact,NA,NA,cherisse.persad@gmail.com,NA,Pacific,NA
+SITE0331,Off New Zealand,Off New Zealand,NA,South Pacific,SW Pacific,-42.787,179.926166666666,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0332,Atlantic O.,Atlantic O.,NA,North Atlantic,NW Atlantic,38.3066666666666,-69.5933333333333,Exact,NA,NA,cherisse.persad@gmail.com,NA,Atlantic,NA
+SITE0333,"Santos Basin, SW Atlantic","Santos Basin, SW Atlantic",NA,South Atlantic,SW Atlantic,-28.0284333333333,-43.5296666666666,Exact,NA,NA,cherisse.persad@gmail.com,South Atlantic,Atlantic,NA
+SITE0334,Caribbean Sea,Caribbean Sea,NA,North Atlantic,NW Atlantic,17.9583333333333,-64.8083333333333,Exact,NA,NA,cherisse.persad@gmail.com,North Atlantic,Atlantic,NA
+SITE0335,"NE Pacific, Cascadia Basin","NE Pacific, Cascadia Basin",NA,North Pacific,NE Pacific,47.2700166666666,-127.592883333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0336,"NE Pacific, Cascadia Basin","NE Pacific, Cascadia Basin",NA,North Pacific,NE Pacific,43.9087,-125.170633333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0337,"NE Pacific, Cascadia Basin","NE Pacific, Cascadia Basin",NA,North Pacific,NE Pacific,47.9577,-126.0353,Exact,NA,NA,cherisse.persad@gmail.com,North Pacific,Pacific,NA
+SITE0338,Off New Zealand,Off New Zealand,NA,South Pacific,SW Pacific,-39.7158333333333,177.963666666666,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0339,Off Monterey,Off Monterey,NA,North Pacific,NE Pacific,36.2613,-122.678,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0340,Off New Zealand,Off New Zealand,NA,South Pacific,SW Pacific,-42.8166666666666,-175.683333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0341,"Santos Basin, SW Atlantic","Santos Basin, SW Atlantic",NA,South Atlantic,SW Atlantic,-25.894,-45.0348333333333,Exact,NA,NA,cherisse.persad@gmail.com,South Atlantic,Atlantic,NA
+SITE0342,Off New Zealand,Off New Zealand,NA,South Pacific,SW Pacific,-39.7158,177.9637,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0343,Off New Zealand,Off New Zealand,NA,South Pacific,SW Pacific,-43.9546666666666,176.767166666666,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0344,Off New Zealand,Off New Zealand,NA,South Pacific,SW Pacific,-46.8716666666666,167.041666666666,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0345,Off New Zealand,Off New Zealand,NA,South Pacific,SW Pacific,-40.8305,176.935833333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0346,"Espirito Santo Basin, SW Atlantic","Espirito Santo Basin, SW Atlantic",NA,South Atlantic,SW Atlantic,-21.4501333333333,-39.8965,Exact,NA,NA,cherisse.persad@gmail.com,South Atlantic,Atlantic,NA
+SITE0347,"Blanes Canyon, Catalonia","Blanes Canyon, Catalonia",NA,Mediterranean Sea,W Mediterranean,41.5041666666666,2.84722222222222,Exact,NA,NA,jmalfarolucas@gmail.com,Mediterranean Sea,Mediterranean,NA
+SITE0348,"Avile´s Canyon, Cantabrian Sea","Avile´s Canyon, Cantabrian Sea",NA,North Atlantic,NE Atlantic,43.9103611111111,-6.35002777777777,Exact,NA,NA,cherisse.persad@gmail.com,North Atlantic,Atlantic,NA
+SITE0349,Gulf of Mexico,Gulf of Mexico,NA,North Atlantic,NW Atlantic,27.7458333333333,-91.2218333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0350,"La Fonera Canyon, Catalonia","La Fonera Canyon, Catalonia",NA,Mediterranean Sea,E Mediterranean,41.8641666666666,3.33616666666666,Exact,NA,NA,jmalfarolucas@gmail.com,Mediterranean Sea,Mediterranean,NA
+SITE0351,"SE Port Dunford, South Africa","SE Port Dunford, South Africa",NA,Indian Ocean,SW Indian Ocean,-29.0366666666666,32.3266666666666,Exact,NA,NA,cherisse.persad@gmail.com,Indian Ocean,Indian,NA
+SITE0352,"St. Croix, off N Coast","St. Croix, off N Coast",NA,North Atlantic,NW Atlantic,17.9583333333333,-64.8083333333333,Exact,NA,NA,cherisse.persad@gmail.com,NA,Atlantic,NA
+SITE0353,"Bergen, Norway","Bergen, Norway",NA,North Atlantic,NE Atlantic,60.4819166666666,5.41775,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0354,"Rendova, Solomon Islands","Rendova, Salomon Islands",NA,South Pacific,SW Pacific,-8.5537,157.8983,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0355,"Rendova, Solomon Islands","Rendova, Salomon Islands",NA,South Pacific,SW Pacific,-8.5592,157.4578,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0356,"Santa Isabel, Solomon Islands","Santa Isabel, Salomon Islands",NA,South Pacific,SW Pacific,-8.28,159.96,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0357,"Telepare, Solomon Islands","Telepare, Salomon Islands",NA,South Pacific,SW Pacific,-8.6807,157.4683,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0358,"Vella Gulf, Solomon Islands","Vella Gulf, Salomon Islands",NA,South Pacific,SW Pacific,-8.5325,157.726944,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0359,"Vella Gulf, Solomon Islands","Vella Gulf, Salomon Islands",NA,South Pacific,SW Pacific,-8.5307,157.7162,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0360,"Rendova, Solomon Islands","Rendova, Salomon Islands",NA,South Pacific,SW Pacific,-8.5537,157.4198,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0361,"Santa Isabel, Solomon Islands","Santa Isabel, Salomon Islands",NA,South Pacific,SW Pacific,-8.75,159.6797,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0362,"Santa Isabel, Solomon Islands","Santa Isabel, Salomon Islands",NA,South Pacific,SW Pacific,-8.7617,159.665,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0363,"Vella Gulf, Solomon Islands","Vella Gulf, Salomon Islands",NA,South Pacific,SW Pacific,-7.9378,156.8467,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0364,"Vella Gulf, Solomon Islands","Vella Gulf, Salomon Islands",NA,South Pacific,SW Pacific,-7.940833,156.855556,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0365,"Vella Lavella, Solomon Islands","Vella Lavella, Salomon Islands",NA,South Pacific,SW Pacific,-7.7535,156.4267,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0366,"Vella Lavella, Solomon Islands","Vella Lavella, Salomon Islands",NA,South Pacific,SW Pacific,-7.67,156.4007,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0367,"Vella Lavella, Solomon Islands","Vella Lavella, Salomon Islands",NA,South Pacific,SW Pacific,-7.7983,156.8983,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0368,"Choiseul, Solomon Islands","Choiseul, Salomon Islands",NA,South Pacific,SW Pacific,-6.5935,156.188,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0369,"Choiseul, Solomon Islands","Choiseul, Salomon Islands",NA,South Pacific,SW Pacific,-6.600278,156.19111,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0370,"Santa Isabel, Solomon Islands","Santa Isabel, Salomon Islands",NA,South Pacific,SW Pacific,-8.4067,159.445,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0371,"Rendova, Solomon Islands","Rendova, Salomon Islands",NA,South Pacific,SW Pacific,-8.6215,157.3657,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0372,"Rendova, Solomon Islands","Rendova, Salomon Islands",NA,South Pacific,SW Pacific,-8.665,157.388333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0373,"Rendova, Solomon Islands","Rendova, Salomon Islands",NA,South Pacific,SW Pacific,-8.659,157.3863,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0374,"Telepare, Solomon Islands","Telepare, Salomon Islands",NA,South Pacific,SW Pacific,-8.7773,157.5103,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0375,"Kumano Nada, Japan","Kumano Nada, Japan",NA,North Pacific,NW Pacific,34.07,136.3,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0376,"Suruga Bay, Japan","Suruga Bay, Japan",NA,North Pacific,NW Pacific,34.43,138.41,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0377,Vanuatu,Vanuatu,NA,South Pacific,SW Pacific,-14.995,166.916666666666,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0378,Vanuatu,Vanuatu,NA,South Pacific,SW Pacific,-14.9516666666666,166.918333333333,Exact,NA,NA,cherisse.persad@gmail.com,NA,Pacific,NA
+SITE0379,Vanuatu,Vanuatu,NA,South Pacific,SW Pacific,-14.025,166.901666666666,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0380,Solomon Islands,Salomon Islands,NA,South Pacific,SW Pacific,-10.4666666666666,161.373333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0381,"Galathea Station 450, Celebes Sea",Celebes Sea,NA,North Pacific,NW Pacific,1.83333333333333,119.333333333333,Exact,NA,NA,cherisse.persad@gmail.com,North Pacific,Pacific,NA
+SITE0382,SECrete,SECrete,NA,Mediterranean Sea,E Mediterranean,NA,NA,Unknown,NA,NA,jmalfarolucas@gmail.com,NA,Mediterranean,NA
+SITE0383,"Maribojoc Bay, Philippines","Maribojoc Bay, Philippines",NA,North Pacific,NW Pacific,9.60166666666666,123.75,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0384,"off Calabria, Italy","off Calabria, Italy",NA,Mediterranean Sea,W Mediterranean,NA,NA,Unknown,NA,NA,jmalfarolucas@gmail.com,NA,Mediterranean,NA
+SITE0385,"off Vigo, Spain","off Vigo, Spain",NA,North Atlantic,NE Atlantic,42.1325,-9.49483333333333,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Atlantic,NA
+SITE0386,"Espiritu Santo, Solomon Islands","Espiritu Santo, Salomon Islands",NA,South Pacific,SW Pacific,-14.9957777777777,166.9245,Exact,NA,NA,cherisse.persad@gmail.com,South Pacific,Pacific,NA
+SITE0387,"White Island, New Zealand","White Island, New Zealand",NA,South Pacific,SW Pacific,-37.395,177.658333333333,Exact,NA,NA,cherisse.persad@gmail.com,NA,Pacific,NA
+SITE0388,"White Island, New Zealand","White Island, New Zealand",NA,South Pacific,SW Pacific,-37.395,177.61,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0389,"Hyuga Basin, Japan","Hyuga Basin, Japan",NA,North Pacific,NW Pacific,32.3516666666666,132.475,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0390,Gulf of Mexico,Gulf of Mexico,NA,North Atlantic,NW Atlantic,27.7348333333333,-91.2415,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0391,Kuril– Kamchatka Trench,Kuril– Kamchatka Trench,NA,North Pacific,NW Pacific,42.4833333333333,154.0015,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0392,Kuril– Kamchatka Trench,Kuril– Kamchatka Trench,NA,North Pacific,NW Pacific,43.0443333333333,152.991,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0393,Kuril– Kamchatka Trench,Kuril– Kamchatka Trench,NA,North Pacific,NW Pacific,41.2006666666666,150.097833333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0394,Kuril– Kamchatka Trench,Kuril– Kamchatka Trench,NA,North Pacific,NW Pacific,40.2258333333333,148.112833333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0395,Kuril– Kamchatka Trench,Kuril– Kamchatka Trench,NA,North Pacific,NW Pacific,39.7245,147.1795,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0396,Caribbean Sea,Caribbean Sea,NA,North Atlantic,NW Atlantic,16.2,-84.2333333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0397,Caribbean Sea,Caribbean Sea,NA,North Atlantic,NW Atlantic,9.1,-81.25,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0398,Caribbean Sea,Caribbean Sea,NA,North Atlantic,NW Atlantic,9.96666666666666,-76.4833333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0399,Caribbean Sea,Caribbean Sea,NA,North Atlantic,NW Atlantic,11.2166666666666,-74.4333333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0400,Caribbean Sea,Caribbean Sea,NA,North Atlantic,NW Atlantic,11.4333333333333,-73.6833333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0401,Caribbean Sea,Caribbean Sea,NA,North Atlantic,NW Atlantic,11.2,-74.4,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0402,Caribbean Sea,Caribbean Sea,NA,North Atlantic,NW Atlantic,11.6833333333333,-73.4,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0403,Caribbean Sea,Caribbean Sea,NA,North Atlantic,NW Atlantic,9.53333333333333,-76.6333333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0404,Caribbean Sea,Caribbean Sea,NA,North Atlantic,NW Atlantic,10.1666666666666,-76.2333333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0405,Caribbean Sea,Caribbean Sea,NA,North Atlantic,NW Atlantic,10.15,-76.2333333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0406,Caribbean Sea,Caribbean Sea,NA,North Atlantic,NW Atlantic,12.9166666666666,-70.2666666666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0407,"Hardangerfjorden, Norway","Hardangerfjorden, Norway",NA,North Atlantic,NE Atlantic,60.3972222222222,6.425,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0408,"Møre, Norway","Møre, Norway",NA,North Atlantic,NE Atlantic,NA,NA,Unknown,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0409,Knipovich Ridge,Knipovich Ridge,NA,North Atlantic,NE Atlantic,73.5531666666666,8.28166666666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0410,"Kumano-nada, Japan","Kumano-nada, Japan",NA,North Pacific,NW Pacific,33.95,136.35,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0411,Okhotsk Sea,Okhotsk Sea,NA,North Pacific,NW Pacific,50.95,149.75,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0412,"off Heda, Japan","off Heda, Japan",NA,North Pacific,NW Pacific,34.9916666666666,138.716666666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0413,"off Heda, Japan","off Heda, Japan",NA,North Pacific,NW Pacific,35.0066666666666,138.731666666666,Exact,NA,NA,cherisse.persad@gmail.com,North Pacific,Pacific,NA
+SITE0414,"off Toi, Japan","off Toi, Japan",NA,North Pacific,NW Pacific,34.8966666666666,138.721666666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0415,"off Toi, Japan","off Toi, Japan",NA,North Pacific,NW Pacific,34.945,138.721666666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0416,"off Heda, Japan","off Heda, Japan",NA,North Pacific,NW Pacific,34.9983333333333,138.735,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0417,"off Heda, Japan","off Heda, Japan",NA,North Pacific,NW Pacific,34.9666666666666,138.736666666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0418,"off Kumomi, Japan","off Kumomi, Japan",NA,North Pacific,NW Pacific,34.7716666666666,138.713333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0419,"Ozezaki, Japan","Ozezaki, Japan",NA,North Pacific,NW Pacific,35.0083333333333,138.751666666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0420,"Heda, Japan","Heda, Japan",NA,North Pacific,NW Pacific,34.93,138.71,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0421,"South Senoumi Bank, Japan","South Senoumi Bank, Japan",NA,North Pacific,NW Pacific,34.7603333333333,138.492166666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0422,"off Matsuzaki, Japan","off Matsuzaki, Japan",NA,North Pacific,NW Pacific,34.7745,138.714,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0423,"off Hagachizaki, Japan","off Hagachizaki, Japan",NA,North Pacific,NW Pacific,34.7441666666666,138.6955,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0424,"off Matsuzaki, Japan","off Matsuzaki, Japan",NA,North Pacific,NW Pacific,34.7661666666666,138.705333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0425,"west Omaezaki, Japan","west Omaezaki, Japan",NA,North Pacific,NW Pacific,34.3828333333333,138.298333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0426,"off Heda, Japan","off Heda, Japan",NA,North Pacific,NW Pacific,35.085,138.723333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0427,"off Odawara, Japan","off Odawara, Japan",NA,North Pacific,NW Pacific,34.2033333333333,139.21,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0428,"Sagamy Bay, Japan","Sagamy Bay, Japan",NA,North Pacific,NW Pacific,35.0683333333333,139.525,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0429,"off Heda, Japan","off Heda, Japan",NA,North Pacific,NW Pacific,34.9933333333333,138.745,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0430,"off Matsuzaki, Japan","off Matsuzaki, Japan",NA,North Pacific,NW Pacific,34.7633333333333,138.708333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0431,"off Toi, Japan","off Toi, Japan",NA,North Pacific,NW Pacific,34.9066666666666,138.728333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0432,"South Senoumi Bank, Japan","South Senoumi Bank, Japan",NA,North Pacific,NW Pacific,34.685,138.39,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0433,"South East Tagoshima, Japan","South East Tagoshima, Japan",NA,North Pacific,NW Pacific,35.0066666666666,138.731666666666,Exact,NA,NA,cherisse.persad@gmail.com,NA,Pacific,NA
+SITE0434,"off Toi, Japan","off Toi, Japan",NA,North Pacific,NW Pacific,34.918,138.718,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0435,"Sagami Bank, Japan","Sagami Bank, Japan",NA,North Pacific,NW Pacific,35.1516666666666,139.388333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0436,"off Heda, Japan","off Heda, Japan",NA,North Pacific,NW Pacific,34.9516666666666,138.726666666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0437,off Oshima,off Oshima,NA,North Pacific,NW Pacific,34.8683333333333,139.461666666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0438,"west Omaezaki, Japan","west Omaezaki, Japan",NA,North Pacific,NW Pacific,34.38,138.400166666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0439,"Ozezaki, Japan","Ozezaki, Japan",NA,North Pacific,NW Pacific,35.0683333333333,138.788333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0440,"off Toi, Japan","off Toi, Japan",NA,North Pacific,NW Pacific,34.951,138.75,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0441,"off Toi, Japan","off Toi, Japan",NA,North Pacific,NW Pacific,34.8983333333333,138.718333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0442,"Bungo Channel, Japan","Bungo Channel, Japan",NA,North Pacific,NW Pacific,32.3816666666666,132.453333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0443,"Kumano-nada, Japan","Kumano-nada, Japan",NA,North Pacific,NW Pacific,34.0846666666666,136.655333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0444,"off Lulu bay, Navassa Island","off Lulu bay, Navassa Island",NA,North Atlantic,NW Atlantic,18.3783333333333,-75.0455555555555,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0445,"Flinders CMR, Tasman Sea, Australia","Tasman Sea, Australia",NA,South Pacific,SW Pacific,-40.4732,149.3967,Trawl start; collection along track,NA,NA,cherisse.persad@gmail.com,South Pacific,Pacific,NA
+SITE0446,"East Gippsland CMR, Tasman Sea, Australia","Tasman Sea, Australia",NA,South Pacific,SW Pacific,-37.792,150.382,Trawl start; collection along track,NA,NA,cherisse.persad@gmail.com,South Pacific,Pacific,NA
+SITE0447,"Hunter CMR, Tasman Sea, Australia","Tasman Sea, Australia",NA,South Pacific,SW Pacific,-32.575,153.1617,Trawl start; collection along track,NA,NA,cherisse.persad@gmail.com,South Pacific,Pacific,NA
+SITE0448,Japan,Japan,NA,North Pacific,NW Pacific,36.485,141.013333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0449,Japan,Japan,NA,North Pacific,NW Pacific,36.8616666666666,141.511666666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0450,Japan,Japan,NA,North Pacific,NW Pacific,38.6766666666666,142.02,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0451,Japan,Japan,NA,North Pacific,NW Pacific,38.655,142.056666666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0452,Japan,Japan,NA,North Pacific,NW Pacific,38.6283333333333,142.075,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0453,Japan,Japan,NA,North Pacific,NW Pacific,38.65,142.121666666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0454,Japan,Japan,NA,North Pacific,NW Pacific,38.0483333333333,141.94,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0455,Japan,Japan,NA,North Pacific,NW Pacific,37.975,141.985,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0456,Japan,Japan,NA,North Pacific,NW Pacific,38.0383333333333,142.035,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0457,Japan,Japan,NA,North Pacific,NW Pacific,38.0066666666666,142.086666666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0458,Japan,Japan,NA,North Pacific,NW Pacific,37.7183333333333,141.898333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0459,Japan,Japan,NA,North Pacific,NW Pacific,37.7383333333333,141.913333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0460,Japan,Japan,NA,North Pacific,NW Pacific,37.6566666666666,142.02,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0461,Japan,Japan,NA,North Pacific,NW Pacific,37.3583333333333,141.686666666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0462,Japan,Japan,NA,North Pacific,NW Pacific,37.3383333333333,141.72,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0463,Japan,Japan,NA,North Pacific,NW Pacific,37.325,141.743333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0464,Japan,Japan,NA,North Pacific,NW Pacific,37.315,141.763333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0465,Japan,Japan,NA,North Pacific,NW Pacific,37.3266666666666,141.775,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0466,Japan,Japan,NA,North Pacific,NW Pacific,37.3133333333333,141.786666666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0467,Japan,Japan,NA,North Pacific,NW Pacific,37.3016666666666,141.823333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0468,Japan,Japan,NA,North Pacific,NW Pacific,36.8866666666666,141.486666666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0469,Japan,Japan,NA,North Pacific,NW Pacific,36.6733333333333,141.26,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0470,Japan,Japan,NA,North Pacific,NW Pacific,36.625,141.233333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0471,Japan,Japan,NA,North Pacific,NW Pacific,40.9216666666666,141.715,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0472,Japan,Japan,NA,North Pacific,NW Pacific,38.6733333333333,141.983333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0473,Japan,Japan,NA,North Pacific,NW Pacific,38.645,142.036666666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0474,Japan,Japan,NA,North Pacific,NW Pacific,38.6483333333333,142.095,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0475,Japan,Japan,NA,North Pacific,NW Pacific,38.39,142.026666666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0476,Japan,Japan,NA,North Pacific,NW Pacific,38.0883333333333,142.061666666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0477,Japan,Japan,NA,North Pacific,NW Pacific,38.0666666666666,142.085,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0478,Japan,Japan,NA,North Pacific,NW Pacific,38.0083333333333,142.086666666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0479,Japan,Japan,NA,North Pacific,NW Pacific,38.0116666666666,142.096666666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0480,Japan,Japan,NA,North Pacific,NW Pacific,37.7166666666666,141.898333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0481,Japan,Japan,NA,North Pacific,NW Pacific,37.695,141.983333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0482,Japan,Japan,NA,North Pacific,NW Pacific,36.535,141.1,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0483,Japan,Japan,NA,North Pacific,NW Pacific,40.8233333333333,141.916666666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0484,Japan,Japan,NA,North Pacific,NW Pacific,40.965,141.708333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0485,Japan,Japan,NA,North Pacific,NW Pacific,40.9783333333333,141.76,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0486,Japan,Japan,NA,North Pacific,NW Pacific,40.2233333333333,142.206666666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0487,Japan,Japan,NA,North Pacific,NW Pacific,40.1066666666666,142.251666666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0488,Japan,Japan,NA,North Pacific,NW Pacific,40.2566666666666,142.235,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0489,Japan,Japan,NA,North Pacific,NW Pacific,40.22,142.261666666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0490,Japan,Japan,NA,North Pacific,NW Pacific,40.2666666666666,142.266666666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0491,Japan,Japan,NA,North Pacific,NW Pacific,40.2816666666666,142.276666666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0492,Japan,Japan,NA,North Pacific,NW Pacific,39.6883333333333,142.21,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0493,Japan,Japan,NA,North Pacific,NW Pacific,39.875,142.33,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0494,Japan,Japan,NA,North Pacific,NW Pacific,39.07,142.158333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0495,Japan,Japan,NA,North Pacific,NW Pacific,40.9883333333333,142.713333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0496,Japan,Japan,NA,North Pacific,NW Pacific,38.3383333333333,142.028333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0497,Japan,Japan,NA,North Pacific,NW Pacific,38.67,141.981666666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0498,Japan,Japan,NA,North Pacific,NW Pacific,36.9233333333333,141.415,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0499,Japan,Japan,NA,North Pacific,NW Pacific,37.3033333333333,141.825,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0500,Japan,Japan,NA,North Pacific,NW Pacific,45.5333333333333,141.563333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0501,Japan,Japan,NA,North Pacific,NW Pacific,38.66,142.065,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0502,Japan,Japan,NA,North Pacific,NW Pacific,36.9533333333333,141.563333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0503,Tongue of the Ocean,Tongue of the Ocean,NA,North Atlantic,NW Atlantic,24.9333333333333,-77.4833333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0504,Gulf of Mexico,Gulf of Mexico,NA,North Atlantic,NW Atlantic,23.9,-82.35,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0505,Gulf of Mexico,Gulf of Mexico,NA,North Atlantic,NW Atlantic,29.225,-87.975,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0506,"off Barcelona, Catalonia","off Barcelona, Catalonia",NA,Mediterranean Sea,W Mediterranean,41.1188333333333,2.37495,Exact,NA,NA,jmalfarolucas@gmail.com,Mediterranean Sea,Mediterranean,NA
+SITE0507,"Venezuelan Basin, Venezuela","Venezuelan Basin, Venezuela",NA,North Atlantic,NW Atlantic,14.3333333333333,-67,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0508,"Venezuelan Basin, Venezuela","Venezuelan Basin, Venezuela",NA,North Atlantic,NW Atlantic,13.5,-64.75,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0509,"Tasman Basin, New Zealand","Tasman Basin, New Zealand",NA,South Pacific,SW Pacific,-44.3,166.766666666666,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0510,"Cascadia abyssal plain, Oregon","Cascadia abyssal plain, Oregon",NA,North Pacific,NE Pacific,44.895,-126.556666666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0511,"Monterey Canyon, USA","Monterey Canyon, USA",NA,North Pacific,NE Pacific,36.6,-122.433333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0512,"West of Takara, Japan","West of Takara, Japan",NA,North Pacific,NW Pacific,29.3333333333333,127.616666666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0513,"off Shizuoka, Japan","off Shizuoka, Japan",NA,North Pacific,NW Pacific,34.8666666666666,138.483333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0514,"SW of Panglao Island, Philippines","SW of Panglao Island, Philippines",NA,North Pacific,NW Pacific,9.48333333333333,123.683333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0515,"SE of Fukue Island, Japan","SE of Fukue Island, Japan",NA,North Pacific,NW Pacific,32.5,129.133333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0516,"East of Taisho Island, Japan","E of Taisho Island, Japan",NA,North Pacific,NW Pacific,25.8,125.45,Exact,NA,NA,cherisse.persad@gmail.com,North Pacific,Pacific,NA
+SITE0517,"off Southwest Reef, Bahamas","off Southwest Reef, Bahamas",NA,North Atlantic,NW Atlantic,24.9011111111111,-77.5538888888888,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0518,"Settlement Point, Bahamas","Settlement Point, Bahamas",NA,North Atlantic,NW Atlantic,26.6252777777777,-78.9822222222222,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0519,"off Chateau Belair Bay, Lesser Antilles","off Chateau Belair Bay, Lesser Antilles",NA,North Atlantic,NW Atlantic,13.175,-61.2583333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0520,Cayman Trough,Cayman Trough,NA,North Atlantic,NW Atlantic,19.6347222222222,-76.6188888888888,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0521,Cayman Trough,Cayman Trough,NA,North Atlantic,NW Atlantic,19.0016666666666,-80.4847222222222,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0522,Cayman Trough,Cayman Trough,NA,North Atlantic,NW Atlantic,19.6347222222222,-76.6355555555555,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0523,Alaska,Alaska,NA,North Pacific,NE Pacific,60.71,-148.066666666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0524,"Moresby Island, British Columbia","Moresby Island, British Columbia",NA,North Pacific,NE Pacific,52.5083333333333,-131.916666666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0525,Faroe Channel,Faroe Channel,NA,North Atlantic,NE Atlantic,59.6666666666666,-7.35,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0526,off Catalonia,off Catalonia,NA,Mediterranean Sea,W Mediterranean,41.0933333333333,2.18,Exact,NA,NA,jmalfarolucas@gmail.com,Mediterranean Sea,Mediterranean,NA
+SITE0527,off Catalonia,off Catalonia,NA,Mediterranean Sea,W Mediterranean,40.765,1.655,Exact,NA,NA,jmalfarolucas@gmail.com,Mediterranean Sea,Mediterranean,NA
+SITE0528,off Catalonia,off Catalonia,NA,Mediterranean Sea,W Mediterranean,39.9083333333333,2.36,Exact,NA,NA,jmalfarolucas@gmail.com,Mediterranean Sea,Mediterranean,NA
+SITE0529,"North West of dell'Is, Italy","North West of dell'Is, Italy",NA,Mediterranean Sea,W Mediterranean,NA,NA,Unknown,NA,NA,jmalfarolucas@gmail.com,Mediterranean Sea,Mediterranean,NA
+SITE0530,"off Sardinia, Italy","off Sardinia, Italy",NA,Mediterranean Sea,W Mediterranean,NA,NA,Unknown,NA,NA,jmalfarolucas@gmail.com,Mediterranean Sea,Mediterranean,NA
+SITE0531,Puerto Rico Trench,Puerto Rico Trench,NA,North Atlantic,NW Atlantic,19.6766666666666,-67.3233333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0532,Cayman Trench,Cayman Trench,NA,North Atlantic,NW Atlantic,19.641666666666602,-76.63,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0533,Cayman Trench,Cayman Trench,NA,North Atlantic,NW Atlantic,19.01,-80.4916666666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0534,"off Rosario Island, Colombia","off Rosario Island, Colombia",NA,North Atlantic,NW Atlantic,10.15,-76,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0535,"off Punta Gloria, Colombia","off Punta Gloria, Colombia",NA,North Atlantic,NW Atlantic,11.1833333333333,-74.2833333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0536,"off Arboletes, Colombia","off Arboletes, Colombia",NA,North Atlantic,NW Atlantic,9.03333333333333,-76.6,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0537,"off Neguanje, Colombia","off Neguanje, Colombia",NA,North Atlantic,NW Atlantic,11.4,-74.15,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0538,"off Buratica, Colombia","off Buratica, Colombia",NA,North Atlantic,NW Atlantic,11.3666666666666,-74.1833333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0539,"off Neguanje, Colombia","off Neguanje, Colombia",NA,North Atlantic,NW Atlantic,11.4,-74.1833333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0540,"off Buratica, Colombia","off Buratica, Colombia",NA,North Atlantic,NW Atlantic,11.45,-73.6666666666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0541,"off Ensenada de la Rada, Colombia","off Ensenada de la Rada, Colombia",NA,North Atlantic,NW Atlantic,9.45,-76.4166666666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0542,"off San Bernardo Island, Colombia","off San Bernardo Island, Colombia",NA,North Atlantic,NW Atlantic,9.76666666666666,-76.2833333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0543,"off Tolú, Colombia","off Tolú, Colombia",NA,North Atlantic,NW Atlantic,9.75,-76.25,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0544,San Diego Trough,"San Diego Trough, Mexico",NA,North Pacific,NE Pacific,32.3033333333333,-117.496666666666,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Pacific,NA
+SITE0545,San Diego Trough,"San Diego Trough, Mexico",NA,North Pacific,NE Pacific,32.3916666666666,-117.529166666666,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Pacific,NA
+SITE0546,"Nile fan, off Egypt","Nile fan, off Egypt",NA,Mediterranean Sea,E Mediterranean,32.53465,30.3563888888888,Exact,NA,NA,cherisse.persad@gmail.com,NA,Mediterranean,NA
+SITE0547,Nile deep-sea fan Wood#5,"Nile fan, off Egypt",NA,Mediterranean Sea,Eastern Mediterranean / Nile deep-sea fan,32.53465,30.3564,Exact,NA,NA,cherisse.persad@gmail.com,Mediterranean Sea,Mediterranean,NA
+SITE0548,Nile deep-sea fan Wood#2,"Nile fan, off Egypt",NA,Mediterranean Sea,Eastern Mediterranean / Nile deep-sea fan,32.53271,30.35292,Exact,NA,NA,cherisse.persad@gmail.com,Mediterranean Sea,Mediterranean,NA
+SITE0549,Nile deep-sea fan Wood#1,"Nile fan, off Egypt",NA,Mediterranean Sea,Eastern Mediterranean / Nile deep-sea fan,32.53416,30.35208,Exact,NA,NA,cherisse.persad@gmail.com,Mediterranean Sea,Mediterranean,NA
+SITE0550,"Nile fan, off Egypt","Nile fan, off Egypt",NA,Mediterranean Sea,E Mediterranean,32.5436111111111,30.355,Exact,NA,NA,jmalfarolucas@gmail.com,Mediterranean Sea,Mediterranean,NA
+SITE0551,"Rainbow vent field, MAR","Rainbow vent field, MAR",NA,North Atlantic,Mid-Atlantic Ridge,36.2377777777777,-33.9052777777777,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0552,"South East Port Dunford, South Africa","South East Port Dunford, South Africa",NA,Indian Ocean,SW Indian Ocean,-29.0366666666666,32.3266666666666,Exact,NA,NA,cherisse.persad@gmail.com,NA,Indian,NA
+SITE0553,"Tongue of the Ocean, Bahamas","Tongue of the Ocean, Bahamas",NA,North Atlantic,NW Atlantic,25.8813333333333,-77.5373333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0554,"off New England, USA","off New England, USA",NA,North Atlantic,NW Atlantic,40.35,-70.3833333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0555,"Beebe Vent field, Mid-Cayman Spreading Centre","Beebe Vent field, Mid-Cayman Spreading Centre",NA,North Atlantic,NW Atlantic,18.3761666666666,-81.6723333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0558,"Southwest Reef, Tongue of the Ocean, Bahamas","Tongue of the Ocean, Bahamas",NA,North Atlantic,NW Atlantic,24.2583333333333,-77.55,Exact,The source reports 24°15′30″N; the 24.883333°N value is inconsistent with that coordinate.,NA,cherisse.persad@gmail.com,North Atlantic,Atlantic,NA
+SITE0559,"Bohol Sea, Philippines","Bohol Sea, Philipines",NA,North Pacific,NW Pacific,9.42666666666666,124.035,Exact,NA,NA,cherisse.persad@gmail.com,NA,Pacific,NA
+SITE0560,Vanuatu,Vanuatu,NA,South Pacific,SW Pacific,-15.704,167.0435,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0561,"Bohol Sea, Philippines","Bohol Sea, Philipines",NA,North Pacific,NW Pacific,9.405,124.1783,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Pacific,NA
+SITE0562,Philippines,Philipines,NA,North Pacific,NW Pacific,14.9972,121.7317,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0563,Vanuatu,Vanuatu,NA,South Pacific,SW Pacific,-15.6869,167.0284,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0564,Vanuatu,Vanuatu,NA,South Pacific,SW Pacific,-15.663,167.0273,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0565,Vanuatu,Vanuatu,NA,South Pacific,SW Pacific,-16.0445,167.5059,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0566,Solomon,Salomon,NA,South Pacific,SW Pacific,-7.6033,157.7075,Exact,NA,NA,cherisse.persad@gmail.com,South Pacific,Pacific,NA
+SITE0567,"Bohol Sea, Philippines","Bohol Sea, Philipines",NA,North Pacific,NW Pacific,9.3483,124.145,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0568,Philippines,Philipines,NA,North Pacific,NW Pacific,8.85,123.1667,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0569,Philippines,Philipines,NA,North Pacific,NW Pacific,9.4483,123.575,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0570,"East off Palasan island, Philippines","East off Palasan island, Philippines",NA,North Pacific,NW Pacific,14.822,123.2265,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0571,"East off Palasan island, Philippines","East off Palasan island, Philippines",NA,North Pacific,NW Pacific,14.975,123.079,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0572,"East off Palasan island, Philippines","East off Palasan island, Philippines",NA,North Pacific,NW Pacific,14.7665,123.6553333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0573,"East off Palasan island, Philippines","East off Palasan island, Philippines",NA,North Pacific,NW Pacific,14.56233333333333,123.2333333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0574,"East off Palasan island, Philippines","East off Palasan island, Philippines",NA,North Pacific,NW Pacific,15.07233333333333,123.1446666666667,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0575,"East off Palasan island, Philippines","East off Palasan island, Philippines",NA,North Pacific,NW Pacific,14.82316666666667,123.2195,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0576,"Transect East off Luzon, Philippines","Transect East off Luzon, Philippines",NA,North Pacific,NW Pacific,16.01,121.8873333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0577,"Transect East off Luzon, Philippines","Transect East off Luzon, Philippines",NA,North Pacific,NW Pacific,15.86766666666667,121.8266666666667,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0578,"Transect East off Luzon, Philippines","Transect East off Luzon, Philippines",NA,North Pacific,NW Pacific,15.77833333333333,121.7283333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0579,"Transect East off Luzon, Philippines","Transect East off Luzon, Philippines",NA,North Pacific,NW Pacific,14.94233333333333,121.7291666666667,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0580,"Transect East off Luzon, Philippines","Transect East off Luzon, Philippines",NA,North Pacific,NW Pacific,15.1845,121.5786666666667,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0581,"Transect East off Luzon, Philippines","Transect East off Luzon, Philippines",NA,North Pacific,NW Pacific,14.4895,121.708,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0582,"Transect East off Luzon, Philippines","Transect East off Luzon, Philippines",NA,North Pacific,NW Pacific,14.4515,121.7853333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0583,"Transect East off Luzon, Philippines","Transect East off Luzon, Philippines",NA,North Pacific,NW Pacific,14.4005,121.7805,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0584,"Transect East off Luzon, Philippines","Transect East off Luzon, Philippines",NA,North Pacific,NW Pacific,16.0225,121.851,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0585,"Transect East off Luzon, Philippines","Transect East off Luzon, Philippines",NA,North Pacific,NW Pacific,15.4505,121.5938333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0586,"Transect East off Luzon, Philippines","Transect East off Luzon, Philippines",NA,North Pacific,NW Pacific,16.0445,121.922,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0587,"Transect East off Luzon, Philippines","Transect East off Luzon, Philippines",NA,North Pacific,NW Pacific,15.60666666666667,121.9335,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0588,"Transect East off Luzon, Philippines","Transect East off Luzon, Philippines",NA,North Pacific,NW Pacific,15.65416666666667,121.9821666666667,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0589,"off Pamilacan Island, Philippines","off Pamilacan Island, Philippines",NA,North Pacific,NW Pacific,9.526666666666667,123.9283333333333,Exact,NA,NA,cherisse.persad@gmail.com,North Pacific,Pacific,NA
+SITE0590,"Bohol Sea, Philippines","Bohol Sea, Philipines",NA,North Pacific,NW Pacific,9.448333333333334,123.575,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0591,"Bohol Sea, Philippines","Bohol Sea, Philipines",NA,North Pacific,NW Pacific,9.465,123.64,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0592,"Bohol Sea, Philippines","Bohol Sea, Philipines",NA,North Pacific,NW Pacific,9.501666666666669,123.6933333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0593,"Bohol Sea, Philippines","Bohol Sea, Philipines",NA,North Pacific,NW Pacific,9.476666666666668,123.6666666666667,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0594,"Bohol Sea, Philippines","Bohol Sea, Philipines",NA,North Pacific,NW Pacific,9.581666666666669,123.695,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0595,"Bohol Sea, Philippines","Bohol Sea, Philipines",NA,North Pacific,NW Pacific,9.65,123.7683333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0596,"Bohol Sea, Philippines","Bohol Sea, Philipines",NA,North Pacific,NW Pacific,8.868333333333334,123.6183333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0597,"Bohol Sea, Philippines","Bohol Sea, Philipines",NA,North Pacific,NW Pacific,8.815,123.6266666666667,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0598,"Bohol Sea, Philippines","Bohol Sea, Philipines",NA,North Pacific,NW Pacific,8.885,123.5583333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0599,"Bohol Sea, Philippines","Bohol Sea, Philipines",NA,North Pacific,NW Pacific,8.645,123.2666666666667,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0600,"Bohol Sea, Philippines","Bohol Sea, Philipines",NA,North Pacific,NW Pacific,8.688333333333333,123.2966666666667,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0601,"Bohol Sea, Philippines","Bohol Sea, Philipines",NA,North Pacific,NW Pacific,8.721666666666666,123.3166666666667,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0602,"Bohol Sea, Philippines","Bohol Sea, Philipines",NA,North Pacific,NW Pacific,8.745,123.3083333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0603,"Santa Isabel, Solomon Islands","Santa Isabel island, Solomon Islands",NA,South Pacific,SW Pacific,-8.295,160.01483333333331,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0604,"Santa Isabel, Solomon Islands","Santa Isabel island, Solomon Islands",NA,South Pacific,SW Pacific,-8.28,159.9671666666667,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0605,"Santa Isabel, Solomon Islands","Santa Isabel island, Solomon Islands",NA,South Pacific,SW Pacific,-7.70833333333333,158.4828333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0606,"Choiseul island, Solomon Islands","Choiseul island, Solomon Islands",NA,South Pacific,SW Pacific,-7.55833333333333,157.705,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0607,"Vella Lavella island, Solomon Islands","Vella Lavella island, Solomon Islands",NA,South Pacific,SW Pacific,-7.83533333333333,156.881,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0608,"Vella Lavella island, Solomon Islands","Vella Lavella island, Solomon Islands",NA,South Pacific,SW Pacific,-7.79833333333333,156.8983333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0609,"Rendova island, Solomon Islands","Rendova island, Solomon Islands",NA,South Pacific,SW Pacific,-8.664,157.3918333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0610,Chesterfield islands,Chesterfield islands,NA,South Pacific,SW Pacific,-20.8771666666667,160.9948333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0611,North Espiritu Santo,North Espiritu Santo,NA,South Pacific,SW Pacific,-14.9418333333333,166.9358333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0612,North Espiritu Santo,North Espiritu Santo,NA,South Pacific,SW Pacific,-15.0235,166.896,Exact,NA,NA,cherisse.persad@gmail.com,South Pacific,Pacific,NA
+SITE0613,North Espiritu Santo,North Espiritu Santo,NA,South Pacific,SW Pacific,-15.011,166.9245,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0614,North Espiritu Santo,North Espiritu Santo,NA,South Pacific,SW Pacific,-15.0236666666667,166.896,Exact,NA,NA,cherisse.persad@gmail.com,South Pacific,Pacific,NA
+SITE0615,North Espiritu Santo,North Espiritu Santo,NA,South Pacific,SW Pacific,-14.9173333333333,166.9593333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0616,North Espiritu Santo,North Espiritu Santo,NA,South Pacific,SW Pacific,-15.1338333333333,166.8475,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0617,North Espiritu Santo,North Espiritu Santo,NA,South Pacific,SW Pacific,-15.1483333333333,166.8931666666667,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0618,North Espiritu Santo,North Espiritu Santo,NA,South Pacific,SW Pacific,-15.115,166.88,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0619,North Espiritu Santo,North Espiritu Santo,NA,South Pacific,SW Pacific,-15.1366666666667,166.89,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0620,Nord West Malo Island,Nord West Malo Island,NA,South Pacific,SW Pacific,-15.633333333333301,167.0333333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0621,Nord West Malo Island,Nord West Malo Island,NA,South Pacific,SW Pacific,-15.6266666666667,167.085,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0622,West Malo Island,West Malo Island,NA,South Pacific,SW Pacific,-15.6733333333333,167.0166666666667,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0623,West Malo Island,West Malo Island,NA,South Pacific,SW Pacific,-15.645,167.02,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0624,West Malo Island,West Malo Island,NA,South Pacific,SW Pacific,-15.688,167.0483333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0625,Nord Est Malekula Island,Nord Est Malekula Island,NA,South Pacific,SW Pacific,-16.0066666666667,167.6383333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0626,South Malekula island,South Malekula island,NA,South Pacific,SW Pacific,-16.7213333333333,167.8073333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0627,South Malekula island,South Malekula island,NA,South Pacific,SW Pacific,-16.7208333333333,167.8476666666667,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0628,Fiji,Fiji,NA,South Pacific,SW Pacific,-16.658,179.616,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0629,"Malo, Vanuatu","Malo, Vanuatu",NA,South Pacific,SW Pacific,-15.7333333333333,167.035,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0630,"Malo, Vanuatu","Malo, Vanuatu",NA,South Pacific,SW Pacific,-15.6933333333333,167.035,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0631,"Big Bay, Vanuatu","Big Bay, Vanuatu",NA,South Pacific,SW Pacific,-15.0766666666666,166.891666666666,Exact,"The reported value −150.7666667° is outside the valid latitude range; −15.0766667° is consistent with the adjacent Big Bay, Vanuatu site series.",NA,cherisse.persad@gmail.com,South Pacific,Pacific,NA
+SITE0632,"Big Bay, Vanuatu","Big Bay, Vanuatu",NA,South Pacific,SW Pacific,-15.0516666666666,166.88,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0633,"Big Bay, Vanuatu","Big Bay, Vanuatu",NA,South Pacific,SW Pacific,-15.0533333333333,166.878333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0634,"Big Bay, Vanuatu","Big Bay, Vanuatu",NA,South Pacific,SW Pacific,-15.0283333333333,166.905,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0635,"Big Bay, Vanuatu","Big Bay, Vanuatu",NA,South Pacific,SW Pacific,-14.995,166.918333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0636,"Big Bay, Vanuatu","Big Bay, Vanuatu",NA,South Pacific,SW Pacific,-14.9516666666666,166.918333333333,Exact,NA,NA,cherisse.persad@gmail.com,South Pacific,Pacific,NA
+SITE0637,"Big Bay, Vanuatu","Big Bay, Vanuatu",NA,South Pacific,SW Pacific,-14.9183333333333,166.923333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0638,"Big Bay, Vanuatu","Big Bay, Vanuatu",NA,South Pacific,SW Pacific,-14.8916666666666,166.855,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0639,"Big Bay, Vanuatu","Big Bay, Vanuatu",NA,South Pacific,SW Pacific,-14.9033333333333,166.856666666666,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0640,"Big Bay, Vanuatu","Big Bay, Vanuatu",NA,South Pacific,SW Pacific,-15.06,166.87,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0641,Vanuatu,VANUATU: Big Bay,NA,South Pacific,SW Pacific,-15.0066666666667,166.86,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0642,Vanuatu,VANUATU: Big Bay,NA,South Pacific,SW Pacific,-15.0483333333333,166.9,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0643,Vanuatu,VANUATU: Big Bay,NA,South Pacific,SW Pacific,-15.035,166.9166666666667,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0644,Vanuatu,VANUATU: Big Bay,NA,South Pacific,SW Pacific,-14.995,166.9166666666667,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0645,Vanuatu,VANUATU: Big Bay,NA,South Pacific,SW Pacific,-14.975,166.905,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0646,Vanuatu,VANUATU: Big Bay,NA,South Pacific,SW Pacific,-14.8983333333333,166.8583333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0647,Vanuatu,VANUATU: Big Bay,NA,South Pacific,SW Pacific,-14.8516666666667,166.8966666666667,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0648,Vanuatu,VANUATU: Big Bay,NA,South Pacific,SW Pacific,-14.9033333333333,166.95,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0649,VANUATU: Fond Bay,VANUATU: Fond Bay,NA,South Pacific,SW Pacific,-15.11,166.8466666666667,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0650,VANUATU,VANUATU,NA,South Pacific,SW Pacific,-16.5916666666667,167.965,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0651,VANUATU,VANUATU,NA,South Pacific,SW Pacific,-16.625,167.9566666666667,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0652,VANUATU,VANUATU,NA,South Pacific,SW Pacific,-16.6566666666667,167.96,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0653,VANUATU,VANUATU,NA,South Pacific,SW Pacific,-16.705,167.9783333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0654,VANUATU,VANUATU,NA,South Pacific,SW Pacific,-16.715,167.98,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0655,VANUATU,VANUATU,NA,South Pacific,SW Pacific,-16.735,167.9866666666667,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0656,VANUATU,VANUATU,NA,South Pacific,SW Pacific,-16.755,167.985,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0657,VANUATU,VANUATU,NA,South Pacific,SW Pacific,-16.5116666666667,167.925,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0658,VANUATU,VANUATU,NA,South Pacific,SW Pacific,-16.42,167.8733333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0659,VANUATU,VANUATU,NA,South Pacific,SW Pacific,-16.34,167.8066666666667,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0660,VANUATU,VANUATU,NA,South Pacific,SW Pacific,-16.3066666666667,167.78,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0661,VANUATU,VANUATU,NA,South Pacific,SW Pacific,-16.75,167.8633333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0662,"Bohol Sea, Philippines",PHILIPPINES: Bohol Sea,NA,North Pacific,NW Pacific,8.7,123.2216666666667,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0663,"Bohol Sea, Philippines",PHILIPPINES: Bohol Sea,NA,North Pacific,NW Pacific,9.653333333333334,123.7916666666667,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0664,"Bohol Sea, Philippines",PHILIPPINES: Bohol Sea,NA,North Pacific,NW Pacific,9.636666666666668,123.725,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0665,"Bohol Sea, Philippines",PHILIPPINES: Bohol Sea,NA,North Pacific,NW Pacific,9.571666666666667,123.63,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0666,"Bohol Sea, Philippines",PHILIPPINES: Bohol Sea,NA,North Pacific,NW Pacific,9.538333333333334,123.655,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0667,"Bohol Sea, Philippines",PHILIPPINES: Bohol Sea,NA,North Pacific,NW Pacific,9.49,123.74,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0668,"Bohol Sea, Philippines",PHILIPPINES: Bohol Sea,NA,North Pacific,NW Pacific,9.456666666666669,123.8233333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0669,"Bohol Sea, Philippines",PHILIPPINES: Bohol Sea,NA,North Pacific,NW Pacific,9.473333333333333,123.835,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0670,"Bohol Sea, Philippines",PHILIPPINES: Bohol Sea,NA,North Pacific,NW Pacific,9.526666666666667,123.9283333333333,Exact,NA,NA,cherisse.persad@gmail.com,NA,Pacific,NA
+SITE0671,"Bohol Sea, Philippines",PHILIPPINES: Bohol Sea,NA,North Pacific,NW Pacific,9.455,124.0516666666667,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0672,"Bohol Sea, Philippines",PHILIPPINES: Bohol Sea,NA,North Pacific,NW Pacific,9.426666666666666,124.035,Exact,NA,NA,cherisse.persad@gmail.com,North Pacific,Pacific,NA
+SITE0673,"Bohol Sea, Philippines",PHILIPPINES: Bohol Sea,NA,North Pacific,NW Pacific,9.433333333333334,124.1083333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0674,"Bohol Sea, Philippines",PHILIPPINES: Bohol Sea,NA,North Pacific,NW Pacific,9.405,124.1783333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0675,"Bohol Sea, Philippines",PHILIPPINES: Bohol Sea,NA,North Pacific,NW Pacific,9.348333333333333,124.145,Exact,NA,NA,cherisse.persad@gmail.com,North Pacific,Pacific,NA
+SITE0676,"Bohol Sea, Philippines",PHILIPPINES: Bohol Sea,NA,North Pacific,NW Pacific,9.335,124.055,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0677,"Bohol Sea, Philippines",PHILIPPINES: Bohol Sea,NA,North Pacific,NW Pacific,8.868333333333334,123.6183333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0678,"Bohol Sea, Philippines",PHILIPPINES: Bohol Sea,NA,North Pacific,NW Pacific,8.831666666666667,123.5816666666667,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0679,"Bohol Sea, Philippines",PHILIPPINES: Bohol Sea,NA,North Pacific,NW Pacific,8.815,123.6266666666667,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0680,"Bohol Sea, Philippines",PHILIPPINES: Bohol Sea,NA,North Pacific,NW Pacific,8.885,123.5583333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0681,"Bohol Sea, Philippines",PHILIPPINES: Bohol Sea,NA,North Pacific,NW Pacific,8.941666666666666,123.545,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0682,"Bohol Sea, Philippines",PHILIPPINES: Bohol Sea,NA,North Pacific,NW Pacific,9.1,123.4166666666667,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0683,"Bohol Sea, Philippines",PHILIPPINES: Bohol Sea,NA,North Pacific,NW Pacific,8.645,123.2666666666667,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0684,"Bohol Sea, Philippines",PHILIPPINES: Bohol Sea,NA,North Pacific,NW Pacific,8.688333333333333,123.2966666666667,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0685,"Bohol Sea, Philippines",PHILIPPINES: Bohol Sea,NA,North Pacific,NW Pacific,8.721666666666666,123.3166666666667,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0686,"Bohol Sea, Philippines",PHILIPPINES: Bohol Sea,NA,North Pacific,NW Pacific,8.745,123.3083333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0687,"Bohol Sea, Philippines",PHILIPPINES: Bohol Sea,NA,North Pacific,NW Pacific,8.77,123.2683333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0688,"Bohol Sea, Philippines",PHILIPPINES: Bohol Sea,NA,North Pacific,NW Pacific,8.85,123.1666666666667,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0689,"Bohol Sea, Philippines",PHILIPPINES: Bohol Sea,NA,North Pacific,NW Pacific,8.855,122.9816666666667,Exact,NA,NA,cherisse.persad@gmail.com,North Pacific,Pacific,NA
+SITE0690,"Bohol Sea, Philippines",PHILIPPINES: Bohol Sea,NA,North Pacific,NW Pacific,9.448333333333334,123.575,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0691,"Bohol Sea, Philippines",PHILIPPINES: Bohol Sea,NA,North Pacific,NW Pacific,9.483333333333333,123.685,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0692,"Bohol Sea, Philippines",PHILIPPINES: Bohol Sea,NA,North Pacific,NW Pacific,9.501666666666669,123.6933333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0693,"Bohol Sea, Philippines",PHILIPPINES: Bohol Sea,NA,North Pacific,NW Pacific,9.476666666666668,123.6666666666667,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0694,"Bohol Sea, Philippines",PHILIPPINES: Bohol Sea,NA,North Pacific,NW Pacific,9.603333333333332,123.73,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0695,"Bohol Sea, Philippines",PHILIPPINES: Bohol Sea,NA,North Pacific,NW Pacific,9.605,123.7,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0696,"Bohol Sea, Philippines",PHILIPPINES: Bohol Sea,NA,North Pacific,NW Pacific,9.581666666666669,123.695,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0697,"Bohol Sea, Philippines",PHILIPPINES: Bohol Sea,NA,North Pacific,NW Pacific,9.543333333333331,123.675,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0698,"Bohol Sea, Philippines",PHILIPPINES: Bohol Sea,NA,North Pacific,NW Pacific,9.656666666666666,123.7216666666667,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0699,"Bohol Sea, Philippines",PHILIPPINES: Bohol Sea,NA,North Pacific,NW Pacific,9.676666666666666,123.78,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0700,"Bohol Sea, Philippines",PHILIPPINES: Bohol Sea,NA,North Pacific,NW Pacific,9.688333333333333,123.8083333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0701,"Bohol Sea, Philippines",PHILIPPINES: Bohol Sea,NA,North Pacific,NW Pacific,9.725,123.785,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0702,"Bohol Sea, Philippines",PHILIPPINES: Bohol Sea,NA,North Pacific,NW Pacific,9.516666666666667,123.6733333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0703,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-9.33166666666667,160.44,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0704,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-9.34,159.97,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0705,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-9.34833333333333,159.9366666666667,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0706,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-9.17333333333333,159.8833333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0707,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-9.115,159.8866666666667,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0708,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-9.045,159.8233333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0709,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-9.00166666666667,159.8166666666667,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0710,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-8.97,159.6933333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0711,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-8.52,160.6283333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0712,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-8.54666666666667,160.695,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0713,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-9.355,160.41,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0714,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-9.25666666666667,160.1483333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0715,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-9.26833333333333,160.1283333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0716,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-9.31333333333333,160.3816666666667,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0717,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-9.32,160.4233333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0718,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-9.35,160.4866666666667,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0719,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-9.35666666666667,160.3983333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0720,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-9.535,160.6216666666667,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0721,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-9.53333333333333,160.6233333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0722,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-9.58333333333333,160.7116666666667,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0723,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-9.63166666666667,160.8283333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0724,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-9.70333333333333,160.88,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0725,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-9.54333333333333,160.6216666666667,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0726,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-8.81,159.7216666666667,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0727,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-8.78166666666667,159.6633333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0728,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-8.78333333333333,159.6316666666667,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0729,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-8.28166666666667,159.995,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0730,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-8.28333333333333,160,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0731,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-8.29166666666667,159.9966666666667,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0732,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-8.32666666666667,160.0316666666667,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0733,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-8.39833333333333,159.4433333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0734,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-8.41333333333333,159.445,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0735,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-8.425,159.44,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0736,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-8.42666666666667,159.4316666666667,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0737,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-7.72666666666667,158.5,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0738,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-7.72333333333333,158.4833333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0739,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-7.59833333333333,157.7066666666667,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0740,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-7.63,157.695,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0741,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-7.645,157.715,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0742,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-7.73833333333333,157.705,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0743,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-7.755,157.6566666666667,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0744,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-7.82166666666667,157.6866666666667,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0745,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-7.93833333333333,157.5766666666667,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0746,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-7.97166666666667,157.5733333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0747,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-7.96833333333333,157.565,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0748,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-6.65,156.2383333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0749,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-6.62,156.2116666666667,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0750,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-6.57833333333333,156.175,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0751,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-6.92166666666667,156.3533333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0752,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-7.715,156.455,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0753,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-7.75,156.445,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0754,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-7.71833333333333,156.4333333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0755,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-7.71,156.41,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0756,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-7.74833333333333,156.4116666666667,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0757,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-7.70833333333333,156.4133333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0758,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-7.47333333333333,156.2916666666667,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0759,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-7.44166666666667,156.25,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0760,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-7.94,156.8533333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0761,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-7.9133333333333304,156.855,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0762,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-7.87333333333333,156.85,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0763,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-7.8,156.8666666666667,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0764,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-7.81166666666667,156.8883333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0765,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-7.63166666666667,156.98,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0766,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-8.93666666666667,157.735,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0767,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-8.53,157.7133333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0768,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-8.69166666666667,157.6366666666667,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0769,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-8.64,157.3583333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0770,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-8.65833333333333,157.3833333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0771,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-8.605,157.4416666666667,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0772,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-8.65333333333333,157.4433333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0773,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-8.955,159.0833333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0774,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-8.69333333333333,159.6733333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0775,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-8.125,156.9966666666667,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0776,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-7.9133333333333304,156.8766666666667,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0777,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-8.63666666666667,157.3583333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0778,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-7.65,157.716666666666,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0779,Philippines,Philippines,NA,North Pacific,NW Pacific,15.45,121.6,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0780,Philippines,Philippines,NA,North Pacific,NW Pacific,15.0166666666666,121.75,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0781,Philippines,Philippines,NA,North Pacific,NW Pacific,16.016666666666602,121.85,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0782,Philippines,Philippines,NA,North Pacific,NW Pacific,15.35,121.566666666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0783,Philippines,Philippines,NA,North Pacific,NW Pacific,8.81666666666666,123.033333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0784,Philippines,Philippines,NA,North Pacific,NW Pacific,9.35,124.15,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0785,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-8.28333333333333,160.15,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0786,VANUATU,VANUATU,NA,South Pacific,SW Pacific,-15.5333333333333,167.366666666666,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0787,VANUATU,VANUATU,NA,South Pacific,SW Pacific,-15.0166666666666,166.866666666666,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0788,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-8.4,159.366666666666,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0789,Philippines,Philippines,NA,North Pacific,NW Pacific,14.8333333333333,123.583333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0790,Philippines,Philippines,NA,North Pacific,NW Pacific,15.0333333333333,123.183333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0791,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-7.96666666666666,157.566666666666,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0792,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-7.73333333333333,157.7,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0793,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-8.81666666666666,159.716666666666,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0794,Philippines,Philippines,NA,North Pacific,NW Pacific,9.46666666666666,123.633333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0795,Philippines,Philippines,NA,North Pacific,NW Pacific,9.6,123.7,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0796,Philippines,Philippines,NA,North Pacific,NW Pacific,15.3333333333333,121.616666666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0797,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-6.61666666666666,156.216666666666,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0798,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-8.6,157.433333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0799,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-8.43333333333333,159.433333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0800,Philippines,Philippines,NA,North Pacific,NW Pacific,9.53333333333333,123.7,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0801,Philippines,Philippines,NA,North Pacific,NW Pacific,9.5,123.866666666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0802,Vanuatu,"Malekula and Epi Islands, Vanuatu",NA,South Pacific,SW Pacific,-16.6233333333333,167.996666666666,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0803,Papua New Guinea,Papua New Guinea,NA,South Pacific,SW Pacific,-2.4,150.566666666666,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0804,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-7.56666666666666,157.7,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0805,Solomon Islands,SOLOMON ISLANDS,NA,South Pacific,SW Pacific,-7.71666666666666,156.45,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0806,VANUATU,VANUATU,NA,South Pacific,SW Pacific,-15.7166666666666,167.05,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0807,Philippines,Philippines,NA,North Pacific,NW Pacific,9.42666666666666,124.035,Exact,NA,NA,cherisse.persad@gmail.com,NA,Pacific,NA
+SITE0808,Philippines,Philippines,NA,North Pacific,NW Pacific,9.34833333333333,124.145,Exact,NA,NA,cherisse.persad@gmail.com,NA,Pacific,NA
+SITE0809,Philippines,Philippines,NA,North Pacific,NW Pacific,8.85,122.981666666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0810,Philippines,Philippines,NA,North Pacific,NW Pacific,8.855,122.981666666666,Exact,NA,NA,cherisse.persad@gmail.com,NA,Pacific,NA
+SITE0811,Papua New Guinea,Papua New Guinea,NA,South Pacific,SW Pacific,-6.93083333333333,147.137,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0812,Papua New Guinea,Papua New Guinea,NA,South Pacific,SW Pacific,-6.78299999999999,147.208833333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0813,Papua New Guinea,Papua New Guinea,NA,South Pacific,SW Pacific,-2.23333333333333,150.251666666666,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0814,Papua New Guinea,Papua New Guinea,NA,South Pacific,SW Pacific,-5.07066666666666,152.0035,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0815,Papua New Guinea,Papua New Guinea,NA,South Pacific,SW Pacific,-5.06816666666666,152.046333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0816,Solomon Islands,Solomon Islands,NA,South Pacific,SW Pacific,-6.62666666666666,156.219166666666,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0817,Solomon Islands,Solomon Islands,NA,South Pacific,SW Pacific,-6.63783333333333,156.22,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0818,Solomon Islands,Solomon Islands,NA,South Pacific,SW Pacific,-7.74166666666666,156.465,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0819,Solomon Islands,Solomon Islands,NA,South Pacific,SW Pacific,-7.71383333333333,156.4075,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0820,Solomon Islands,Solomon Islands,NA,South Pacific,SW Pacific,-7.7535,156.426833333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0821,Solomon Islands,Solomon Islands,NA,South Pacific,SW Pacific,-7.95833333333333,156.855833333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0822,Solomon Islands,Solomon Islands,NA,South Pacific,SW Pacific,-7.90583333333333,156.847666666666,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0823,Vanuatu,Vanuatu,NA,South Pacific,SW Pacific,-15.0513333333333,166.935,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0824,Vanuatu,Vanuatu,NA,South Pacific,SW Pacific,-15.0235,166.896,Exact,NA,NA,cherisse.persad@gmail.com,NA,Pacific,NA
+SITE0825,Vanuatu,Vanuatu,NA,South Pacific,SW Pacific,-15.0236666666666,166.896,Exact,NA,NA,cherisse.persad@gmail.com,NA,Pacific,NA
+SITE0826,Vanuatu,Vanuatu,NA,South Pacific,SW Pacific,-16.458,167.913,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0827,Vanuatu,Vanuatu,NA,South Pacific,SW Pacific,-16.0445,167.505833333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0828,Vanuatu,Vanuatu,NA,South Pacific,SW Pacific,-16.6246666666666,167.958833333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0829,Vanuatu,Vanuatu,NA,South Pacific,SW Pacific,-16.4603333333333,167.894333333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0830,Vanuatu,Vanuatu,NA,South Pacific,SW Pacific,-16.62333,167.996666666666,Approximate,The reported value −166.233333333333° is outside the valid latitude range; −16.62333° is consistent with the Vanuatu locality.,NA,cherisse.persad@gmail.com,South Pacific,Pacific,NA
+SITE0831,Vanuatu,Vanuatu,NA,South Pacific,SW Pacific,-15.6963333333333,167.063833333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0832,"Blanes canyon, Catalonia","Blanes canyon, Catalonia",NA,Mediterranean Sea,W Mediterranean,41.5702,2.83865,Exact,NA,NA,jmalfarolucas@gmail.com,Mediterranean Sea,Mediterranean,NA
+SITE0833,"Blanes canyon, Catalonia","Blanes canyon, Catalonia",NA,Mediterranean Sea,W Mediterranean,41.5208333333333,2.84722222222222,Exact,NA,NA,jmalfarolucas@gmail.com,Mediterranean Sea,Mediterranean,NA
+SITE0834,"Blanes canyon, Catalonia","Blanes canyon, Catalonia",NA,Mediterranean Sea,W Mediterranean,41.5208499999999,2.84701666666666,Exact,NA,NA,jmalfarolucas@gmail.com,Mediterranean Sea,Mediterranean,NA
+SITE0835,"Blanes canyon, Catalonia","Blanes canyon, Catalonia",NA,Mediterranean Sea,W Mediterranean,41.458,2.88277777777777,Exact,NA,NA,jmalfarolucas@gmail.com,Mediterranean Sea,Mediterranean,NA
+SITE0836,"Blanes canyon, Catalonia","Blanes canyon, Catalonia",NA,Mediterranean Sea,W Mediterranean,41.2192222222222,2.81527777777777,Exact,NA,NA,jmalfarolucas@gmail.com,Mediterranean Sea,Mediterranean,NA
+SITE0837,"Blanes canyon, Catalonia","Blanes canyon, Catalonia",NA,Mediterranean Sea,W Mediterranean,41.2191638888888,2.81512777777777,Exact,NA,NA,jmalfarolucas@gmail.com,Mediterranean Sea,Mediterranean,NA
+SITE0838,"Blanes canyon, Catalonia","Blanes canyon, Catalonia",NA,Mediterranean Sea,W Mediterranean,41.1501638888888,2.89666666666666,Exact,NA,NA,jmalfarolucas@gmail.com,Mediterranean Sea,Mediterranean,NA
+SITE0839,"Blanes canyon, Catalonia","Blanes canyon, Catalonia",NA,Mediterranean Sea,W Mediterranean,41.0811638888888,2.96916666666666,Exact,NA,NA,jmalfarolucas@gmail.com,Mediterranean Sea,Mediterranean,NA
+SITE0840,"La Fonera canyon, Catalonia","La Fonera canyon, Catalonia",NA,Mediterranean Sea,W Mediterranean,41.8909027777777,3.24588888888888,Exact,NA,NA,jmalfarolucas@gmail.com,Mediterranean Sea,Mediterranean,NA
+SITE0841,"Avilés canyon, Spain","Avilés canyon, Spain",NA,North Atlantic,NE Atlantic,43.9103611111111,-6.35002777777777,Exact,NA,NA,cherisse.persad@gmail.com,NA,Atlantic,NA
+SITE0842,"Avilés canyon, Spain","Avilés canyon, Spain",NA,North Atlantic,NE Atlantic,43.9685833333333,-6.51413888888888,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0843,Rainbow vent field,Rainbow vent field,NA,North Atlantic,North Atlantic,36.229,-33.9008333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0844,"Lacaze-Duthiers canyon, France","Lacaze-Duthiers canyon, France",NA,Mediterranean Sea,W Mediterranean,42.5453333333333,3.42116666666666,Exact,NA,NA,jmalfarolucas@gmail.com,Mediterranean Sea,Mediterranean,NA
+SITE0845,"Lacaze-Duthiers canyon, France","Lacaze-Duthiers canyon, France",NA,Mediterranean Sea,W Mediterranean,42.5453833333333,3.42108333333333,Exact,NA,NA,jmalfarolucas@gmail.com,Mediterranean Sea,Mediterranean,NA
+SITE0846,"Lacaze-Duthiers canyon, France","Lacaze-Duthiers canyon, France",NA,Mediterranean Sea,W Mediterranean,42.5452833333333,3.42176666666666,Exact,NA,NA,jmalfarolucas@gmail.com,Mediterranean Sea,Mediterranean,NA
+SITE0847,"off Miyako Island, Japan","off Miyako Island, Japan",NA,North Pacific,NW Pacific,24.9531666666666,125.954833333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0848,"off Miyako Island, Japan","off Miyako Island, Japan",NA,North Pacific,NW Pacific,24.75,125.749833333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0849,"off Miyako Island, Japan","off Miyako Island, Japan",NA,North Pacific,NW Pacific,24.5835,125.7585,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0850,off Oregon,off Oregon,NA,North Pacific,NE Pacific,43.9036666666666,-125.170633333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0851,off Oregon,off Oregon,NA,North Pacific,NE Pacific,47.9577,-126.0353,Exact,NA,NA,cherisse.persad@gmail.com,NA,Pacific,NA
+SITE0852,Mercator mud volcano,Mercator mud volcano,NA,North Atlantic,NE Atlantic,35.2986,-6.64515,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0853,Mèknes mud volcano,Mèknes mud volcano,NA,North Atlantic,NE Atlantic,34.98485,-7.07373333333333,Exact,NA,NA,cherisse.persad@gmail.com,NA,Atlantic,NA
+SITE0854,Darwin mud volcano,Darwin mud volcano,NA,North Atlantic,NE Atlantic,35.39205,-7.19188333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0855,Estremadura spur,Estremadura spur,NA,North Atlantic,NE Atlantic,39.28825,-10.0174166666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0856,Santa Cruz Basin,Santa Cruz Basin,NA,North Pacific,NE Pacific,33.5,-119.366666666666,Exact,NA,NA,cherisse.persad@gmail.com,North Pacific,Pacific,NA
+SITE0857,Santa Catalina Basin,Santa Catalina Basin,NA,North Pacific,NE Pacific,33.2,-118.5,Exact,NA,NA,cherisse.persad@gmail.com,NA,Pacific,NA
+SITE0858,"São Paulo, Brazil","São Paulo, Brazil",NA,South Atlantic,SW Atlantic,-25.894,-45.0348333333333,Exact,NA,NA,cherisse.persad@gmail.com,NA,Atlantic,NA
+SITE0859,"Espirito Santo, Brazil","Espirito Santo, Brazil",NA,South Atlantic,SW Atlantic,-21.4501333333333,-39.8965,Exact,NA,NA,cherisse.persad@gmail.com,NA,Atlantic,NA
+SITE0860,"São Paulo, Brazil","São Paulo, Brazil",NA,South Atlantic,SW Atlantic,-28.0284333333333,-43.5296666666666,Exact,NA,NA,cherisse.persad@gmail.com,NA,Atlantic,NA
+SITE0861,Gorringe Bank,Gorringe Bank,NA,North Atlantic,NE Atlantic,36.6426166666666,-11.6031166666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0862,East Pacific Rise,East Pacific Rise,NA,North Pacific,NE Pacific,11.85,-103.833333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0863,Gorda Ridge,Gorda Ridge,NA,North Pacific,NE Pacific,41.0066666666666,-127.488333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0864,Taiwan,Taiwan,NA,North Pacific,NW Pacific,21.535,120.801666666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0865,Taiwan,Taiwan,NA,North Pacific,NW Pacific,24.585,122.096666666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0866,Taiwan,Taiwan,NA,North Pacific,NW Pacific,24.93,122.095,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0867,Taiwan,Taiwan,NA,North Pacific,NW Pacific,24.2616666666666,122.193333333333,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0868,Panama,Panama,NA,North Pacific,NE Pacific,5.81666666666666,-78.8666666666666,Exact,NA,NA,cherisse.persad@gmail.com,NA,Pacific,NA
+SITE0869,"Nile fan, off Egypt","Nile fan, off Egypt",NA,Mediterranean Sea,E Mediterranean,32.5347222222222,30.3563888888888,Exact,NA,NA,jmalfarolucas@gmail.com,Mediterranean Sea,Mediterranean,NA
+SITE0870,Mèknes and Darwin mud volcano,Mèknes and Darwin mud volcano,NA,North Atlantic,NE Atlantic,34.98485,-7.07373333333333,Exact,NA,NA,cherisse.persad@gmail.com,North Atlantic,Atlantic,NA
+SITE0871,"Rio de Janeiro, Brazil","Rio de Janeiro, Brazil",NA,South Atlantic,SW Atlantic,-25.3383333333333,-39.6411666666666,Exact,NA,NA,cherisse.persad@gmail.com,South Atlantic,Atlantic,NA
+SITE0872,"Osterfjorden, Norway","Osterfjorden, Norway",NA,North Atlantic,NE Atlantic,60.5818588647682,5.43063372611999,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0873,Clarion-Clipperton Zone,Clarion-Clipperton Zone,NA,North Pacific,NE Pacific,14.03427,-130.09405,Unknown,NA,NA,cherisse.persad@gmail.com,North Pacific,Pacific,NA
+SITE0874,"Monterey Bay, CA, USA",off MBARI,NA,North Pacific,NE Pacific,36.154098,-122.40852,Exact,NA,NA,jmalfarolucas@gmail.com,North Pacific,Pacific,NA
+SITE0875,"Espirito Santo, Brazil","Espirito Santo, Brazil",NA,South Atlantic,SW Atlantic,-21.4501666666666,-39.8965,Exact,NA,NA,cherisse.persad@gmail.com,South Atlantic,Atlantic,NA
+SITE0876,"São Paulo, Brazil","São Paulo, Brazil",NA,South Atlantic,SW Atlantic,-25.894,-45.0483333333333,Exact,NA,NA,cherisse.persad@gmail.com,South Atlantic,Atlantic,NA
+SITE0877,"Espirito Santo, Brazil","Espirito Santo, Brazil",NA,South Atlantic,SW Atlantic,-22.8408333333333,-38.4163333333333,Exact,NA,NA,cherisse.persad@gmail.com,South Atlantic,Atlantic,NA
+SITE0878,"São Paulo, Brazil","São Paulo, Brazil",NA,South Atlantic,SW Atlantic,-28.0285,-43.5296666666666,Exact,NA,NA,cherisse.persad@gmail.com,NA,Atlantic,NA
+SITE0879,"Monterey Bay, CA, USA",off MBARI,NA,North Pacific,NE Pacific,36.26128,-122.677983333333,Exact,NA,NA,cherisse.persad@gmail.com,North Pacific,Pacific,NA
+SITE0880,Lucky Strike vent field,Lucky Strike vent field,NA,North Atlantic,North Atlantic,37.2911666666666,-32.28,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0881,Lucky Strike vent field,Lucky Strike vent field,NA,North Atlantic,North Atlantic,37.2886666666666,-32.2755,Exact,NA,NA,cherisse.persad@gmail.com,North Atlantic,Atlantic,NA
+SITE0882,Lucky Strike vent field,Lucky Strike vent field,NA,North Atlantic,North Atlantic,37.288635,-32.2755516666666,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0883,Lucky Strike vent field,Lucky Strike vent field,NA,North Atlantic,North Atlantic,37.2887,-32.2755,Exact,NA,NA,jmalfarolucas@gmail.com,North Atlantic,Atlantic,NA
+SITE0884,"Hakon Mosby mud volcano, Norway","Hakon Mosby mud volcano, Norway",NA,Arctic,Arctic,72.0065,14.72733,Exact,NA,NA,jmalfarolucas@gmail.com,Arctic,Arctic,NA
+SITE0885,"Hakon Mosby mud volcano, Norway","Hakon Mosby mud volcano, Norway",NA,Arctic,Arctic,72.0063,14.7182616666666,Exact,NA,NA,jmalfarolucas@gmail.com,Arctic,Arctic,NA
+SITE0886,Sagami Bay KM-ROV dive #149 branch-like plant debris,"Sagami Bay, Japan",NA,North Pacific,NW Pacific,35.01595,139.222183333333,Exact,NA,NA,cherisse.persad@gmail.com,North Pacific,Pacific,NA
+SITE0887,Shoho Seamount wood fall — 2042 m (Hookabe 2022),"Shoho seamount, off Japan",Japan,North Pacific,NW Pacific,32.3475666666666,138.657866666666,Exact,NA,NA,cherisse.persad@gmail.com,North Pacific,Pacific,NA
+SITE0888,Fiji Basin,Fiji Basin,NA,South Pacific,SWPacific,-16.9913333333333,173.914833333333,Exact,NA,NA,jmalfarolucas@gmail.com,South Pacific,Pacific,NA
+SITE0889,Santa Cruz Basin,Santa Cruz Basin,NA,North Pacific,NE Pacific,33.493,-119.367666666666,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Pacific,NA
+SITE0890,Santa Catalina Basin (NE Pacific Ocean),Santa Catalina Basin (NE Pacific Ocean),NA,NA,NA,33.2,-118.5,Exact,NA,NA,cherisse.persad@gmail.com,NA,Pacific,NA
+SITE0891,San Nicolás Slope (NE Pacific Ocean),San Nicolás Slope (NE Pacific Ocean),NA,NA,NA,33.3333333333333,-119.983333333333,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Pacific,NA
+SITE0892,San Clemente Basin (NE Pacific Ocean),San Clemente Basin (NE Pacific Ocean),NA,NA,NA,32.4333333333333,-118.15,Exact,NA,NA,cherisse.persad@gmail.com,NA,Pacific,NA
+SITE0893,San Diego Trough (NE Pacific Ocean),San Diego Trough (NE Pacific Ocean),NA,NA,NA,32.5833333333333,-117.5,Exact,NA,NA,cherisse.persad@gmail.com,NA,Pacific,NA
+SITE0894,Santa Cruz Basin (NE Pacific Ocean),Santa Cruz Basin (NE Pacific Ocean),NA,NA,NA,33.5,-119.366666666666,Exact,NA,NA,cherisse.persad@gmail.com,NA,Pacific,NA
+SITE0895,Torishima Seamount (NW Pacific Ocean),Torishima Seamount (NW Pacific Ocean),NA,NA,NA,30.9241666666666,141.828666666666,Exact,NA,NA,cherisse.persad@gmail.com,NA,Pacific,NA
+SITE0896,Monterey Canyon (NE Pacific Ocean),Monterrey Canyon (NE Pacific Ocean),NA,NA,NA,36.6101,-122.435366666666,Exact,NA,NA,cherisse.persad@gmail.com,NA,Pacific,NA
+SITE0897,British Columbia (NE Pacific Ocean),British Columbia (NE Pacific Ocean),NA,NA,NA,48.6754388888888,-126.0899,Exact,NA,NA,cherisse.persad@gmail.com,NA,Pacific,NA
+SITE0898,South Sandwich Arc (Southern Ocean),South Sandwich Arc (Southern Ocean),NA,NA,NA,-59.6945166666666,-28.3514833333333,Exact,NA,NA,cherisse.persad@gmail.com,NA,Southern,NA
+SITE0899,Monterey Canyon (NE Pacific Ocean),Monterrey Canyon (NE Pacific Ocean),NA,NA,NA,36.79,-121.887,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Pacific,NA
+SITE0900,Monterey Canyon (NE Pacific Ocean),Monterrey Canyon (NE Pacific Ocean),NA,NA,NA,36.802,-121.994,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Pacific,NA
+SITE0901,Monterey Canyon (NE Pacific Ocean),Monterrey Canyon (NE Pacific Ocean),NA,North Pacific,NE Pacific,36.772,-122.083,Exact,coordinates confirmed for Braby et al. (2007) Whale 1018.,NA,cherisse.persad@gmail.com,NA,Pacific,NA
+SITE0902,Monterey Canyon (NE Pacific Ocean),Monterrey Canyon (NE Pacific Ocean),NA,NA,NA,36.708,-122.105,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Pacific,NA
+SITE0903,São Paulo Ridge (SW Atlantic Ocean),São Paulo Ridge (SW Atlantic Ocean),NA,NA,NA,-28.5186516666666,-41.6568283333333,Exact,NA,NA,cherisse.persad@gmail.com,NA,Atlantic,NA
+SITE0904,Catalina Basin (NE Pacific),Catalina Basin (NE Pacific),NA,NA,NA,33.2,-118.5,Exact,NA,NA,cherisse.persad@gmail.com,NA,Pacific,NA
+SITE0905,Monterey Bay off Santa Cruz (NE Pacific Ocean),Monterrey Bay off Santa Cruz (NE Pacific Ocean),NA,NA,NA,36.94,-122.631666666666,Exact,NA,NA,cherisse.persad@gmail.com,NA,Pacific,NA
+SITE0906,Monterey Bay off Point Sur (NE Pacific Ocean),Monterrey Bay off Point Sur (NE Pacific Ocean),NA,NA,NA,36.2933333333333,-122.203333333333,Exact,NA,NA,cherisse.persad@gmail.com,NA,Pacific,NA
+SITE0907,Monterey Point Lobos (NE Pacific Ocean),Monterrey Point Lobos (NE Pacific Ocean),NA,NA,NA,36.4366666666666,-122.263333333333,Exact,NA,NA,cherisse.persad@gmail.com,NA,Pacific,NA
+SITE0908,off Bay of Biscay (NE Atlantic),off Bay of Biscay (NE Atlantic),NA,NA,NA,NA,NA,Unknown,NA,NA,jmalfarolucas@gmail.com,NA,Atlantic,NA
+SITE0909,off Bastia (Corsica) Mediterranean,off Bastia (Corsica) Mediterranean,NA,NA,NA,NA,NA,Unknown,NA,NA,jmalfarolucas@gmail.com,NA,Mediterranean,NA
+SITE0910,Porcupine Seabight (NE Atlantic),Porcupine Seabight (NE Atlantic),NA,NA,NA,49.9983333333333,-14.3183333333333,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Atlantic,NA
+SITE0911,Porcupine Seabight (NE Atlantic),Porcupine Seabight (NE Atlantic),NA,NA,NA,50.0016666666666,-14.3216666666666,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Atlantic,NA
+SITE0912,Porcupine Abyssal Plain,Porcupine Abyssal Plain,NA,NA,NA,48.6016666666666,-16.1666666666666,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Atlantic,NA
+SITE0913,Porcupine Seabight (NE Atlantic),Porcupine Seabight (NE Atlantic),NA,NA,NA,50.0169444444444,-13.285,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Atlantic,NA
+SITE0914,Porcupine Seabight (NE Atlantic),Porcupine Seabight (NE Atlantic),NA,NA,NA,49.9833333333333,-13.5497222222222,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Atlantic,NA
+SITE0915,off Cape Nomamisaki (Japan),off Cape Nomamisaki (Japan),NA,NA,NA,31.39775,129.979433333333,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Pacific,NA
+SITE0916,off Cape Nomamisaki (Japan),off Cape Nomamisaki (Japan),NA,NA,NA,31.3499666666666,129.985966666666,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Pacific,NA
+SITE0917,off Cape Nomamisaki (Japan),off Cape Nomamisaki (Japan),NA,NA,NA,31.3453333333333,129.988083333333,Exact,NA,NA,cherisse.persad@gmail.com,NA,Pacific,NA
+SITE0918,off Cape Nomamisaki (Japan),off Cape Nomamisaki (Japan),NA,NA,NA,31.3140666666666,129.992,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Pacific,NA
+SITE0919,off Cape Nomamisaki (Japan),off Cape Nomamisaki (Japan),NA,NA,NA,31.3085833333333,129.989566666666,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Pacific,NA
+SITE0920,Big Pelis Island (Russia),Big Pelis Island (Russia),NA,NA,NA,42.67158333333333,131.44558333333333,Interpreted primary coordinate,"coordinate interpreted from malformed Pavlyuk et al. primary notation as 42°40.295'N, 131°26.735'E; independently consistent with Bolshoy Pelis Island locality (~42.66 N, 131.46 E).",NA,cherisse.persad@gmail.com,NA,Pacific,NA
+SITE0921,"off Sète, Lion Gulf, Mediterranean","off Sète, Lion Gulf, Mediterranean",NA,NA,NA,NA,NA,Unknown,NA,NA,jmalfarolucas@gmail.com,NA,Mediterranean,NA
+SITE0922,Bransfield strait (Antarctica),Bransfield strait (Antarctica),NA,NA,NA,-63.183,-61.636,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Southern,"Southern Ocean. Latitude/longitude are transposed in the original record; the site coordinates are 63.183°S, 61.636°W, consistent with the Smith Island/Bransfield Strait locality."
+SITE0923,off Anvers Island (Antartica),off Anvers Island (Antartica),NA,NA,NA,-64.1181666666666,-66.5823333333333,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Southern,NA
+SITE0924,Angola basin (SE Atlantic Ocean),Angola basin (SE Atlantic Ocean),NA,NA,NA,-7.790696,12.102554,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Atlantic,NA
+SITE0925,Angola basin (SE Atlantic Ocean),Angola basin (SE Atlantic Ocean),NA,NA,NA,-7.803794,12.104504,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Atlantic,NA
+SITE0926,Angola basin (SE Atlantic Ocean),Angola basin (SE Atlantic Ocean),NA,NA,NA,-7.802029,12.090473,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Atlantic,NA
+SITE0927,Angola basin (SE Atlantic Ocean),Angola basin (SE Atlantic Ocean),NA,NA,NA,-7.803577,12.106118,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Atlantic,NA
+SITE0928,off São Paulo (SW Atlantic),off São Paulo (SW Atlantic),NA,NA,NA,-25.894,-45.0483333333333,Exact,NA,NA,cherisse.persad@gmail.com,NA,Atlantic,NA
+SITE0929,off São Paulo (SW Atlantic),off São Paulo (SW Atlantic),NA,NA,NA,-28.0285,-43.5296666666666,Exact,NA,NA,cherisse.persad@gmail.com,NA,Atlantic,NA
+SITE0930,off Rio de Janeiro (SW Atlantic),off Rio de Janeiro (SW Atlantic),NA,NA,NA,-25.3383333333333,-39.6411666666666,Exact,NA,NA,cherisse.persad@gmail.com,NA,Atlantic,NA
+SITE0931,off Espirito Santo (SW Atlantic),off Espirito Santo (SW Atlantic),NA,NA,NA,-21.4501666666666,-39.8965,Exact,NA,NA,cherisse.persad@gmail.com,NA,Atlantic,NA
+SITE0932,off Espirito Santo (SW Atlantic),off Espirito Santo (SW Atlantic),NA,NA,NA,-22.8408333333333,-38.4163333333333,Exact,NA,NA,cherisse.persad@gmail.com,NA,Atlantic,NA
+SITE0933,off Santos (SW Atlantic),off Santos (SW Atlantic),NA,NA,NA,-26.6,-46.15,Exact,NA,NA,cherisse.persad@gmail.com,NA,Atlantic,NA
+SITE0934,Lucky Strike (NE Atlantic),Lucky Strike (NE Atlantic),NA,NA,NA,37.2886666666666,-32.2755,Exact,NA,NA,cherisse.persad@gmail.com,NA,Atlantic,NA
+SITE0935,Gulf of Mexico,Gulf of Mexico,NA,NA,NA,27.1356,-89.9269,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Atlantic,NA
+SITE0936,Gulf of Mexico,Gulf of Mexico,NA,NA,NA,27.3126,-88.927,Exact,NA,NA,cherisse.persad@gmail.com,NA,Atlantic,NA
+SITE0937,Gulf of Mexico,Gulf of Mexico,NA,NA,NA,28.1032,-88.4516,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Atlantic,NA
+SITE0938,Gulf of San Jorge (SW Atlantic),Gulf of San Jorge (SW Atlantic),NA,NA,NA,-46.1666666666666,-61.8333333333333,Exact,NA,NA,cherisse.persad@gmail.com,NA,Atlantic,NA
+SITE0939,Hausgarten observatory,Hausgarten observatory,NA,NA,NA,79.075,4.10833333333333,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Arctic,NA
+SITE0940,Hausgarten observatory,Hausgarten observatory,NA,NA,NA,79.0933333333333,3.13166666666666,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Arctic,NA
+SITE0941,Capraia Island (Tuscan Archepelago),Capraia Island (Tuscan Archepelago),NA,NA,NA,NA,NA,Unknown,NA,NA,jmalfarolucas@gmail.com,NA,Mediterranean,NA
+SITE0942,off Dingle Bay (Ireland),off Dingle Bay (Ireland),NA,NA,NA,NA,NA,Unknown,NA,NA,jmalfarolucas@gmail.com,NA,Atlantic,NA
+SITE0943,150 miles off NE Aberdeen (North Sea),150 miles off NE Aberdeen (North Sea),NA,NA,NA,57,6.5,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Atlantic,NA
+SITE0944,20 miles off NW Fair Isle,20 miles off NW Fair Isle,NA,NA,NA,NA,NA,Unknown,NA,NA,jmalfarolucas@gmail.com,NA,Atlantic,"Fair Isle, Scotland, assigned to the Atlantic basin."
+SITE0945,Bjørnafjord south of Bergen (Norway),Bjørnafjord south of Bergen (Norway),NA,NA,NA,60.1842931666666,5.50879628,Exact,NA,NA,cherisse.persad@gmail.com,NA,Atlantic,NA
+SITE0946,"Whalers Bay, Deception Island (South Shetland Islands, Antarctica)","Whalers Bay, Deception Island (South Shetland Islands, Antarctica)",NA,NA,NA,-62.9899166666666,-60.5613888888888,Exact,NA,NA,cherisse.persad@gmail.com,NA,Southern,NA
+SITE0947,head of Blanes canyon (Mediterranean Sea),head of Blanes canyon (Mediterranean Sea),NA,NA,NA,41.6709722222222,2.8898,Exact,NA,NA,cherisse.persad@gmail.com,NA,Mediterranean,NA
+SITE0948,"Whalers Bay, Deception Island (South Shetland Islands, Antarctica)","Whalers Bay, Deception Island (South Shetland Islands, Antarctica)",NA,NA,NA,-62.9888333333333,-60.5575,Exact,NA,NA,cherisse.persad@gmail.com,NA,Southern,NA
+SITE0949,"Colatinas, Deception Island (South Shetland Islands, Antarctica)","Colatinas, Deception Island (South Shetland Islands, Antarctica)",NA,NA,NA,-62.9913666666666,-60.61825,Exact,NA,NA,cherisse.persad@gmail.com,NA,Southern,NA
+SITE0950,Gascogne Gulf (NE Atlantic),Gascogne Gulf (NE Atlantic),NA,NA,NA,47.0333333333333,-4.68333333333333,Exact,NA,NA,cherisse.persad@gmail.com,NA,Atlantic,NA
+SITE0951,Saanich Inlet (Canada),Saanich Inlet (Canada),NA,NA,NA,48.650665,-123.485958333333,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Pacific,NA
+SITE0952,Saanich Inlet (Canada),Saanich Inlet (Canada),NA,NA,NA,48.6507466666666,-123.486076666666,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Pacific,NA
+SITE0953,Saanich Inlet (Canada),Saanich Inlet (Canada),NA,NA,NA,48.6513816666666,-123.486781666666,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Pacific,NA
+SITE0954,Strait of Georgia (Canada),Strait of Georgia (Canada),NA,NA,NA,49.0400383333333,-123.425486666666,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Pacific,NA
+SITE0955,Strait of Georgia (Canada),Strait of Georgia (Canada),NA,NA,NA,49.0397416666666,-123.426016666666,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Pacific,NA
+SITE0956,western Arabian Sea,western Arabian Sea,NA,NA,NA,16.2,60.2666666666666,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Indian,NA
+SITE0957,western Arabian Sea,western Arabian Sea,NA,NA,NA,16.1666666666666,59.75,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Indian,NA
+SITE0958,Sagami Bay (Japan),Sagami Bay (Japan),NA,NA,NA,35.0929333333333,139.171183333333,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Pacific,NA
+SITE0959,"Oﬀ Mocha Island, Chile","Oﬀ Mocha Island, Chile",NA,NA,NA,-38.2,-74.2,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Pacific,NA
+SITE0960,"Oﬀ Bay of Mejillones, Chile","Oﬀ Bay of Mejillones, Chile",NA,NA,NA,-22.85,-70.4833333333333,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Pacific,NA
+SITE0961,"Oﬀ Pichilemu, Chile","Oﬀ Pichilemu, Chile",NA,NA,NA,-34.4333333333333,-72.1666666666666,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Pacific,NA
+SITE0962,"Oﬀ Arica, Chile","Oﬀ Arica, Chile",NA,NA,NA,-18.4833333333333,-70.5333333333333,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Pacific,NA
+SITE0963,"Oﬀ Punta Pichalo, Chile","Oﬀ Punta Pichalo, Chile",NA,NA,NA,-19.5833333333333,-70.35,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Pacific,NA
+SITE0964,Vanuatu,Santo Island (Vanuatu),NA,NA,NA,-15.704,167.0435,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Pacific,Vanuatu experimental site. Latitude is 15.7040°S; longitude 167.0435°E. Coordinates reported by Lorion et al. (2009).
+SITE0965,Longqi vent field on the Southwest Indian Ridge,Longqi vent field on the Southwest Indian Ridge,NA,NA,NA,-37.78355,49.64475,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Indian,"Indian Ocean. Latitude/longitude are transposed in the original record; the site coordinates are 37.78355°S, 49.64475°E, consistent with Longqi on the Southwest Indian Ridge."
+SITE0966,Monterey Canyon (NE Pacific Ocean),Monterrey Canyon (NE Pacific Ocean),NA,NA,NA,36.608544,-122.156694,Exact,NA,NA,cherisse.persad@gmail.com,NA,Pacific,NA
+SITE0967,"off Cape of Good Hope, South Africa","off Cape of Good Hope, South Africa",NA,NA,NA,NA,NA,Unknown,NA,NA,jmalfarolucas@gmail.com,NA,Atlantic,Cape of Good Hope locality assigned to the Atlantic basin; the oceanographic Atlantic–Indian boundary lies farther east at Cape Agulhas.
+SITE0968,off South Africa,off South Africa,NA,NA,NA,NA,NA,Unknown,NA,NA,jmalfarolucas@gmail.com,NA,NA,The inherited locality 'off South Africa' has no coordinates and does not distinguish Atlantic from Indian Ocean waters. The broad-basin assignment remains unresolved.
+SITE0969,Alaska,Alaska,NA,NA,NA,NA,NA,Unknown,NA,NA,jmalfarolucas@gmail.com,NA,NA,The inherited locality 'Alaska' has no coordinates and does not distinguish Pacific from Arctic waters. The broad-basin assignment remains unresolved.
+SITE0970,Clarion-Clipperton Zone (NE Pacific Ocean),Clarion-Clipperton Zone (NE Pacific Ocean),NA,NA,NA,NA,NA,Unknown,NA,NA,jmalfarolucas@gmail.com,NA,Pacific,NA
+SITE0971,North Azores (Portugal) (Station 1416),North Azores (Portugal) (Station 1416),NA,NA,NA,42.8333333333333,-28.6291666666666,Exact,NA,NA,cherisse.persad@gmail.com,NA,Atlantic,NA
+SITE0972,Weijia Guyot (China),Weijia Guyot (China),NA,NA,NA,12.716915,156.453428333333,Exact,NA,NA,cherisse.persad@gmail.com,NA,Pacific,NA
+SITE0973,Weijia Guyot (China),Weijia Guyot (China),NA,NA,NA,12.9493333333333,156.954166666666,Exact,NA,NA,cherisse.persad@gmail.com,NA,Pacific,NA
+SITE0974,"Blanes coast, Catalonia","Mediterranean Sea, Blanes (Catalonia)",NA,Mediterranean Sea,W Mediterranean,41.6756,2.81398333333333,Exact,"Taboada et al. (2015/2016) report Mediterranean coast of Blanes, 41°40.536'N, 2°48.839'E; experimental bones deployed at about 20 m.",NA,cherisse.persad@gmail.com,Mediterranean Sea,Mediterranean,NA
+SITE0975,Sagami Bay (Japan),Sagami Bay (Japan),NA,NA,NA,35.05,139.13,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Pacific,NA
+SITE0976,Sagami Bay (Japan),Sagami Bay (Japan),NA,NA,NA,35.0833333333,139.2166666667,Exact,NA,NA,jmalfarolucas@gmail.com,NA,Pacific,"Sagami Bay whale-bone record at 925 m. Coordinates are 35°05′N, 139°13′E in Rouse et al. (2018), which cites the Pradillon et al. unpublished material. This is distinct from the 492 m implanted sperm-whale carcass studied by Aguzzi et al. (2018)."
+SITE0977,NW Pacific abyssal plain east of Ogasawara Trench,abyssal plain ~150 km east of Ogasawara Trench axis,NA,North Pacific,NW Pacific,32.57843333333334,143.7689,Exact,NA,NA,cherisse.persad@gmail.com,North Pacific,Pacific,NA
+SITE0978,East China Sea sunken wood,East China Sea,NA,North Pacific,NW Pacific,30.7,127.8,Approximate / source decimal,NA,NA,cherisse.persad@gmail.com,North Pacific,Pacific,NA
+SITE0979,"Mound 11, Costa Rica","Mound 11, Costa Rica",NA,Pacific Ocean,Eastern Pacific,8.9221,-84.3045,Exact,NA,NA,cherisse.persad@gmail.com,Pacific Ocean,Pacific,NA
+SITE0980,"Mound 12, Costa Rica","Mound 12, Costa Rica",NA,Pacific Ocean,Eastern Pacific,8.9297,-84.3115,Exact,NA,NA,cherisse.persad@gmail.com,Pacific Ocean,Pacific,NA
+SITE0981,"Mound 12, Costa Rica","Mound 12, Costa Rica",NA,Pacific Ocean,Eastern Pacific,8.9306,-84.3124,Exact,NA,NA,cherisse.persad@gmail.com,Pacific Ocean,Pacific,NA
+SITE0982,"Mound 12, Costa Rica","Mound 12, Costa Rica",NA,Pacific Ocean,Eastern Pacific,8.9325,-84.3074,Exact,NA,NA,cherisse.persad@gmail.com,Pacific Ocean,Pacific,NA
+SITE0983,"Mound 12, Costa Rica","Mound 12, Costa Rica",NA,Pacific Ocean,Eastern Pacific,8.93,-84.3117,Exact,NA,NA,cherisse.persad@gmail.com,Pacific Ocean,Pacific,NA
+SITE0984,"Jaco Scar, Costa Rica","Jaco Scar, Costa Rica",NA,Pacific Ocean,Eastern Pacific,9.1262,-84.8384,Exact,NA,NA,cherisse.persad@gmail.com,Pacific Ocean,Pacific,NA
+SITE0985,"Seamount 2, Costa Rica","Seamount 2, Costa Rica",NA,Pacific Ocean,Eastern Pacific,8.8003,-85.1899,Exact,NA,NA,cherisse.persad@gmail.com,Pacific Ocean,Pacific,NA
+SITE0986,"Jaco Scar, Costa Rica","Jaco Scar, Costa Rica",NA,Pacific Ocean,Eastern Pacific,9.1146,-84.8356,Exact,NA,NA,cherisse.persad@gmail.com,Pacific Ocean,Pacific,NA
+SITE0987,"Jaco Scar, Costa Rica","Jaco Scar, Costa Rica",NA,Pacific Ocean,Eastern Pacific,9.1151,-84.8398,Exact,NA,NA,cherisse.persad@gmail.com,Pacific Ocean,Pacific,NA
+SITE0988,"Tamayo Fracture Zone, Gulf of California","Tamayo Fracture Zone, Gulf of California",NA,Pacific Ocean,Eastern Pacific,22.9628,-108.1576,Exact,NA,NA,cherisse.persad@gmail.com,Pacific Ocean,Pacific,NA
+SITE0989,"CCFZ IFREMER East, Station 161","Clarion Clipperton Fracture Zone, IFREMER licence area, St.161",NA,North Pacific,Eastern Equatorial Pacific / CCFZ,14.0345,-130.09333333333333,Exact,NA,NA,cherisse.persad@gmail.com,North Pacific,Pacific,NA
+SITE0990,Northern Gulf of Mexico wood-type experiment,northern Gulf of Mexico,United States,North Atlantic,Gulf of Mexico,28.81364194,-87.82033444,Exact,NA,NA,cherisse.persad@gmail.com,North Atlantic,Atlantic,NA
+SITE0991,"off Byron Bay, New South Wales",Byron Bay area,Australia,South Pacific,SW Pacific / eastern Australia,-28.075000000000003,154.08,Trawl range midpoint,NA,NA,cherisse.persad@gmail.com,South Pacific,Pacific,NA
+SITE0992,"Palmer Deep, Western Antarctic Peninsula","northeastern finger of Palmer Canyon, within Palmer Deep",NA,Southern Ocean,Western Antarctic Peninsula,-64.84166666666667,-64.15333333333334,Exact,NA,NA,cherisse.persad@gmail.com,Southern Ocean,Southern,NA
+SITE0993,"Off Owase, Sea of Kumano","off Owase, Sea of Kumano, Japan",Japan,North Pacific,Sea of Kumano,34.11361111111111,136.50972222222222,Approximate source coordinate,NA,NA,cherisse.persad@gmail.com,North Pacific,Pacific,NA
+SITE0994,"Off Kumano, Sea of Kumano","off Kumano, Sea of Kumano, Japan",Japan,North Pacific,Sea of Kumano,33.87177777777778,136.19855555555557,Exact source coordinate,NA,NA,cherisse.persad@gmail.com,North Pacific,Pacific,NA
+SITE0995,NORI-D eastern Clarion-Clipperton Zone wood fall,"NORI-D exploration contract area, eastern Clarion-Clipperton Zone",NA,North Pacific,Clarion-Clipperton Zone,10.325556666666667,-117.17089666666666,Exact source coordinate,NA,NA,cherisse.persad@gmail.com,North Pacific,Pacific,NA
+SITE0996,Zhongnan Seamount northern slope,"northern slope of Zhongnan seamount, South China Sea",NA,North Pacific,South China Sea,14.019430555555555,115.5016,Exact source coordinate,NA,NA,cherisse.persad@gmail.com,North Pacific,Pacific,NA
+SITE0997,"Off Owase, Mie, 330 m","off the coast of Owase, Mie, Japan",Japan,North Pacific,Kumano-nada / off Owase,34.016666666666666,136.36666666666667,Source coordinate to whole arcminute,NA,NA,cherisse.persad@gmail.com,North Pacific,Pacific,NA
+SITE0998,Northern Gulf of Mexico 24-log wood experiment,northern Gulf of Mexico experimental site,United States EEZ,North Atlantic,Gulf of Mexico,27.135,-89.924,Source decimal coordinate,NA,NA,cherisse.persad@gmail.com,North Atlantic,Atlantic,NA
+SITE0999,BioSuOr RJ1500 unrecovered lander,"RJ1500, Campos Basin, Brazilian margin",Brazil EEZ,South Atlantic,SW Atlantic / Campos Basin,-24,-41.5,Supplementary coordinate to whole arcminute,NA,NA,cherisse.persad@gmail.com,NA,Atlantic,NA
+SITE1000,Diamantina Zone WF1 — Dordrecht Deep,Diamantina Zone WF1 — Dordrecht Deep,NA,Indian Ocean,Southern Indian Ocean / Diamantina Zone,-33.4662,101.5553,Source decimal coordinate (Supplementary Table 1),NA,NA,cherisse.persad@gmail.com,Indian Ocean,Indian,NA
+SITE1001,Diamantina Zone WF2,Diamantina Zone WF2,NA,Indian Ocean,Southern Indian Ocean / Diamantina Zone,-32.502,96.5286,Source decimal coordinate (Supplementary Table 1),NA,NA,cherisse.persad@gmail.com,Indian Ocean,Indian,NA
+SITE1002,Diamantina Zone WF3,Diamantina Zone WF3,NA,Indian Ocean,Southern Indian Ocean / Diamantina Zone,-32.8059,96.2777,Source decimal coordinate (Supplementary Table 1),NA,NA,cherisse.persad@gmail.com,Indian Ocean,Indian,NA
+SITE1003,Diamantina Zone WF4,Diamantina Zone WF4,NA,Indian Ocean,Southern Indian Ocean / Diamantina Zone,-32.6983,98.5612,Source decimal coordinate (Supplementary Table 1),NA,NA,cherisse.persad@gmail.com,Indian Ocean,Indian,NA
+SITE1004,Diamantina Zone WF5,Diamantina Zone WF5,NA,Indian Ocean,Southern Indian Ocean / Diamantina Zone,-32.7121,98.5722,Source decimal coordinate (Supplementary Table 1),NA,NA,cherisse.persad@gmail.com,Indian Ocean,Indian,NA
+SITE1005,Hood Canyon — SuBastian dive S0315,Hood Canyon - dive 315,Australia EEZ,Indian Ocean,SW Australia / Bremer Canyon system,-34.74,119.66,Source coordinate to 0.01°,NA,NA,cherisse.persad@gmail.com,Indian Ocean,Indian,NA
+SITE1006,Hood Canyon — SuBastian dive S0323,Hood Canyon - dive 323,Australia EEZ,Indian Ocean,SW Australia / Bremer Canyon system,-34.76,119.63,Dive-track / bone coordinates to 0.01°,NA,NA,cherisse.persad@gmail.com,Indian Ocean,Indian,NA
+SITE1007,BioSuOr 550 m bovine-bone lander,BioSuOr 550 m lander locality,Brazil EEZ,South Atlantic,SW Atlantic / Santos Basin,-26.6037333333,-46.1525805556,Source DMS converted to decimal,NA,NA,cherisse.persad@gmail.com,NA,Atlantic,NA
+SITE1008,Pukaki Rise / Chatham Rise whale skull,"Pukaki Rise / Chatham Rise, SE of New Zealand",New Zealand,South Pacific,Southwest Pacific,-49.121,172.136,Exact,NA,NA,cherisse.persad@gmail.com,South Pacific,Pacific,NA
+SITE1009,Santa Cruz Basin — CRS 397,Santa Cruz Basin — CRS 397,USA,North Pacific,"Santa Cruz Basin, Southern California margin",33.4934,-119.3661167,Exact,NA,NA,cherisse.persad@gmail.com,North Pacific,Pacific,NA
+SITE1010,Santa Cruz Basin — CRS 800,Santa Cruz Basin — CRS 800,USA,North Pacific,"Santa Cruz Basin, Southern California margin",33.49405,-119.36845,Exact,NA,NA,cherisse.persad@gmail.com,North Pacific,Pacific,NA
+SITE1011,"Rosebud whale fall, off San Diego, California","Rosebud whale-fall, California, USA",United States,North Pacific,NE Pacific,32.7769,-117.4881,Exact,NA,NA,cherisse.persad@gmail.com,North Pacific,Pacific,NA
+SITE1012,"Pedro whale fall, near Channel Islands, California","Pedro whale-fall near Channel Islands, California, USA",United States,North Pacific,NE Pacific,33.7704,-119.5241,Exact,NA,NA,cherisse.persad@gmail.com,North Pacific,Pacific,NA
+SITE1013,"Pebbles whale fall, Monterey Submarine Canyon","Pebbles whale-fall, Monterey Submarine Canyon, Monterey Bay, California, USA",United States,North Pacific,NE Pacific,36.803,-121.9946,Exact,NA,NA,cherisse.persad@gmail.com,North Pacific,Pacific,NA
+SITE1014,Nile deep-sea fan Wood#6 fresh control,Wood#6 / W6,NA,Mediterranean Sea,Eastern Mediterranean / Nile deep-sea fan,32.53354,30.3532,Exact,NA,NA,cherisse.persad@gmail.com,Mediterranean Sea,Mediterranean,NA
+SITE1015,"CP4062, Bismarck Sea off Vanimo",CP4062,Papua New Guinea,South Pacific,Bismarck Sea,-2.6166667,141.3,Exact station coordinate,NA,NA,cherisse.persad@gmail.com,South Pacific,Pacific,NA
+SITE1016,"SO250-9, Kuril-Kamchatka slope",SO250-9,NA,North Pacific,Kuril-Kamchatka Trench/slope,43.8006833,151.7405333,Station range midpoint,NA,NA,cherisse.persad@gmail.com,North Pacific,Pacific,NA
+SITE1017,Johnston Atoll NA153 H1999 wood fall,NA153 H1999 / NA153-172-01-01-B-MCZ,United States Pacific Remote Islands,North Pacific,Central Pacific / Johnston Atoll,16.990982,-169.7693,Exact dive coordinate,NA,NA,cherisse.persad@gmail.com,North Pacific,Pacific,NA
+SITE1018,Shoho Seamount wood fall — 1901 m (Komai 2025),"Shoho Seamount, Nishi-Shichito Ridge",Japan,North Pacific,NW Pacific,32.3495,138.6563333333,Exact,NA,NA,cherisse.persad@gmail.com,North Pacific,Pacific,NA
+SITE1019,Oahu slope implanted whale bones,Oahu slope,NA,North Pacific,Central Pacific,21.35,-158.216667,Source-reported,NA,NA,cherisse.persad@gmail.com,NA,Pacific,Oahu lies in the central North Pacific.
